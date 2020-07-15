@@ -1,0 +1,54 @@
+---
+---
+
+$environnement: #478A26;
+$media: #DF2424;
+$societe: #FF6B00;
+$science: #60C0D7;
+$spiritualite: #8B3A89;
+$gray: #F5F5F5;
+
+$font-texte: Arial, Calibri, sans-serif;
+$font-title: 'whiskey_bite_v2regular';
+
+.environnement{background-color: $environnement;}
+.media{background-color: $media;}
+.societe{background-color: $societe;}
+
+@font-face {
+    font-family: 'whiskey_bite_v2regular';
+    src: url('/assets/fonts/whiskeybitev2-regular.woff') format('woff'),
+}
+
+body{font-family: $font-texte;}
+h1{color:$science;}
+h2{
+  font-family: $font-title;
+  font-size:2.7em;
+}
+
+.last{
+  background-color: $gray;
+  min-height: 25em;
+  .prez{padding:2em;}
+  .bg{
+  background-image: url('/assets/images/bande1.jpg');
+  background-repeat:no-repeat;
+  background-size: cover;
+  a.tag{
+  position:absolute;
+  bottom: 20px;
+  left:50%;
+    }
+  }
+}
+
+.tag{
+  border-radius: 20px;
+  padding:0.1em 0.5em 0.2em 0.5em;
+  color: #fff;
+  font-family: $font-title;
+  font-size:1.3em;
+  display: inline-block;
+  width: auto;
+}
