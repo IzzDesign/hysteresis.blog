@@ -1,76 +1,52 @@
 ---
 layout: default
 ---
-<h1></h1>
 
-<div class="container">
-  <div class="row">
-    <div class="col-sm">
-      <h2>À propos</h2>
-      <a href="">
-        <img src="/assets/images/bande1.jpg">
-        <h3 class="meta">Hystéresis</h3>
-        <p class="meta">You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the s... </p>
+<div class="body">
+    {% assign recent = site.posts.first %}
+    <div class="recent">
+      <a href="{{ recent.url }}" class="hover-cta">
+        <img src="{{ recent.img }}" class=" img-fluid">
+        <h2>{{ recent.title }}</h2>
       </a>
+        {% assign author = site.authors | where: 'name', recent.author | first %}
+        <p class="date">{{ recent.date | date: "%d/%m/%Y" }} par {% include author.html %}</p>
+        <p>{{ recent.excerpt }}</p>
+        {% for tag in recent.tags %}
+          <a href="" class="tag">{{ tag }}</a>
+        {% endfor %}
+        <a href="{{ recent.url }}" class="cta {{ recent.tags[0] }}">Lire l'article &rarr;</a>
     </div>
-    <div class="col-sm">
-      <h2>Sélection</h2>
-      <div class="row">
-        <div class="col-lg-3">
-          <a href="">
-            <img src="/assets/images/bande1.svg">
-          </a>
-        </div>
-        <div class="col-lg">
-          <a href="">
-            <h3>Article</h3>
-            <p>You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the s...</p>
-          </a>
-            <span class="date">12.04.2020</span>
-            <span class="tag">Environnement</span>
-        </div>
-      </div>
-    </div>
-  </div>
-  <div class="row last">
-    <div class="col-sm prez">
-      <a href=""><h2>Dernier article</h2></a>
-        <span class="date">12.04.2020</span>
-        <span class="tag">Environnement</span>
-        <p>You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the s...</p>
-    </div>
-    <div class="col-sm bg">
-      <a href="" class="tag">Lire plus</a>
-    </div>
-  </div>
-  <div class="row">
-    <div class="col-lg">
-      <h2>Articles</h2>
-        <div class="row">
-          {% for p in site.posts %}
-            <div class="col-lg-2">
-              <img src="/assets/images/{{ p.tags[0] }}.svg">
+    <div>
+      <a href=""><h2>Tous les articles</h2></a>
+      {% for p in site.posts offset:1 %}
+        <div>
+            <a href="{{ p.url }}"><h4 class="{{ p.classe }}">{{ p.title }}</h4></a>
+            <div class="date">{{ p.date | date: "%d/%m/%Y" }}</div>
+            <div class="contact">
+              {% assign author = site.authors | where: 'name', p.author | first %}
+              par {% include author.html %}
             </div>
-            <div class="col-lg-4">
-              <h3>{{ p.title }}</h3>
-              <div class="date">{{ p.date }}</div>
             {% for tag in p.tags %}
-              <a href="" class="tag {{ tag }}">{{ tag }}</a>
+              <a href="" class="tag">{{ tag }}</a>
             {% endfor %}
-              <p>{{ p.excerpt }}</p>
-              <div class="contact">
-                <img src="">
-                <span class="pseudo">Matthieu</span>
-              </div>
-            </div>
-          {% endfor %}
         </div>
+      {% endfor %}
     </div>
+  <div>
+    <div>
+      <h3 class="inline">À propos</h3>
+    </div>
+      {% include hysteresis.html %}
+      <p>Maecenas eu diam a leo porta interdum. In non massa quis odio feugiat sagittis. Quisque ac lorem. Maecenas ut sem sed ipsum suscipit malesuada. Nulla quis dui quis ante fermentum interdum. Proin eget est a augue vehicula mattis. Pellentesque sed nisi at nisi scelerisque iaculis. Phasellus orci. Nulla adipiscing. Suspendisse et leo vel elit ullamcorper gravida. Proin tempor, ligula ut tincidunt tempor, mauris nibh feugiat odio, nec tincidunt erat orci dictum purus. Etiam luctus odio. Aliquam adipiscing urna a felis. Quisque sed elit in eros aliquet ultrices. Donec at sem. Vestibulum cursus. Integer dolor. Vestibulum sit amet sem nec augue fermentum consectetuer. Integer justo. Vivamus vel sapien. Praesent nisl tortor, laoreet eu, dapibus quis, egestas non.</p>
   </div>
-
-  <div class="row">
-    <div class="col-lg">
-      <h2>Explorer</h2>
+    <div>
+      <h3><a href="">Tags</a></h3>
+      {% for tag in page.tags %}
+        <a href="" class="tag">{{ tag }}</a>
+      {% endfor %}
     </div>
+  <div class="col-lg">
+    <h3><a href="">Auteurs</a></h3>
   </div>
 </div>

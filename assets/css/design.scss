@@ -1,54 +1,171 @@
 ---
 ---
 
-$environnement: #478A26;
-$media: #DF2424;
-$societe: #FF6B00;
-$science: #60C0D7;
-$spiritualite: #8B3A89;
-$gray: #F5F5F5;
+$vert: #A5BE00;
+$vert-hover:#B9D30E;
+$rouge: #E94F37;
+$bleu: #427AA1;
+$bleu-hover:#1391C4;
+$bleu-clair: #60C0D7;
+$violet: #8B3A89;
+$violet-hover:#BE63BB;
+$gris: #B5B5B5;
+$gris2:#454545;
+$body-color: #626262;
+$hover-color: #272727;
+$degrade: linear-gradient(70deg, $vert, $bleu-clair, $bleu, $violet, $body-color);
 
-$font-texte: Arial, Calibri, sans-serif;
-$font-title: 'whiskey_bite_v2regular';
+$font-texte: 'Montserrat', sans-serif;
+$font-title: 'Oswald', sans-serif;
+$bold-title: 600;
+$regular-title: 400;
 
-.environnement{background-color: $environnement;}
-.media{background-color: $media;}
-.societe{background-color: $societe;}
-
-@font-face {
-    font-family: 'whiskey_bite_v2regular';
-    src: url('/assets/fonts/whiskeybitev2-regular.woff') format('woff'),
+body{
+  display: flex;
+  font-family: $font-texte;
+  flex-direction: column;
+  min-height: 100vh;
+  width: 960px;
+  margin: auto;
 }
 
-body{font-family: $font-texte;}
-h1{color:$science;}
-h2{
+.navbar-brand img{width: 60px;}
+.img-fluid{width: 100%;}
+
+p{color: $body-color;font-size: 1.2em;}
+h1,h2,h3,h4,h5{
   font-family: $font-title;
-  font-size:2.7em;
+  font-weight: 700;
+  color: #000;
 }
 
-.last{
-  background-color: $gray;
-  min-height: 25em;
-  .prez{padding:2em;}
-  .bg{
-  background-image: url('/assets/images/bande1.jpg');
-  background-repeat:no-repeat;
-  background-size: cover;
-  a.tag{
-  position:absolute;
-  bottom: 20px;
-  left:50%;
-    }
+.inline{
+  display: inline-block;
+}
+
+ a h2,a h3, h3,a h4,a h5{
+  background-image:
+   linear-gradient(
+     to bottom, $gris2 0%,
+     $gris2 100%
+   );
+  background-position: 0 100%;
+  background-repeat: repeat-x;
+  background-size: 5px 7px;
+  transition: all .2s ease-out;
+  display: inline;
+  margin-bottom: 1em;
+}
+
+h2{
+  font-weight: $bold-title;
+  font-size:3em;
+}
+h3{
+  font-size: 2.2em;
+  color: #000;
+  padding-bottom:0.2em;
+}
+h4{font-weight: $bold-title;color: #000;font-size: 1.8em;}
+
+a{
+  text-decoration: none;
+  color:$body-color;
+  &:hover{color: $hover-color;text-decoration: none;}
+}
+
+.category{
+  font-family: $font-texte;
+  text-transform: uppercase;
+  letter-spacing: 1em;
+  font-size: 0.8em;
+  margin-top: 1em;
+  color: $gris;
+}
+
+.icon-big{
+  width: 300px;
+  border-bottom: 2px solid #eee;
+  padding:0 5em 2em 5em;
+}
+
+.icon{
+  width: 60px;
+  display: block;
+}
+
+.link-title{
+    font-family: $font-title;
+    text-transform: uppercase;
+    letter-spacing: 0.6em;
+    font-size: 1em;
+    margin-top: 1em;
+    color: $gris2;
+    vertical-align: baseline;
+  &:before{
+    display: inline-block;
+    content: url('/assets/images/svg/ecrit.svg');
+    width: 60px;
+    padding-right:0.5em;
+  }
+}
+.author{}
+
+.navbar{
+  padding:1em;
+  
+  .navbar-brand{
+    float: left;
+    img{
+    height: 50px;
+    display: block;
+  }}
+}
+.navbar-brand{font-family: $font-title; font-size: 3em;}
+.navbar-expand-lg .navbar-collapse{padding-left: 4em;}
+.tag{
+  padding:0.1em 0.5em 0.2em 0.5em;
+  color: $gris2;
+  font-family: $font-texte;
+  font-size:1em;
+  display: inline-block;
+  width: auto;
+}
+.date{margin-top: 0.5em;}
+
+.explorer{
+  img{
+    width: 700px;
   }
 }
 
-.tag{
-  border-radius: 20px;
-  padding:0.1em 0.5em 0.2em 0.5em;
-  color: #fff;
-  font-family: $font-title;
-  font-size:1.3em;
-  display: inline-block;
-  width: auto;
+.hysteresis{
+  img{
+    width: 200px;
+    padding-right:1em;
+  }
+}
+
+.articles{
+  padding: 1em 0;
+  border-bottom: #eee 2px solid;
+  display: flex;
+  flex-direction: row;
+}
+.align-center{
+  display: grid;
+  align-items:center;
+}
+
+.profil{
+  margin-bottom:1em;
+  p{min-height:5em;}
+}
+
+footer{
+  border-top: #eee solid 2px;
+  margin-top: auto;
+  padding-top:0.5em;
+  img{height: 40px;}
+  flex-direction: row;
 }

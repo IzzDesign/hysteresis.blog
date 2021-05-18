@@ -1,0 +1,31 @@
+---
+layout: default
+---
+
+<div class="body">
+  <img src="{{ page.img }}" class="img-fluid">
+  <h2 class="{{ page.tags[0] }} color">{{ page.title }}</h2>
+    {% assign author = site.authors | where: 'name', page.author | first %}
+      <p>par {% include author.html %}</p>
+    <p class="date">{{ page.date | date: "%d/%m/%Y" }}</p>
+    <div class="tag">
+        <a href="" class="tag {{ page.tag }}">{{ page.tag }}</a>
+    </div>
+    {{ content }}
+    <div>
+      {% include hysteresis.html %}
+      {% for p in site.posts offset:1 %}
+        <div class="articles">
+            <a href="{{ p.url }}"><h5 class="{{ p.classe }}">{{ p.title }}</h5></a>
+            <div class="date">{{ p.date | date: "%d/%m/%Y" }}</div>
+            <div class="contact">
+              {% assign author = site.authors | where: 'name', p.author | first %}
+              par {% include author.html %}
+            </div>
+            {% for tag in p.tags %}
+              <a href="" class="tag {{ tag }}">{{ tag }}</a>
+            {% endfor %}
+        </div>
+      {% endfor %}
+    </div>
+</div>

@@ -1,0 +1,22 @@
+---
+layout: default
+---
+
+<div class="body">
+<div class="text-center">
+  <a href="/nouvelles/index-nouvelles.html"><img src="/assets/images/svg/ecrit.svg" class="img-fluid icon-big"></a>
+  <p class="category">Écrits et nouvelles</p>
+  <h2>{{ page.title }}</h2>
+  <p>par <a class="author" href="/auteurs/{{ page.author }}.html">{{ page.author }}</a></p>
+</div>
+  <p class="date">{{ page.date | date: "%d/%m/%Y" }}</p>
+  {{ content }}
+  <div>
+    <h4 class="link-title">Autres nouvelles</h4>
+    {% for n in site.pages %}
+      {% if n.layout == 'short-story' and page.title != n.title %}
+        <a href="{{ n.url }}"><h5>{{ n.title }}</h5></a>
+      {% endif %}
+    {% endfor %}
+  </div>
+</div>
