@@ -21,23 +21,13 @@ $bold-title: 600;
 $regular-title: 400;
 
 body{
-  display: flex;
   font-family: $font-texte;
+  display: flex;
   flex-direction: column;
   min-height: 100vh;
-  width: 48%;
-  margin: auto;
+  width: 960px;
+  justify-content: center;
 }
-
-.body{
-  display: flex;
-  flex-direction: column;
-}
-
-.text-center{text-align: center;}
-.navbar-brand img{width: 60px;}
-.img-fluid{width: 100%;}
-
 p{color: $body-color;font-size: 1.2em;}
 h1,h2,h3,h4,h5{
   font-family: $font-title;
