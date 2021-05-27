@@ -1,6 +1,6 @@
 {% assign author = site.authors | where: 'name', include.author_name | first %}
   <a class="profil-auteur" href="{{ author.url }}">
     <div class="round"></div>
-    <img src="/assets/images/profil/{{ author.name }}.png">
+    <img src="/assets/images/profil/{{ author.name|downcase }}.png">
     <p>{{ author.name }}</p>
   </a>
