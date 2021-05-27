@@ -2,4 +2,4 @@ plugins:
   - jekyll-sitemap
 
 collections:
-  - authors
+  - test
