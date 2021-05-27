@@ -24,8 +24,16 @@ body{
 p{
   color: $body-color;
   font-size: 1.2em;
+  margin-bottom: 1em;;
   &.mini{
     font-size: 0.9em;
+  }
+}
+
+.lettrine p:first-child{
+  &::first-letter{
+    font-size: 130%;
+    font-family: $font-title;
   }
 }
 
@@ -135,13 +143,6 @@ a h4{
     font-size: 1em;
     margin-top: 1em;
     color: $gris2;
-    vertical-align: baseline;
-  &:before{
-    display: inline-block;
-    content: url('/assets/images/svg/ecrit.svg');
-    width: 60px;
-    padding-right:0.5em;
-  }
 }
 
 .navbar{
