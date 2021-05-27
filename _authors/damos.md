@@ -1,5 +1,5 @@
 ---
-layout: writer
+layout: author
 name: Damos
-description: C'est un ADC de folie.
 ---
+C'est un ADC de folie.

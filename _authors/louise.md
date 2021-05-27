@@ -1,5 +1,5 @@
 ---
-layout: writer
+layout: author
 name: Louise
-description: Elle est trop chou (et beaucoup trop gentille).
 ---
+Elle est trop chou (et beaucoup trop gentille).
