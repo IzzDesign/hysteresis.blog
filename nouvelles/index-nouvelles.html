@@ -13,7 +13,7 @@ layout: default
         {% if n.layout == 'short-story' %}
           <div class="col-lg-4 nouvelles">
             <a href="{{ n.url }}"><h3>{{ n.title }}</h3></a>
-            <div class="date">{{ n.date | date: "%d/%m/%Y" }}</div>
+            <div class="date">{{ n.date }}</div>
             {% include author.html author_name=n.author %}
             <div class="tag-list">
               {% for tag in n.tags %}
