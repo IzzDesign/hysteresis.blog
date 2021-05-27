@@ -16,14 +16,14 @@ layout: default
           {% endfor %}
         </div>
         <p class="category">Auteur</p>
-        {% include author.html author_name=page.author %}
+        
       </div>
       <div class="lettrine">
         {{ content }}
       </div>
       <div class="center">
         <p class="category">Auteur</p>
-        {% include author.html author_name=page.author %}
+        
         <p class="category">Correcteur</p>
         {% include author.html author_name=page.correct %}
       </div>
@@ -34,21 +34,7 @@ layout: default
         <h4 class="link-title">Du même auteur</h4>
       </div>
         <div class="row">
-          {% assign nouvelles = site.pages | where: "layout", "short-story" | sort: "date" | reverse %}
-          {% for n in nouvelles limit: 3 %}
-            {% if page.title != n.title and page.author == n.author %}
-              <div class="col-lg-12 nouvelles">
-                <a href="{{ n.url }}"><h3>{{ n.title }}</h3></a>
-                <div class="date">{{ n.date | date: "%d/%m/%Y" }}</div>
-                {% include author.html author_name=n.author %}
-                <div class="tag-list">
-                  {% for tag in n.tags %}
-                    <a href="" class="tag">{{ tag }}</a>
-                  {% endfor %}
-                </div>
-              </div>
-            {% endif %}
-          {% endfor %}
+          
         </div>
     </div>
     <div class="col-lg-4">
@@ -57,21 +43,7 @@ layout: default
         <h4 class="link-title">Autres nouvelles</h4>
       </div>
         <div class="row">
-          {% assign nouvelles = site.pages | where: "layout", "short-story" | sort: "date" | reverse %}
-          {% for n in nouvelles limit: 3 %}
-            {% if page.title != n.title and page.author != n.author %}
-              <div class="col-lg-12 nouvelles">
-                <a href="{{ n.url }}"><h3>{{ n.title }}</h3></a>
-                <div class="date">{{ n.date | date: "%d/%m/%Y" }}</div>
-                {% include author.html author_name=n.author %}
-                <div class="tag-list">
-                  {% for tag in n.tags %}
-                    <a href="" class="tag">{{ tag }}</a>
-                  {% endfor %}
-                </div>
-              </div>
-            {% endif %}
-          {% endfor %}
+         
         </div>
     </div>
   </div>
