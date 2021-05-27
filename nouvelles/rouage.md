@@ -3,7 +3,7 @@ layout: short-story
 title: Rouage
 excerpt: Donec sagittis velit vel augue. Fusce in nisl vitae massa venenatis rhoncus. Praesent orci velit, lobortis eget, suscipit semper, congue eu, est. Quisque malesuada volutpat enim. Vestibulum leo sem, molestie a, mattis bibendum, feugiat facilisis, nisl. Nam scelerisque odio. Suspendisse fermentum faucibus felis. Praesent pharetra. In consequat felis in tellus. In mi enim, rhoncus
 date: 2021-05-22
-author: Matthieu
+author: Elodie
 correct: Isabelle
 tags:
     - nouvelle
