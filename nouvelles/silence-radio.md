@@ -4,7 +4,8 @@ title: Silence radio
 excerpt: Donec sagittis velit vel augue. Fusce in nisl vitae massa venenatis rhoncus. Praesent orci velit, lobortis eget, suscipit semper, congue eu, est. Quisque malesuada volutpat enim. Vestibulum leo sem, molestie a, mattis bibendum, feugiat facilisis, nisl. Nam scelerisque odio. Suspendisse fermentum faucibus felis. Praesent pharetra. In consequat felis in tellus. In mi enim, rhoncus
 published_date: "2021-05-22"
 author: Isabelle
-correct: Elodie
+reviewer:
+    - Matthieu
 tags:
     - nouvelle
     - science-fiction
