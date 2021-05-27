@@ -2,5 +2,4 @@ plugins:
   - jekyll-sitemap
 
 collections:
-  authors:
-    output: true
+  - authors
