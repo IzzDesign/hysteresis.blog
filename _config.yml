@@ -4,4 +4,4 @@ plugins:
 collections:
   authors:
     output: true
-    permalink: /auteurs/:name
+    permalink: "/auteurs/:name"
