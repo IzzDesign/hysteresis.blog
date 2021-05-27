@@ -5,7 +5,7 @@ excerpt: Donec sagittis velit vel augue. Fusce in nisl vitae massa venenatis rho
 date: 2021-05-22
 author: Matthieu
 correct: Isabelle
-tags: 
+tags:
     - nouvelle
     - société
 ---
@@ -20,26 +20,26 @@ Certains disent ne pas aimer les lundis matin, je leur donne tort : ce ne sont p
 
 D'un geste rapide, les mâchoires déjà serrées par l'agacement d'une nouvelle semaine qui commence bien mal, j'appuie sur l'unique concession que la société nous tolère : un énorme bouton SNOOZE rouge au-dessus des cristaux liquides. Le vacarme de la technologie est temporairement remplacé par le sifflement fluet de ma respiration qui s'apaise doucement.
 
-Il ne semble pas s'écouler plus qu'une vingtaine de battements de cœur avant que l'insupportable tintamarre ne recommence, plus insistant encore que la première fois, excitant la pression sanguine au sein de chacune de mes artères. J'envisage, *bis repetita placent*, de remettre le couvert pour un second entracte qui serait bienvenu, mais le travail n'attend pas. Alors, comme pour me punir de ma première faiblesse, j'attends, offrant mes tympans en sacrifice au Grand Électronique, pour plusieurs longues secondes, ruminant mâchoire serrée des idées noires.  
+Il ne semble pas s'écouler plus qu'une vingtaine de battements de cœur avant que l'insupportable tintamarre ne recommence, plus insistant encore que la première fois, excitant la pression sanguine au sein de chacune de mes artères. J'envisage, *bis repetita placent*, de remettre le couvert pour un second entracte qui serait bienvenu, mais le travail n'attend pas. Alors, comme pour me punir de ma première faiblesse, j'attends, offrant mes tympans en sacrifice au Grand Électronique, pour plusieurs longues secondes, ruminant mâchoire serrée des idées noires.
 Puis, l'esprit toujours obscurci, je frappe un fort coup de poing sur le second bouton de mon radio-réveil, gagnant enfin la libération.
 
 Je sors un pied du lit, puis le second, et j'appuie sur la télécommande qui contrôle mes volets électriques. Dans un silence assourdissant après le raffut du réveil, les lames se lèvent une à une, dévoilant une matinée grisâtre brumeuse et polluée à laquelle je ne prête qu'une attention distraite. Debout, je dézippe la bâche de nylon noir qui entoure mon costume fraîchement livré par le pressing en bas de chez moi. Mademoiselle Han a glissé dans la poche droite un bonbon à la menthe, que j'extrais de son emballage plastique pour le suçoter en enfilant mes chaussettes.
 
 Sur ma table de nuit, mon téléphone a détecté l'afflux de lumière. Il m'affiche d'un petit pépiement joyeux qui ne reflète en rien mon humeur le programme de mon lundi. Pas besoin de le lire : aujourd'hui, c'est le grand jour.
-Tant mieux, j'ai bien besoin de la prime. Ça me permettra peut-être de faire venir une femme de ménage la semaine prochaine — l'appartement est dans un état lamentable.  
+Tant mieux, j'ai bien besoin de la prime. Ça me permettra peut-être de faire venir une femme de ménage la semaine prochaine — l'appartement est dans un état lamentable.
 D'une pichenette, je jette à terre la dépouille plastique qui habillait le bonbon. Il y rejoint une vingtaine de frères, voilà vraiment longtemps que Margarita n'est pas passée. Le budget est serré, le loyer en perpétuelle augmentation, et j'ai donc dû faire des concessions.
 
 Je saute dans la douche ; il n'y a plus d'eau chaude, ce qui est normal vu l'heure : le réseau de distribution est partagé avec tout l'immeuble, et les derniers levés n'ont plus rien. Ça m'apprendra à utiliser ce satané SNOOZE.
 Ne dit-on pas que "L'avenir appartient à ceux qui se lèvent tôt" ? En grommelant, je me jette sous le flux glacé qui finit de me réveiller.
-Je me savonne avec énergie. Lorsque j'avale le bonbon devenu minuscule, je quitte le bac de douche et me sèche d'une serviette grise à l'odeur douteuse qui a connu des jours meilleurs. J'avais pourtant souvenir qu'elle était blanche ?  
-Un coup de déo sous mes aisselles, un coup de peigne dans les cheveux, un coup de parfum sur la nuque gauche, un autre sur la nuque droite : aujourd'hui est un jour spécial qui mérite qu'on sente bon.  
+Je me savonne avec énergie. Lorsque j'avale le bonbon devenu minuscule, je quitte le bac de douche et me sèche d'une serviette grise à l'odeur douteuse qui a connu des jours meilleurs. J'avais pourtant souvenir qu'elle était blanche ?
+Un coup de déo sous mes aisselles, un coup de peigne dans les cheveux, un coup de parfum sur la nuque gauche, un autre sur la nuque droite : aujourd'hui est un jour spécial qui mérite qu'on sente bon.
 La pile de caleçons propres est vide, mais je suis peu sorti hier, celui de la veille fera l'affaire. Je me glisse dans le pantalon du costume, boutonne ma chemise blanche, enfile ma veste. J'avais prévu de cirer mes chaussures dimanche, mais comme tous les dimanches, j'ai oublié. Je regarde l'heure, crache un juron. Hâtivement, je cire d'une main tandis que l'autre tâtonne avec les contrôles de ma machine à café. Le noir coule à gauche et luit à droite ; j'engloutis ma tasse sans respirer, en me brûlant palais et trachée. Je souffle sur mes chaussures dans une tentative dérisoire de sécher le cirage, puis je m'engouffre dans l'ascenseur avec seulement dix minutes de retard.
 
 Saisi par le froid de la ville, je fais de grands gestes en direction de tous les taxis jaunes qui me passent à proximité, insultant silencieusement ceux qui m'ignorent. L'un s'arrête devant moi, conduit par un Indien qui parle anglais avec un accent à couper au couteau. Je lui indique l'adresse du boulot, m'avachit sur la banquette arrière, et sors mon téléphone par réflexe.
 
 Une mannequin a testé un nouveau shampoing, ses magnifiques cheveux luisent dans le soleil levant de Dubaï. Tenant un singe dans ses bras, un acteur connu explique son engagement dans une réserve Indonésienne. Lucy, la petite fille leucémique, a mis un message en lettres enfantines majuscules pour remercier tous ceux qui ont pensé à elle pour sa chimio. Une publicité me propose un nouveau déodorant. Un incendie fait rage dans une forêt de Floride, heureusement la maison de retraite a été évacuée à temps ; la photo aérienne, parfaitement cadrée, montre les pompiers sur la route, des flammes derrière eux, la fumée tout autour.
 
-« Sahib, nous sommes arrivés. »  
+« Sahib, nous sommes arrivés. »
 Le chauffeur me parle en plein milieu d'un article sur la misère en Afrique. Sans lever le regard, je lui passe un billet et sort du taxi en émettant un distrait « au revoir ». Ensuite, en pilotage automatique, je me dirige vers le stand de café. Il me faut quelques secondes pour noter le bruit répété d'un klaxon proche ; et quelques secondes de plus pour envisager que ce fracas sonore me soit addressé. Je finis par me retourner, et effectivement, le conducteur me fait de grands gestes des bras, c'en est presque embarrassant de ridicule. Il a sorti la moitié de son corps du taxi ; les deux pieds sur le bitume, une main sur la portière qui me fait signe de revenir, l'autre qui appuie frénétiquement sur l'avertisseur sonore. L'espace d'un instant, je succombe à la terreur d'avoir oublié mon téléphone sur la banquette arrière, d'autant que je ne le sens pas dans ma poche. Rapidement, mon cerveau humain corrige cette réaction primitive de mon cerveau reptilien : mon smartphone est dans ma main, pas d'inquiétude.
 
 Devant l'insistance sans gêne du type, je fais demi-tour en trottant au pas de course — je suis déjà pas mal en retard, et John va sûrement me passer un savon. « Qu'est-ce qu'il y a encore ? Je suis pressé. ». L'Indien me regarde, l'air vide, comme s'il déchiffrait mes paroles à vitesse réduite. Il me montre le billet que je lui ai tendu, puis pointe de l'index son compteur. Je finis par comprendre que la course n'a pas été totalement payée ; et en ronchonnant qu'il me fait perdre du temps, je lui allonge la monnaie. Coup de chance, j'ai de quoi faire l'appoint au centime près, ce qui nous évite le spectacle du rendu d’espèce. Tant mieux, j'ai l'impression que toute la rue nous dévisage et juge cet impudent conducteur.
@@ -50,11 +50,11 @@ Je badge avec vingt minutes de retard ; sans grande surprise, de l'autre côté 
 
 Je jette un œil sur le papier entre mes mains. Ce matin, je suis censé aller nettoyer la salle des témoins, installer le mobilier. Je m'y dirige en saluant mes différents collègues d'un geste ou d'un haussement de menton. Le ministère semble calme aujourd'hui, toutes les huiles sont probablement occupées à relire une dernière fois leurs dossiers, s'assurer que tout est en ordre.
 
-Arrivée à la petite pièce, je rejoins Tracy, qui frotte une éponge pleine de savon contre la fenêtre. Je reste quelques secondes dans l'embrasure de la porte, à profiter de la vue : il y a un an, Tracy s'est refait la poitrine, et de profil elle offre vraiment un spectacle saisissant. Ça valait clairement l'argent qu'elle a mis dedans.  
-Tandis qu'elle se baisse pour mouiller son éponge, elle me capte du coin de l'œil, se retourne et me sourit : « alors, c'est à cette heure là qu'on arrive ? Je te laisse gérer les chaises du coup, c'est lourd et j'ai mal au dos ». Je place mon index et mon majeur à mes tempes, pour imiter un flingue, et je relève la paume verticalement d'un coup, mimant le bruit d'une détonation avec la bouche, les orbites révulsées. Elle rigole. « T'es con. » Elle retrempe son éponge. Je jette un dernier regard sur l'employée callipyge, cligne des yeux comme pour en prendre une photo mentale qui égayera ma matinée.  
+Arrivée à la petite pièce, je rejoins Tracy, qui frotte une éponge pleine de savon contre la fenêtre. Je reste quelques secondes dans l'embrasure de la porte, à profiter de la vue : il y a un an, Tracy s'est refait la poitrine, et de profil elle offre vraiment un spectacle saisissant. Ça valait clairement l'argent qu'elle a mis dedans.
+Tandis qu'elle se baisse pour mouiller son éponge, elle me capte du coin de l'œil, se retourne et me sourit : « alors, c'est à cette heure là qu'on arrive ? Je te laisse gérer les chaises du coup, c'est lourd et j'ai mal au dos ». Je place mon index et mon majeur à mes tempes, pour imiter un flingue, et je relève la paume verticalement d'un coup, mimant le bruit d'une détonation avec la bouche, les orbites révulsées. Elle rigole. « T'es con. » Elle retrempe son éponge. Je jette un dernier regard sur l'employée callipyge, cligne des yeux comme pour en prendre une photo mentale qui égayera ma matinée.
 Ensuite, je me dirige vers le placard qui contient les trente chaises pliées, numérotées en chiffres romains gravés dans le plastique noir.
 
-J'installe une première rangée de six chaises, I à VI. Une seconde rangée, la chaise VIII manque depuis deux ans, un sale gros d'Alabama nous l'a cassée en s'asseyant sans ménagement après un coup dur émotionnel. On a envoyé une demande de remplacement dans le mois qui a suivi, et depuis la procédure administrative suit son cours.  
+J'installe une première rangée de six chaises, I à VI. Une seconde rangée, la chaise VIII manque depuis deux ans, un sale gros d'Alabama nous l'a cassée en s'asseyant sans ménagement après un coup dur émotionnel. On a envoyé une demande de remplacement dans le mois qui a suivi, et depuis la procédure administrative suit son cours.
 Tant pis, je laisse un trou, et je commence la troisième rangée. La discipline méthodique me calme, m'apaise, m'hypnotise presque : j'oublie Tracy et sa poitrine plantureuse, John et ses névroses, la douche froide, même le petit Indien radin. Plus rien ne compte, à part le déplacement silencieux de mes semelles de crêpe sur le carrelage blanc, et le claquement sec de la charnière de métal qui unit les deux composants de plastique de la chaise.
 Je continue ma tâche : quatrième rangée, et enfin, cinquième rangée. J'ai mal espacé les quatre premières : il ne me reste pas assez de place dans le petit local, du coup je réaligne et repositionne tout : après tout, les gens viennent pour la vue.
 
@@ -99,21 +99,21 @@ Alors que l'horloge de plastique blanc indique 16 h 46, du mouvement apparaît d
 Dans la salle, la grand-mère a explosé en pleurs. Ses sanglots vocaux sans retenue ont finalement fait taire les rangées du fond. L'homme assis sur la seconde chaise semble avoir décuvé d'un coup, il est pâle comme un linge, immobile, et cligne à peine des yeux. Quant à la femme blonde, ses larmes coulent discrètement, stoïquement, presque avec noblesse.
 
 L'électricien d'État a pris son poste, dans l'autre salle.
-Il est 16 h 59.  
-Le silence se fait de mon côté, tandis que sur son siège, Zachary continue de hurler encore et encore.  
-Un homme s'approche derrière lui, pose une large éponge dégoulinante sur le crâne rasé de Zachary, qui s'époumone à nouveau, la mâchoire presque déboitée par la force de ses demandes. Mais l'insonorisation est parfaite, elle est prévue pour, et ici, rien ne transpire ; rien sinon les gémissements entremêlés des mots « mon fils »...  
-On passe sur la tête de Zachary une grande cagoule de cuir noir, qui lui masque le visage et le menton, faisant enfin taire ses cris.  
-Il est 17 h.  
+Il est 16 h 59.
+Le silence se fait de mon côté, tandis que sur son siège, Zachary continue de hurler encore et encore.
+Un homme s'approche derrière lui, pose une large éponge dégoulinante sur le crâne rasé de Zachary, qui s'époumone à nouveau, la mâchoire presque déboitée par la force de ses demandes. Mais l'insonorisation est parfaite, elle est prévue pour, et ici, rien ne transpire ; rien sinon les gémissements entremêlés des mots « mon fils »...
+On passe sur la tête de Zachary une grande cagoule de cuir noir, qui lui masque le visage et le menton, faisant enfin taire ses cris.
+Il est 17 h.
 Au premier bondissement du corps, je détourne le regard pour scruter le couloir. J'entends un hurlement déchirant derrière moi, puis des sanglots.
 
 Je me retourne, ignorant avec détermination le spectacle de l'autre côté de l'immense vitre. La vieille dame est prostrée sur sa chaise, les yeux dans les paumes de ses mains, elle pleure maintenant silencieusement, dépossédée de toute sa force, de sa volonté. Derrière elle, un des journalistes la regarde, les doigts autour de la bouche, comme pour retenir des hauts le cœur. La femme de la première chaise a glissé sa main dans celle de l'homme, ses yeux ne semblent pas pouvoir se détacher de ce qu'elle voit, juste devant elle. Lui contemple ses chaussures, sans jamais cligner, hébété, surpris, vidé.
 
-Quelques minutes plus tard, le médecin légiste nous rejoint : « Mon avis professionnel est que le condamné est mort d'une mort très rapide et humaine... »  
+Quelques minutes plus tard, le médecin légiste nous rejoint : « Mon avis professionnel est que le condamné est mort d'une mort très rapide et humaine... »
 Sa mère émet un long hurlement, qui interrompt le légiste, avant de s'enfuir dans le couloir, laissant derrière elle, sans un regard, le reste de la salle.
 
 Le médecin reprend immédiatement, mais je n'écoute pas la suite de son rapport. Mal à l'aise, je me contente de saluer d'un hochement de tête simple mais approprié le départ de chacun des témoins. La pièce se vide doucement, les derniers à partir sont l'homme et la femme qui me quittent sans un mot, sans même me voir, les mains toujours serrées.
 
-De l'autre côté de la fenêtre, un rideau de plastique noir a été tiré sur la scène.  
+De l'autre côté de la fenêtre, un rideau de plastique noir a été tiré sur la scène.
 Je commence à ranger les chaises ; ça ne fait pas partie de mon planning, mais je n'ai pas la tête à quoi que ce soit d'autre. Solennellement, je replace chaque chaise dans le placard, et je rends celle empruntée ce matin.
 
 Sur le chemin du retour, je croise Tracy, qui me propose une bière au bar. Mon cœur hésite, il n'est pas à la fête. Dans ma poche, une vibration de mon téléphone me rappelle au monde réel, à l'immédiateté de la question. Alors j'accepte. Au fond de mon âme, je place mon mal-être dans une caisse que je referme à clé, avec les souvenirs des précédentes sessions. Il est temps pour la vie de continuer.
