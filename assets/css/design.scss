@@ -121,7 +121,6 @@ a h4{
   transition: all cubic-bezier(.39,.3,.46,.86) 0.5s;
   display: inline-flex;
   &:hover{
-    letter-spacing: 0.4em;
     color: $vert1;
   }
 }
@@ -201,14 +200,14 @@ a h4{
 
 .articles{
   padding: 1em 0;
-  border-bottom: #eee 2px solid;
+  border-top: $vert1 2px solid;
   display: flex;
   flex-direction: row;
 }
 .nouvelles{
   display: flex;
   flex-direction: column;
-  border-bottom: #eee 2px solid;
+  border-top: $jaune 2px solid;
   padding: 1em;
   margin-right: 1em;
 }
