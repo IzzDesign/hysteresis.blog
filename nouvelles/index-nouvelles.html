@@ -8,22 +8,7 @@ layout: default
       <img src="/assets/images/svg/ecrits.svg" class="img-fluid icon-big">
       <h2>Écrits et nouvelles</h2>
     </div>
-    <div class="row">
-      {% for n in site.pages %}
-        {% if n.layout == 'short-story' %}
-          <div class="col-lg-4 nouvelles">
-            <a href="{{ n.url }}"><h3>{{ n.title }}</h3></a>
-            <div class="date">{{ n.date | date: "%d/%m/%Y" }}</div>
-            {% include author.html author_name=n.author %}
-            <div class="tag-list">
-              {% for tag in n.tags %}
-                <a href="" class="tag">{{ tag }}</a>
-              {% endfor %}
-            </div>
-          </div>
-        {% endif %}
-      {% endfor %}
-    </div>
+    
   </div>
   
 </div>
