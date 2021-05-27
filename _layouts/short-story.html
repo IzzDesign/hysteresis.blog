@@ -5,13 +5,16 @@ layout: default
 <div class="container">
   <div class="row">
     <div class="col-lg-8 offset-lg-2">
-      <div class="text-center">
-        <a href="/nouvelles/index-nouvelles.html"><img src="/assets/images/svg/ecrit.svg" class="img-fluid icon-big"></a>
+      <div class="center">
+        <a href="/nouvelles/index-nouvelles.html"><img src="/assets/images/svg/ecrits.svg" class="img-fluid icon-big"></a>
         <p class="category">Écrits et nouvelles</p>
         <h2>{{ page.title }}</h2>
-        <p>par <a class="author" href="/auteurs/{{ page.author }}.html">{{ page.author }}</a></p>
-      </div>
         <p class="date">{{ page.date | date: "%d/%m/%Y" }}</p>
+        <p class="category">Auteur</p>
+        {% include author.html author_name=page.author %}
+        <p class="category">Correcteur</p>
+        {% include author.html author_name=page.correct %}
+      </div>
         {{ content }}
     </div>
     <div class="col-lg-4 offset-lg-2">

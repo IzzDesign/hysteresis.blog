@@ -5,30 +5,37 @@ layout: default
 <div class="container">
   <div class="row">
     <div class="col-lg-9 offset-lg-2">
-      <img src="{{ page.img }}" class="img-fluid">
-      <h2 class="{{ page.tags[0] }} color">{{ page.title }}</h2>
-        {% assign author = site.authors | where: 'name', page.author | first %}
-          <p>par {% include author.html %}</p>
+      <div class="center">
+        {% if page.img %}
+          <img src="{{ page.img }}" class="img-principale img-fluid">
+        {% else %}
+          <div class="center">
+            <img src="/assets/images/svg/articles.svg" class="icon-big img-fluid">
+          </div>
+        {% endif %}
+        <h2>{{ page.title }}</h2>
+        <p class="category">Articles et brèves</p>
         <p class="date">{{ page.date | date: "%d/%m/%Y" }}</p>
-        <div class="tag">
-            <a href="" class="tag {{ page.tag }}">{{ page.tag }}</a>
-        </div>
+        <p class="category">Auteur</p>
+        {% include author.html author_name=page.author %}
+      </div>
         {{ content }}
     </div>
-    <div class="col-lg-4">
-      {% include hysteresis.html %}
-      {% for p in site.posts offset:1 %}
-        <div class="col-lg-12 articles {{ p.classe }}">
-          <div class="col-lg-9">
-            <a href="{{ p.url }}"><h5 class="{{ p.classe }}">{{ p.title }}</h5></a>
+    <div class="col-lg-9 offset-lg-2">
+      <img src="/assets/images/svg/articles.svg" class="img-fluid icon">
+      <h3>À lire</h3>
+      <p class="category">Articles liés</p>
+      {% for p in site.posts offset:1 limit:3 %}
+        <div class="col-lg-12 articles">
+          <div class="col-lg-11">
+            <a href="{{ p.url }}"><h4 class="{{ p.classe }}">{{ p.title }}</h4></a>
             <div class="date">{{ p.date | date: "%d/%m/%Y" }}</div>
-            <div class="contact">
-              {% assign author = site.authors | where: 'name', p.author | first %}
-              par {% include author.html %}
+            {% include author.html author_name=p.author %}
+            <div class="tag-list">
+              {% for tag in p.tags %}
+                <a href="" class="tag">{{ tag }}</a>
+              {% endfor %}
             </div>
-            {% for tag in p.tags %}
-              <a href="" class="tag {{ tag }}">{{ tag }}</a>
-            {% endfor %}
           </div>
         </div>
       {% endfor %}
