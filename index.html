@@ -56,7 +56,19 @@ layout: default
       <h2>Derniers écrits</h2>
       <p class="category">Écrits et nouvelles</p>
         <div class="row">
-          
+          {% assign nouvelles = site.pages | where: "layout", "short-story" | sort: "date" | reverse %}
+          {% for n in nouvelles limit: 6 %}
+            <div class="col-lg-4 nouvelles">
+              <a href="{{ n.url }}"><h3>{{ n.title }}</h3></a>
+              <div class="date">{{ n.date | date: "%d/%m/%Y" }}</div>
+              {% include author.html author_name=n.author %}
+              <div class="tag-list">
+                {% for tag in n.tags %}
+                  <a href="" class="tag">{{ tag }}</a>
+                {% endfor %}
+              </div>
+            </div>
+          {% endfor %}
         </div>
         <a href="/nouvelles/index-nouvelles.html" class="soft-link">&rarr;Voir plus de nouvelles</a>
     </div>    
