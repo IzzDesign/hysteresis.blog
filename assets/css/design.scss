@@ -21,6 +21,11 @@ $regular-title: 400;
   margin-bottom: 2em;
   text-align: center;
 }
+.wrap{
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
 body{
   font-family: $font-texte;
   display: flex;
@@ -55,8 +60,10 @@ h1,h2,h3,h4,h5{
 
 a{
   text-decoration: none;
-  color:$body-color;
-  &:hover{text-decoration: none;}
+  color:$vert1;
+  font-weight: 600;
+  transition: all cubic-bezier(.39,.3,.46,.86) 0.2s;
+  &:hover{text-decoration: none; color: $vert2;}
 }
  a h2,a h3, h3,a h4,a h5{
   background-position: 0 80%;
@@ -239,7 +246,7 @@ p>a.profil-auteur{
   }
 }
 
-a.profil-auteur{
+a.profil-auteur, a.profil-index{
   .round{
     border: #000 4px solid;
     width: 50px;
@@ -268,7 +275,7 @@ a.profil-auteur{
      );
     transition: all cubic-bezier(.39,.3,.46,.86) 0.2s;
     }
-    p{display: inline-block; margin-left: 1em;transition: all cubic-bezier(.39,.3,.46,.86) 0.2s;}
+    p.description{display: inline-block; margin-left: 1em;transition: all cubic-bezier(.39,.3,.46,.86) 0.2s;}
   &:hover{
     .round{
       margin-left: 0;
@@ -281,13 +288,21 @@ a.profil-auteur{
       background-size: 5px 45px;
       background-position: 0 70%;
     }
-    p{color: $vert2;letter-spacing: 0.2em;;}
+    p.description{color: $vert2;letter-spacing: 0.2em;;}
+  }
+}
+
+a.profil-index{
+  padding: 0.5em 1em;
+  p.little{display: block; margin-left: 0; margin-top: 0.5em;}
+  &:hover{
+    p.little{color: $vert2;}
   }
 }
 
 .profil{
   margin-bottom:1em;
-  p{min-height:5em;margin-top: 1em;}
+  p{min-height:5em;margin-top: 1em}
 }
 
 .img-principale{

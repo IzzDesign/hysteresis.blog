@@ -8,3 +8,6 @@ collections:
   authors:
     output: true
     permalink: "/auteurs/:name"
+  tags:
+    output: true
+    permalink: "/tags/:name"

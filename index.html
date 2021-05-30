@@ -70,7 +70,7 @@ layout: default
             </div>
           {% endfor %}
         </div>
-        <a href="/nouvelles/index-nouvelles.html" class="soft-link">&rarr;Voir plus de nouvelles</a>
+        <a href="/nouvelles/index.html" class="soft-link">&rarr;Voir plus de nouvelles</a>
     </div>    
   </div>
   <div class="row">
@@ -86,7 +86,7 @@ layout: default
         <div class="col-lg">
           <img src="/assets/images/svg/tag.svg" class="img-fluid icon">
           <h2>Tags</h2>
-          <p class="category">category et tags</p>
+          <p class="category">categories et tags</p>
           {% for tag in sites.tag %}
             <a href="" class="tag">{{ tag }}</a>
           {% endfor %}
@@ -97,8 +97,16 @@ layout: default
           <img src="/assets/images/svg/auteurs.svg" class="img-fluid icon">
           <h2>Auteurs</h2>
           <p class="category">tous les auteurs</p>
-          
-          <a href="auteurs.html" class="soft-link">&rarr;Voir tous les auteurs</a>
+          <div class="wrap">
+            {% for a in site.authors limit: 10 %}
+              <a class="profil-index" href="{{ a.url }}">
+                <div class="round"></div>
+                <img src="/assets/images/profil/{{ a.name }}.png">
+                <p class="little">{{ a.name }}</p>
+              </a>
+            {% endfor %}
+          </div>
+          <a href="auteurs.html" class="soft-link">&rarr;Tous les auteurs</a>
         </div>
       </div>
     </div>

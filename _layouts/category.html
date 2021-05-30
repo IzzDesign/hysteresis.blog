@@ -10,14 +10,14 @@ layout: default
   </div>
   <div class="row">
     <div class="col-lg-12">
-     	{% for tag in site.tags %}
-		  <h3>{{ tag[0] }}</h3>
-		  <ul>
-		    {% for post in tag[1] %}
-		      <li><a href="{{ post.url }}">{{ post.title }}</a></li>
-		    {% endfor %}
-		  </ul>
-		{% endfor %}
+		  <h1>{{ page.name | capitalize }}</h1>
+		  	{% for a in site.pages %}
+		  		{% if a.tags contains page.name  %}
+			  	<div>
+			  		<a href="">{{ a.title }}</a>
+			  	</div>
+		  		{% endif %}
+		  	{% endfor %}
     </div> 
   </div>
 </div>
