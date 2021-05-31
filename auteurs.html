@@ -14,7 +14,7 @@ layout: default
           <div class="col-lg-4 profil">
             <a class="profil-auteur" href="{{ a.url }}">
               <div class="round"></div>
-              <img src="/assets/images/profil/{{ a.name }}.png">
+              <img src="/assets/images/profil/{{ a.name |downcase }}.png">
               <h3>{{ a.name }}</h3>
             </a>
             {{ a.content }}

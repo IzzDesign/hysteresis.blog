@@ -90,7 +90,7 @@ layout: default
             {% for a in site.authors limit: 10 %}
               <a class="profil-index" href="{{ a.url }}">
                 <div class="round"></div>
-                <img src="/assets/images/profil/{{ a.name }}.png">
+                <img src="/assets/images/profil/{{ a.name |downcase }}.png">
                 <p class="little">{{ a.name }}</p>
               </a>
             {% endfor %}
