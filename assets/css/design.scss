@@ -21,6 +21,10 @@ $regular-title: 400;
   margin-bottom: 2em;
   text-align: center;
 }
+.flex{
+  display: flex;
+  flex-direction: column;
+}
 .wrap{
   display: flex;
   flex-direction: row;
@@ -127,7 +131,7 @@ a h4{
   text-transform: uppercase;
   letter-spacing: 0.5em;
   font-size: 0.85em;
-  margin-top: 1em;
+  margin: 1em 0;
   padding: 0.5em 0.2em;
   color: $gris;
   font-weight: 600;
@@ -158,15 +162,35 @@ a h4{
     color: $gris2;
 }
 
+.stick{
+  position: sticky;
+  top: 0;
+  background-color: #fff;
+  z-index: 3;
+}
 .navbar{
-  padding:1em;
-  
+  padding: 0;
+  .navbar-collapse{justify-content: flex-end;}
+  .navbar-nav a.nav-link{
+    font-family: $font-title;
+    font-variant-caps: small-caps;
+    font-size: 1.3em;
+    color: $vert1;
+    transition: color .2s ease-out;
+    &.active{
+      color: $jaune;
+    }
+    &:hover{
+      color: $vert2;
+    }
+  }
   .navbar-brand{
     float: left;
     img{
     height: 60px;
     display: block;
-  }}
+    }
+  }
 }
 .navbar-brand{font-family: $font-title; font-size: 3em;}
 .navbar-expand-lg .navbar-collapse{padding-left: 4em;}
@@ -189,6 +213,7 @@ a h4{
 .tag-list{
   display: flex;
   flex-direction: row;
+  flex-wrap: wrap;
   margin-top: 1em;
   a.tag{
     padding:0.1em 0.5em 0.2em 0.5em;
@@ -205,6 +230,7 @@ a h4{
     background-repeat: repeat-x;
     background-size: 2px 2px;
     transition: all .2s ease-out;
+    &.big{font-size: 1.3em;margin-bottom: 1em;}
     &:hover{
       background-size: 5px 100px;
       border-radius: 100%;
@@ -216,15 +242,23 @@ a h4{
   padding: 1em 0;
   border-top: $vert1 2px solid;
   display: flex;
-  flex-direction: row;
+  flex-direction: column;
 }
-.nouvelles{
+.nouvelles, .breves{
   display: flex;
   flex-direction: column;
-  border-top: $jaune 2px solid;
   padding: 1em;
-  margin-right: 1em;
 }
+.nouvelles{border-top: $vert2 2px solid;}
+.breves{border-top: $vert1 2px solid;
+  h3{background-image:
+   linear-gradient(
+     to bottom, $vert1 0%,
+     $vert1 100%
+   );
+  &:hover{color: #fff;}
+  }
+ }
 
 .list-auteurs{
   display: flex;
@@ -249,8 +283,6 @@ p>a.profil-auteur{
 a.profil-auteur, a.profil-index{
   .round{
     border: #000 4px solid;
-    width: 50px;
-    height: 50px;;
     display: block;
     position: absolute;
     z-index: 2;
@@ -259,7 +291,6 @@ a.profil-auteur, a.profil-index{
     transition: all cubic-bezier(.39,.3,.46,.86) 0.2s;
   }
   img{
-    width: 50px;
     z-index: 1;
     position: relative;
     opacity: 0.8;
@@ -267,7 +298,6 @@ a.profil-auteur, a.profil-index{
     transition: all cubic-bezier(.39,.3,.46,.86) 0.2s;
   }
   h3{
-    margin-left: 0.6em;;
     background-image:
      linear-gradient(
        to bottom, $vert2 0%,
@@ -294,9 +324,26 @@ a.profil-auteur, a.profil-index{
 
 a.profil-index{
   padding: 0.5em 1em;
+  .round{
+    width: 50px;
+    height: 50px;
+  }
+  img{width: 50px;}
+  h3{margin-left: 0.6em;}
   p.little{display: block; margin-left: 0; margin-top: 0.5em;}
   &:hover{
     p.little{color: $vert2;}
+  }
+}
+
+a.profil-auteur{
+  .round{
+    width: 76px;
+    height: 76px;
+  }
+  img{width: 76px;}
+  h3{
+    display: block;
   }
 }
 
@@ -312,28 +359,28 @@ a.profil-index{
 footer{
   border-top: #eee solid 2px;
   margin-top: auto;
-  padding-top:0.5em;
-  img{height: 40px;}
-  flex-direction: row;
+  padding-top:1em;
+  p{margin-bottom: 0.2em;}
+  a{font-family: $font-title; font-size: 1.2em; color: $gris;}
 }
 
 /*Scroll true*/
 .header {
   position: fixed;
   top: 0;
-  z-index: 1;
+  z-index: 4;
   width: 100%;
   background-color: #f1f1f1;
 }
 .progress-container {
   width: 100%;
-  height: 8px;
+  height: 4px;
   background: #ccc;
 }
 
 /* The progress bar (scroll indicator) */
 .progress-bar {
-  height: 8px;
-  background: #04AA6D;
+  height: 4px;
+  background: linear-gradient(0.25turn, $jaune, $vert2, $vert1);
   width: 0%;
 }

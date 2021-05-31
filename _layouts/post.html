@@ -28,16 +28,10 @@ scroll: true
       <p class="category">Articles liés</p>
       {% for p in site.posts offset:1 limit:3 %}
         <div class="col-lg-12 articles">
-          <div class="col-lg-11">
-            <a href="{{ p.url }}"><h4 class="{{ p.classe }}">{{ p.title }}</h4></a>
-            <div class="date">{{ p.date | date: "%d/%m/%Y" }}</div>
-            {% include author.html author_name=p.author %}
-            <div class="tag-list">
-              {% for tag in p.tags %}
-                <a href="" class="tag">{{ tag }}</a>
-              {% endfor %}
-            </div>
-          </div>
+          <a href="{{ p.url }}"><h4 class="{{ p.classe }}">{{ p.title }}</h4></a>
+          <div class="date">{{ p.date | date: "%d/%m/%Y" }}</div>
+          {% include author.html author_name=p.author %}
+          {% include tag.html tags=p.tags %}
         </div>
       {% endfor %}
     </div>

@@ -7,7 +7,7 @@ layout: default
     <div class="row">
       <div class="col-lg-12">
         <h2>{{ page.name }}</h2>
-        <p class="description">{{ content }}</p>
+        {{ content }}
         <div class="row">
             {% assign list_pages_a = site.pages | where: "author", page.name %}
             {% assign list_posts_a = site.posts | where: "author", page.name %}

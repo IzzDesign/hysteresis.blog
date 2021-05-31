@@ -1,5 +1,4 @@
 ---
-layout: short-story
 title: Rouage
 scroll: true
 excerpt: Donec sagittis velit vel augue. Fusce in nisl vitae massa venenatis rhoncus. Praesent orci velit, lobortis eget, suscipit semper, congue eu, est. Quisque malesuada volutpat enim. Vestibulum leo sem, molestie a, mattis bibendum, feugiat facilisis, nisl. Nam scelerisque odio. Suspendisse fermentum faucibus felis. Praesent pharetra. In consequat felis in tellus. In mi enim, rhoncus
@@ -8,8 +7,8 @@ author: Matthieu
 reviewers:
     - Isabelle
 tags:
-    - nouvelle
-    - société
+    - nouvelles
+    - societe
 ---
 
 BIP BIP BIP.

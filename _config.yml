@@ -19,3 +19,10 @@ defaults:
       type: "posts"
     values:
       layout: "post"
+  -
+    scope:
+      path: "nouvelles"
+      type: "pages"
+    values:
+      layout: "short-story"
+      scroll: true
