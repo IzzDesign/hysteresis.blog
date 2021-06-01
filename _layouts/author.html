@@ -18,11 +18,7 @@ layout: default
                 <a href="{{ p.url }}"><h3>{{ p.title }}</h3></a>
                 <div class="date">{{ p.date | date: "%d/%m/%Y" }}</div>
                 {% include author.html author_name=p.author %}
-                <div class="tag-list">
-                  {% for tag in p.tags %}
-                    <a href="" class="tag">{{ tag }}</a>
-                  {% endfor %}
-                </div>
+                {% include tag.html tags=p.tags %}
               </div>
             </div>
             {% endfor %}

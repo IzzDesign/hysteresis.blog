@@ -1,5 +1,5 @@
 ---
 layout: category
-name: medias
+name: environnement
 image: true
 ---
