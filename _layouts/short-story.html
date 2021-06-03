@@ -20,7 +20,7 @@ scroll: true
         {% include author.html author_name=page.author %}
       </div>
       <div class="lettrine">
-        {{ content }}
+        {{ content | replace: " »", "&nbsp;»"| replace:"« ", "«&nbsp;"| replace:" ?", "&nbsp;?"| replace:" !", "&nbsp;!" }}
       </div>
       <div class="center">
         <p class="category">Auteur</p>
