@@ -57,7 +57,7 @@ layout: default
           {% endfor %}
         </div>
         <a href="/tags/nouvelles.html" class="soft-link">&rarr;Voir plus de nouvelles</a>
-    </div>    
+    </div>
   </div>
   <div class="row">
     <div class="col-lg-6">
@@ -65,14 +65,14 @@ layout: default
         <img src="/assets/images/svg/logo.svg" class="icon">
         <h3 class="inline">À propos</h3>
       </div>
-        <p class="mini">Maecenas eu diam a leo porta interdum. In non massa quis odio feugiat sagittis. Quisque ac lorem. Maecenas ut sem sed ipsum suscipit malesuada. Nulla quis dui quis ante fermentum interdum. Proin eget est a augue vehicula mattis. Pellentesque sed nisi at nisi scelerisque iaculis. Phasellus orci. Nulla adipiscing. Suspendisse et leo vel elit ullamcorper gravida. Proin tempor, ligula ut tincidunt tempor, mauris nibh feugiat odio, nec tincidunt erat orci dictum purus. Etiam luctus odio. Aliquam adipiscing urna a felis. Quisque sed elit in eros aliquet ultrices. Donec at sem. Vestibulum cursus. Integer dolor. Vestibulum sit amet sem nec augue fermentum consectetuer. Integer justo. Vivamus vel sapien. Praesent nisl tortor, laoreet eu, dapibus quis, egestas non.</p>
+        <p class="mini">Maecenas eu diam a leo porta interdum. In non massa quis odio feugiat sagittis. Quisque ac lorem. Maecenas ut sem sed ipsum suscipit malesuada. Nulla quis dui quis ante fermentum interdum. Proin eget est a augue vehicula mattis. Pellentesque sed nisi at nisi scelerisque iaculis. Phasellus orci. Nulla adipiscing. Suspendisse et leo vel elit ullamcorper gravida. Proin tempor, ligula ut tincidunt tempor, mauris nibh feugiat odio, nec tincidunt erat orci dictum purus. Etiam luctus odio. Aliquam adipiscing urna a felis. Quisque sed elit in eros aliquet ultrices. Donec at sem. Vestibulum cursus. Integer dolor. Vestibulum sit amet sem nec augue fermentum consectetuer. Integer justo. Vivamus vel sapien. Praesent nisl tortor, laoreet eu, dapibus quis, egestas non.</p>
     </div>
     <div class="col-lg-5 offset-lg-1">
       <div class="row">
         <div class="col-lg">
           <img src="/assets/images/svg/tag.svg" class="img-fluid icon">
           <h2>Tags</h2>
-          <p class="category">categories et tags</p>
+          <p class="category">catégories et tags</p>
             <div class="tag-list">
               {% for tag in site.tags %}
                 <a href="/tags/{{ tag.name }}" class="tag big">{{ tag.name }}</a>
@@ -90,7 +90,7 @@ layout: default
             {% for a in site.authors limit: 10 %}
               <a class="profil-index" href="{{ a.url }}">
                 <div class="round"></div>
-                <img src="/assets/images/profil/{{ a.name }}.png">
+                <img src="/assets/images/profil/{{ a.name|downcase }}.png">
                 <p class="little">{{ a.name }}</p>
               </a>
             {% endfor %}
