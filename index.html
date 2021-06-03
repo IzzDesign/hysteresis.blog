@@ -4,19 +4,19 @@ layout: default
 
 <div class="container">
   <div class="row">
-    {% assign recent = site.posts.first %}
+    {% assign recent = site.pages | where: "une", "true" %}
     <div class="col-lg-6 recent">
       <a href="{{ recent.url }}" class="hover-cta">
         {% if recent.img %}
           <img src="{{ recent.img }}" class=" img-fluid">
         {% else %}
           <div class="center">
-            <img src="/assets/images/svg/articles.svg" class="icon-big img-fluid">
+            <img src="/assets/images/medias-icon.png" class="img-fluid">
           </div>
         {% endif %}
         <h2>{{ recent.title }}</h2>
       </a>
-      <p class="category">Article à la une</p>
+      <p class="category">À la une</p>
       <div class="flex">
         <p class="date">{{ recent.date | date: "%d/%m/%Y" }}</p>
         {% include author.html author_name=recent.author %}
@@ -26,39 +26,39 @@ layout: default
       <a href="{{ recent.url }}" class="soft-link">&rarr;Lire l'article </a>
     </div>
     <div class="col-lg-5 offset-lg-1">
-      <img src="/assets/images/svg/articles.svg" class="img-fluid icon">
-      <h2>Derniers articles</h2>
-      <p class="category">Articles et brèves</p>
-      {% for p in site.posts offset:1 limit:3 %}
-        <div class="col-lg-12 articles">
-          <a href="{{ p.url }}"><h4 class="{{ p.classe }}">{{ p.title }}</h4></a>
-          <div class="date">{{ p.date | date: "%d/%m/%Y" }}</div>
-          {% include author.html author_name=p.author %}
-          {% include tag.html tags=p.tags %}
-        </div>
-      {% endfor %}
-        <a href="" class="soft-link">&rarr;Voir tous les articles</a>
-    </div>
-  </div>
-  <div class="row">
-    <div class="col-lg-12">
       <img src="/assets/images/svg/nouvelles.svg" class="img-fluid icon">
       <h2>Derniers écrits</h2>
       <p class="category">Écrits et nouvelles</p>
-        <div class="row">
-          {% assign nouvelles = site.pages | where: "layout", "short-story" | sort: "date" | reverse %}
-          {% for n in nouvelles limit: 6 %}
-            <div class="col-lg-4 nouvelles">
-              <a href="{{ n.url }}"><h3>{{ n.title }}</h3></a>
-              <div class="date">{{ n.published_date | date: "%d/%m/%Y" }}</div>
-              {% include author.html author_name=n.author %}
-              {% include tag.html tags=n.tags %}
-            </div>
-          {% endfor %}
+      {% assign nouvelles = site.pages | where: "layout", "short-story" | sort: "date" | reverse %}
+      {% for n in nouvelles limit: 3 %}
+        <div class="col-lg-12 nouvelles">
+          <a href="{{ n.url }}"><h3>{{ n.title }}</h3></a>
+          <div class="date">{{ n.published_date | date: "%d/%m/%Y" }}</div>
+          {% include author.html author_name=n.author %}
+          {% include tag.html tags=n.tags %}
         </div>
+      {% endfor %}
         <a href="/tags/nouvelles.html" class="soft-link">&rarr;Voir plus de nouvelles</a>
     </div>
   </div>
+  <!-- <div class="row">
+    <div class="col-lg-12">
+      <img src="/assets/images/svg/articles.svg" class="img-fluid icon">
+      <h2>Derniers articles</h2>
+      <p class="category">Articles et brèves</p>
+        <div class="row">
+          {% for p in site.posts offset:1 limit:3 %}
+            <div class="col-lg-4 articles">
+              <a href="{{ p.url }}"><h4 class="{{ p.classe }}">{{ p.title }}</h4></a>
+              <div class="date">{{ p.date | date: "%d/%m/%Y" }}</div>
+              {% include author.html author_name=p.author %}
+              {% include tag.html tags=p.tags %}
+            </div>
+          {% endfor %}
+        </div>
+        <a href="" class="soft-link">&rarr;Voir tous les articles</a>
+    </div>
+  </div> -->
   <div class="row">
     <div class="col-lg-6">
       <div>

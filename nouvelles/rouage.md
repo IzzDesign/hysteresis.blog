@@ -9,6 +9,7 @@ reviewers:
 tags:
     - nouvelles
     - societe
+une: true
 ---
 
 BIP BIP BIP.
