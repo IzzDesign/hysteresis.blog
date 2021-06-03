@@ -231,6 +231,7 @@ a h4{
     background-size: 2px 2px;
     transition: all .2s ease-out;
     &.big{font-size: 1.3em;margin-bottom: 1em;}
+    h4{background-image: none; &:hover{color: #000;}}
     &:hover{
       background-size: 5px 100px;
       border-radius: 100%;

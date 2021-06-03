@@ -2,4 +2,4 @@
 layout: author
 name: Damos
 ---
-C'est un ADC de folie.
+Autodidacte et touche à tout, Damos est passionné de football, de jeux vidéos, de bricologe et de menuiseries ! Il se lance aujourd'hui dans l'écriture en amateur via [hysteresis.blog](https://hysteresis.blog).

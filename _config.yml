@@ -11,6 +11,9 @@ collections:
   tags:
     output: true
     permalink: "/tags/:name"
+  posts:
+    output: true
+    permalink: "/:categories/:title/"
 
 defaults:
   -
@@ -19,6 +22,7 @@ defaults:
       type: "posts"
     values:
       layout: "post"
+      categories: "articles"
   -
     scope:
       path: "nouvelles"

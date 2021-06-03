@@ -1,0 +1,20 @@
+<div class="row">
+  <div class="col-lg-12">
+    <img src="/assets/images/svg/nouvelles.svg" class="img-fluid icon">
+    <h3>Derniers écrits</h3>
+    <p class="category">Écrits et nouvelles</p>
+      <div class="row">
+        {% assign nouvelles = site.pages | where: "layout", "short-story" | sort: "date" | reverse %}
+        {% for n in nouvelles limit: 2 %}
+          <div class="col-lg-6 nouvelles">
+            <a href="{{ n.url }}"><h3>{{ n.title }}</h3></a>
+            <div class="date">{{ n.published_date | date: "%d/%m/%Y" }}</div>
+            {% include author.html author_name=n.author %}
+            {% include tag.html tags=n.tags %}
+          </div>
+        {% endfor %}
+      </div>
+    <a href="/tags/nouvelles.html" class="soft-link">&rarr;Voir plus de nouvelles</a>
+  </div>
+  
+</div>

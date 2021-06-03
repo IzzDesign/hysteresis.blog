@@ -19,6 +19,7 @@ scroll: true
         <p class="date">{{ page.date | date: "%d/%m/%Y" }}</p>
         <p class="category">Auteur</p>
         {% include author.html author_name=page.author %}
+        {% include tag.html tags=page.tags %}
       </div>
         {{ content }}
     </div>
