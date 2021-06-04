@@ -23,6 +23,7 @@ defaults:
     values:
       layout: "post"
       categories: "articles"
+      note: false
   -
     scope:
       path: "nouvelles"

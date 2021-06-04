@@ -3,6 +3,7 @@ title: Challenge de nouvelles de Juin 2021.
 excerpt: Après le succès de la première édition du challenge de nouvelles d'Hystéresis de Mai 2021, nous nous relançons de nouveau dans l'écriture avec deux fois plus de participants pour l'édition de Juin 2021. À noter dans vos agenda, la date de rendu est le 22 Juin 2021 !
 image: medias-icon.png
 author: Isabelle
+note: true
 tags:
     - note de blog
 ---

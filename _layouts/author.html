@@ -10,7 +10,7 @@ layout: default
         {{ content }}
         <div class="row">
             {% assign list_pages_a = site.pages | where: "author", page.name %}
-            {% assign list_posts_a = site.posts | where: "author", page.name %}
+            {% assign list_posts_a = site.posts | where: "author", page.name | where: "note", false %}
             {% assign list_a = list_pages_a | concat: list_posts_a | sort: "date" | reverse %}
             {% for p in list_a %}
             <div class="col-lg-6">

@@ -11,11 +11,6 @@ scroll: true
         <p class="category">Écrits et nouvelles</p>
         <h1>{{ page.title }}</h1>
         <p class="date">{{ page.published_date | date: "%d/%m/%Y" }}</p>
-        <div class="tag-list">
-          {% for tag in page.tags %}
-            <a href="" class="tag">{{ tag }}</a>
-          {% endfor %}
-        </div>
         <p class="category">Auteur</p>
         {% include author.html author_name=page.author %}
       </div>
@@ -29,6 +24,7 @@ scroll: true
         {% for r in page.reviewers %}
           {% include author.html author_name=r %}
         {% endfor %}
+        {% include tag.html tags=page.tags %}
       </div>
     </div>
     <div class="col-lg-4 offset-lg-2">
