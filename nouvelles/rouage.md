@@ -8,7 +8,7 @@ reviewers:
     - Isabelle
 tags:
     - nouvelles
-    - societe
+    - société
 une: true
 ---
 

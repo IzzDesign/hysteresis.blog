@@ -8,7 +8,7 @@ layout: default
     <div class="col-lg-6 recent">
       <a href="{{ recent.url }}" class="hover-cta">
         {% if recent.img %}
-          <img src="{{ recent.img }}" class=" img-fluid">
+          <img src="/assets/images/{{ recent.img }}" class=" img-fluid">
         {% else %}
           <div class="center">
             <img src="/assets/images/svg/articles.svg" class="icon-big img-fluid">
@@ -63,7 +63,7 @@ layout: default
   {% endcomment %}
   <div class="row">
     <div class="col-lg-6 hysteresis">
-      <img src="/assets/images/svg/logo.svg" class="icon">
+      <img src="/assets/images/svg/logo.svg">
       <h2>Hystéresis</h2>
       <p class="category">À propos</p>
       <h5>Hystéresis : (PHYS)</h5>
@@ -79,29 +79,29 @@ layout: default
           <p class="category">catégories et tags</p>
             <div class="tag-list">
               {% for tag in site.tags %}
-                <a href="/tags/{{ tag.name }}" class="tag big">{{ tag.name }}</a>
+                <a href="{{ tag.url }}" class="tag big">{{ tag.name }}</a>
               {% endfor %}
             </div>
           <a href="tags.html" class="soft-link">&rarr;Tous les tags</a>
         </div>
       </div>
-      <div class="row">
-        <div class="col-lg">
-          <img src="/assets/images/svg/auteurs.svg" class="img-fluid icon">
-          <h2>Auteurs</h2>
-          <p class="category">tous les auteurs</p>
-          <div class="wrap">
-            {% for a in site.authors limit: 10 %}
-              <a class="profil-index" href="{{ a.url }}">
-                <div class="round"></div>
-                <img src="/assets/images/profil/{{ a.name|downcase }}.png">
-                <p class="little">{{ a.name }}</p>
-              </a>
-            {% endfor %}
-          </div>
-          <a href="auteurs.html" class="soft-link">&rarr;Tous les auteurs</a>
-        </div>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-lg">
+      <img src="/assets/images/svg/auteurs.svg" class="img-fluid icon">
+      <h2>Auteurs</h2>
+      <p class="category">tous les auteurs</p>
+      <div class="wrap">
+        {% for a in site.authors limit: 10 %}
+          <a class="profil-index" href="{{ a.url }}">
+            <div class="round"></div>
+            <img src="/assets/images/profil/{{ a.name|downcase }}.png">
+            <p class="little">{{ a.name }}</p>
+          </a>
+        {% endfor %}
       </div>
+      <a href="auteurs.html" class="soft-link">&rarr;Tous les auteurs</a>
     </div>
   </div>
 </div>

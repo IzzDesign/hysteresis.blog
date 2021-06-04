@@ -1,5 +1,5 @@
 ---
 layout: category
-name: médias
+name: note de blog
 image: medias
 ---

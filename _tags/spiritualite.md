@@ -1,5 +1,5 @@
 ---
 layout: category
-name: spiritualite
-image: true
+name: spiritualité
+image: spiritualite
 ---

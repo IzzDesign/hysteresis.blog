@@ -1,5 +1,5 @@
 ---
 layout: category
 name: environnement
-image: true
+image: environnement
 ---

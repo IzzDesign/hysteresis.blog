@@ -1,5 +1,5 @@
 ---
 layout: category
-name: societe
-image: true
+name: société
+image: societe
 ---
