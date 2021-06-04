@@ -11,7 +11,7 @@ Motivés par l'envie d'écrire et le besoin de combattre notre procrastination, 
 
 Nous accueillerons [Damien](/auteurs/damien.html), [Damos](/auteurs/damos.html) et [Catherine](/auteurs/catherine.html) lors de ce challenge. Il n'y a ni thème ni limite de mots à atteindre. Notre envie est de créer un espace bienveillant d'échanges, de conseils et d'amélioration.
 
-Votre nouvelle peut aborder des thèmes importants ou triviaux, être un souvenir, une expérience vécue ou bien de la pire fiction, une lettre… Les possibilités sont multiples pour pouvoir s'exprimer et partager nos points de vues pour créer discussions et débats... C'est aussi cela Hystérésis ! Alors à vos claviers !
+Votre nouvelle peut aborder des thèmes importants ou triviaux, être un souvenir, une expérience vécue ou bien de la pure fiction, une lettre… Les possibilités sont multiples pour pouvoir s'exprimer et partager nos points de vues pour créer discussions et débats... C'est aussi cela Hystérésis ! Alors à vos claviers !
 
 {% include contact.html %}
 {% include nouvelles.html %}
