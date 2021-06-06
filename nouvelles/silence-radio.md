@@ -215,4 +215,10 @@ Elle tint ses mains contre son crâne, sentant qu’il allait exploser. Comment 
 
 Elle ne savait pas depuis combien de temps elle tremblait. Tout d’un coup, l’atmosphère se mit à changer. Sa gorge se serra d’angoisse. Il y avait quelque chose. Des larmes d’effroi coulèrent sur ses joues sans qu’elle ne puisse les retenir. Une évidence vint la frapper un instant. Chaque poil de son corps se dressa sur sa peau comme s’il voulait s’échapper. Elle contint sa respiration. Elle ne voulait pas se retourner.
 La pression était omniprésente, le haut de son crâne se mit à fourmiller, c’était tellement prenant qu’elle aurait pu s’éclater la tête contre le tableau de bord. Elle ne bougea pas, oubliant même d’exhaler. Pars. Pars… Sa pensée se perdit, lorsqu’elle ne réussit plus à bloquer sa respiration, elle souffla avec lenteur, de la buée se formant sous son nez. Pars ! La pression sur ses épaules s’accentua, la goutte de sueur qui coula sur sa nuque fut la dernière chose qu’elle remarqua.
-— Il y a quelqu’un à bord ?
+
+***
+
+— Nick ?
+Sa voix tremblait. Vikita déglutit, elle sentait les battements de son cœur s’accélérer. Elle se retint quelques secondes avant de craquer et de réitérer son appel. Elle appuya avec force sur le bouton des communications puis s’exprima de la façon la plus autoritaire qu’elle put malgré son angoisse latente :
+— Nick, tu peux arrêter de faire l’idiot et répondre steuplaît ?
+Silence radio.
