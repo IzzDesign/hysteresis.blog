@@ -1,7 +1,7 @@
 ---
 title: Rouage
 scroll: true
-excerpt: Donec sagittis velit vel augue. Fusce in nisl vitae massa venenatis rhoncus. Praesent orci velit, lobortis eget, suscipit semper, congue eu, est. Quisque malesuada volutpat enim. Vestibulum leo sem, molestie a, mattis bibendum, feugiat facilisis, nisl. Nam scelerisque odio. Suspendisse fermentum faucibus felis. Praesent pharetra. In consequat felis in tellus. In mi enim, rhoncus
+excerpt: "BIP BIP BIP. En quelques secondes, mon cerveau endormi oublie les délices oniriques dans lesquels il était plongé, se concentrant sur ce bruit désagréable qui emplit mes pensées et l'espace sonore. On peut bien nous parler de progrès, d'avancement : malgré tous ses miracles, la civilisation moderne n'a jamais réussi à nous soustraire au joug du plus terrible instrument de torture — le bruit du réveil. Arraché au forceps à ses rêves par les décibels déchaînés d'une machine sans émotion, comment se comporter en humain empathique ?"
 published_date: "2021-05-22"
 author: Matthieu
 reviewers:
