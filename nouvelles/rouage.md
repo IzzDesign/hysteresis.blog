@@ -20,7 +20,7 @@ On peut bien nous parler de progrès, d'avancement : malgré tous ses miracles, 
 
 Certains disent ne pas aimer les lundis matin, je leur donne tort : ce ne sont pas les lundis matins qui posent problème, mais cette insupportable et tonitruante répétition.
 
-D'un geste rapide, les mâchoires déjà serrées par l'agacement d'une nouvelle semaine qui commence bien mal, j'appuie sur l'énorme bouton *SNOOZE* rouge au-dessus des cristaux liquides. Le vacarme de la technologie est temporairement remplacé par le sifflement fluet de ma respiration qui s'apaise doucement.
+D'un geste rapide, les mâchoires déjà serrées par l'agacement d'une nouvelle semaine qui commence bien mal, j'appuie sur l'unique concession que la société nous tolère : un énorme bouton *SNOOZE* rouge au-dessus des cristaux liquides. Le vacarme de la technologie est temporairement remplacé par le sifflement fluet de ma respiration qui s'apaise doucement.
 
 Il ne semble pas s'écouler plus d'une vingtaine de battements de cœur avant que l'insupportable tintamarre ne recommence, plus insistant encore que la première fois, excitant la pression sanguine au sein de mes artères. J'envisage de remettre le couvert pour un second entracte, mais le travail n'attend pas. Alors, comme pour me punir de ma première faiblesse, j'attends, offrant mes tympans en sacrifice au Grand Électronique, ruminant mes idées noires la mâchoire serrée.
 Puis, l'esprit toujours obscurci, j’écrase du poing le second bouton de mon radio-réveil, gagnant enfin la libération.
