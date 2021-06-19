@@ -35,6 +35,8 @@ body{
   display: flex;
   flex-direction: column;
   min-height: 100vh;
+  ::-moz-selection { background-color: $vert2;}
+  ::selection { background-color: $vert2; }
 }
 p{
   color: $body-color;
@@ -382,6 +384,16 @@ footer{
   height: 4px;
   background: linear-gradient(0.25turn, $jaune, $vert2, $vert1);
   width: 0%;
+}
+
+.bouton{
+  background-color:$vert1;
+  font-family: $font-title;
+  color: #fff;
+  border: $vert2 solid 2px;
+  font-size: 1.2em;
+  text-transform: uppercase;
+  margin-bottom: 1em;;
 }
 
 @media (max-width: 990px) {

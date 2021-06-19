@@ -1,6 +1,6 @@
 ---
 title: Silence radio
-excerpt: Donec sagittis velit vel augue. Fusce in nisl vitae massa venenatis rhoncus. Praesent orci velit, lobortis eget, suscipit semper, congue eu, est. Quisque malesuada volutpat enim. Vestibulum leo sem, molestie a, mattis bibendum, feugiat facilisis, nisl. Nam scelerisque odio. Suspendisse fermentum faucibus felis. Praesent pharetra. In consequat felis in tellus. In mi enim, rhoncus
+excerpt: —  Nick ? Sa voix tremblait. Vikita déglutit, elle sentait les battements de son cœur s’accélérer. Elle se retint quelques secondes avant de craquer et de réitérer son appel. Elle appuya avec force sur le bouton des communications puis s’exprima de la façon la plus autoritaire qu’elle put malgré son angoisse latente…
 published_date: "2021-05-22"
 author: Isabelle
 reviewers:
@@ -222,3 +222,13 @@ La pression était omniprésente, le haut de son crâne se mit à fourmiller, c�
 Sa voix tremblait. Vikita déglutit, elle sentait les battements de son cœur s’accélérer. Elle se retint quelques secondes avant de craquer et de réitérer son appel. Elle appuya avec force sur le bouton des communications puis s’exprima de la façon la plus autoritaire qu’elle put malgré son angoisse latente :
 — Nick, tu peux arrêter de faire l’idiot et répondre steuplaît ?
 Silence radio.
+
+<div class="center">
+    <h4>Notes de l'auteur</h4>
+    <button class="bouton" data-toggle="collapse" data-target="#collapseExample" aria-expanded="false" aria-controls="collapseExample">Schéma explicatif</button>
+    <div class="collapse" id="collapseExample">
+      <div class="card card-body">
+        <img src="/assets/images/nouvelles/silence-radio-timeline.png" class="img-fluid">
+      </div>
+    </div>
+</div>
