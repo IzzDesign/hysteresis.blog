@@ -47,13 +47,6 @@ p{
   }
 }
 
-.lettrine p:first-child{
-  &::first-letter{
-    font-size: 130%;
-    font-family: $font-title;
-  }
-}
-
 h1,h2,h3,h4,h5{
   font-family: $font-title;
   font-weight: 700;

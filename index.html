@@ -5,39 +5,45 @@ layout: default
 <div class="container">
   <div class="row">
     {% assign recent = site.posts.first %}
-    <div class="col-lg-6 recent">
-      <a href="{{ recent.url }}" class="hover-cta">
-        {% if recent.image %}
-          <img src="/assets/images/{{ recent.image }}" class=" img-fluid">
-        {% else %}
-          <div class="center">
-            <img src="/assets/images/svg/articles.svg" class="icon-big img-fluid">
-          </div>
-        {% endif %}
-        <h2>{{ recent.title }}</h2>
-      </a>
-      <p class="category">À la une</p>
-      <div class="flex">
-        <p class="date">{{ recent.date | date: "%d/%m/%Y" }}</p>
-        {% include author.html author_name=recent.author %}
-        {% include tag.html tags=recent.tags %}
-        <p>{{ recent.excerpt }}</p>
-      </div>
+    <div class="col-lg-12 recent">
+      <div class="row">
+        <div class="col-lg-6">
+          <a href="{{ recent.url }}" class="hover-cta">
+            {% if recent.image %}
+              <img src="/assets/images/{{ recent.image }}" class=" img-fluid">
+            {% else %}
+              <div class="center">
+                <img src="/assets/images/svg/articles.svg" class="icon-big img-fluid">
+              </div>
+            {% endif %}
+          </a>
+        </div>
+        <div class="col-lg-6 flex">
+          <p class="category">À la une</p>
+          <a href="{{ recent.url }}" class="hover-cta"><h2>{{ recent.title }}</h2></a>
+          <p class="date">{{ recent.date | date: "%d/%m/%Y" }}</p>
+          {% include author.html author_name=recent.author %}
+          {% include tag.html tags=recent.tags %}
+          <p>{{ recent.excerpt }}</p>
+        </div>
+      </div>      
       <a href="{{ recent.url }}" class="soft-link">&rarr;Lire l'article </a>
     </div>
-    <div class="col-lg-5 offset-lg-1">
+    <div class="col-lg-12">
       <img src="/assets/images/svg/nouvelles.svg" class="img-fluid icon">
       <h2>Derniers écrits</h2>
       <p class="category">Écrits et nouvelles</p>
-      {% assign nouvelles = site.pages | where: "layout", "short-story" | sort: "date" | reverse %}
-      {% for n in nouvelles limit: 3 %}
-        <div class="col-lg-12 nouvelles">
-          <a href="{{ n.url }}"><h3>{{ n.title }}</h3></a>
-          <div class="date">{{ n.published_date | date: "%d/%m/%Y" }}</div>
-          {% include author.html author_name=n.author %}
-          {% include tag.html tags=n.tags %}
+        <div class="wrap">
+          {% assign nouvelles = site.pages | where: "layout", "short-story" | sort: "published_date" | reverse %}
+        {% for n in nouvelles limit: 3 %}
+          <div class="col-lg-6 nouvelles">
+            <a href="{{ n.url }}"><h3>{{ n.title }}</h3></a>
+            <div class="date">{{ n.published_date | date: "%d/%m/%Y" }}</div>
+            {% include author.html author_name=n.author %}
+            {% include tag.html tags=n.tags %}
+          </div>
+        {% endfor %}
         </div>
-      {% endfor %}
         <a href="/tags/nouvelles.html" class="soft-link">&rarr;Voir plus de nouvelles</a>
     </div>
   </div>
