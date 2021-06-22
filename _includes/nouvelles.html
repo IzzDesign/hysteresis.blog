@@ -4,7 +4,7 @@
     <h3>Derniers écrits</h3>
     <p class="category">Écrits et nouvelles</p>
       <div class="row">
-        {% assign nouvelles = site.pages | where: "layout", "short-story" | sort: "date" | reverse %}
+        {% assign nouvelles = site.pages | where: "layout", "short-story" | sort: "published_date" | reverse %}
         {% for n in nouvelles limit: 2 %}
           <div class="col-lg-6 nouvelles">
             <a href="{{ n.url }}"><h3>{{ n.title }}</h3></a>
@@ -18,3 +18,4 @@
   </div>
   
 </div>
+

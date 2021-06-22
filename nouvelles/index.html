@@ -11,8 +11,8 @@ scroll: false
       <h1>Écrits et nouvelles</h1>
     </div>
     <div class="row">
-      {% for n in site.pages %}
-        {% if n.layout == 'short-story' %}
+      {% assign nouvelles_index = site.pages | where: "layout", "short-story" | sort: "published_date" | reverse  %}
+        {% for n in nouvelles_index %}
           <div class="col-lg-4 nouvelles">
             <a href="{{ n.url }}"><h3>{{ n.title }}</h3></a>
             <div class="date">{{ n.published_date | date: "%d/%m/%Y" }}</div>
@@ -23,8 +23,7 @@ scroll: false
               {% endfor %}
             </div>
           </div>
-        {% endif %}
-      {% endfor %}
+        {% endfor %}
     </div>
   </div>
 </div>

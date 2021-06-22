@@ -16,7 +16,11 @@ layout: default
             <div class="col-lg-6">
               <div class="list-auteurs">
                 <a href="{{ p.url }}"><h3>{{ p.title }}</h3></a>
-                <div class="date">{{ p.date | date: "%d/%m/%Y" }}</div>
+                {% if p.published_date %}
+                  <div class="date">{{ p.published_date | date: "%d/%m/%Y" }}</div>
+                {% else %}
+                  <div class="date">{{ p.date | date: "%d/%m/%Y" }}</div>
+                {% endif %}
                 {% include author.html author_name=p.author %}
                 {% include tag.html tags=p.tags %}
               </div>

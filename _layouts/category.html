@@ -23,7 +23,8 @@ layout: default
 		  	</p>
 	    </div>
 	    <div class="row">
-	      {% for a in site.pages %}
+	      {% assign nouvelles_index = site.pages | where: "layout", "short-story" | sort: "published_date" | reverse  %}
+	      {% for a in nouvelles_index %}
 		  		{% if a.tags contains page.name %}
 	          <div class="col-lg-4 nouvelles">
 	            <a href="{{ a.url }}"><h3>{{ a.title }}</h3></a>
