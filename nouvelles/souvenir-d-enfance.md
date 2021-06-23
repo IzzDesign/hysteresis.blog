@@ -7,6 +7,7 @@ reviewers:
 tags:
     - nouvelles
     - histoire
+    - guerre
 ---
 
 Depuis son fauteuil, la vieille dame observe le jardin par la porte-fenêtre. C’est une froide journée d’hiver. Les arbres sont nus, la terre gelée. Dans quelques jours, on lui fêtera son quatre-vingt-onzième anniversaire. Elle vit chez sa fille depuis quelques années. Elle a dû quitter le village où elle est née et où elle vivait depuis son veuvage.

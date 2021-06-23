@@ -8,6 +8,7 @@ reviewers:
 tags:
     - nouvelles
     - histoire
+    - enquete
 ---
 
 Voici qu'arrive la fin de l'année ; l'activité du groupe est réduite, les esprits vagabondent à l'idée de profiter sous peu d'un repos bien mérité. Les discussions vont bon train pour savoir qui préférera la mer, qui la campagne, qui la montagne, qui un bon livre, qui du bricolage... à la mer, la campagne ou à la montagne.
