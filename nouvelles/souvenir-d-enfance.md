@@ -49,3 +49,12 @@ Alors, sa voix résonne dans le véhicule :
 — Tais-toi ! Tais-toi donc !
 — Mais, maman ?
 — Chut ! Chut ma chérie, je t’en prie, tais-toi ! Tais-toi !
+
+<div class="row">
+    <div class="col-lg-6 offset-lg-3">
+        <figure>
+            <img src="/assets/images/nouvelles/souvenir-d-enfance-yvette.png" title="Photographie d'époque, Yvette au centre, sa sœur Simone à gauche et ses parents à droite" class="img-fluid">
+            <span>Photographie d'époque, Yvette au centre, sa sœur Simone à gauche et ses parents à droite</span>
+        </figure>
+    </div>
+</div>

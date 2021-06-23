@@ -389,13 +389,23 @@ footer{
   margin-bottom: 1em;;
 }
 
-    .lettrine > p:first-child{
-      &::first-letter{
-        font-size: 600%;
-        display:block;
-        float:left;
-        }
+.lettrine > p:first-child{
+  &::first-letter{
+    font-size: 600%;
+    display:block;
+    float:left;
     }
+}
+
+figure{
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+}
+figure span{
+    font-size: 1em;
+    font-family: 'Oswald';
+}
 
 @media (max-width: 990px) {
   img.img-tag{width: 100%;}

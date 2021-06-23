@@ -71,15 +71,6 @@ L’attente s’éternisait, c’est Samuel qui savait quoi faire une fois à l�
     .newspaper img{
         width: 100%;
     }
-    figure{
-        display: flex;
-        flex-direction: column;
-        align-content: center;
-    }
-    figure span{
-        font-size: 1em;
-        font-family: 'Oswald';
-    }
 </style>
 
 <div class="row newspaper">
