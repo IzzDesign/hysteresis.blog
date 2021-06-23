@@ -1,3 +1,14 @@
+---
+title: Mon camion et moi
+scroll: true
+published_date: "2021-06-22"
+author: Matthieu
+reviewers:
+    - Isabelle
+tags:
+    - nouvelles
+    - science-fiction
+---
 Bip... Bip... Bip... « La boite vocale de votre correspondant est pleine. Merci de réessayer ultérieurement ».
 
 Je maugrée en raccrochant pour la sixième fois. Il m'avait donné rendez-vous sur la bretelle 658 de la Transcontinentale à seize heures, il est seize heures vingt.
