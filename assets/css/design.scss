@@ -389,6 +389,14 @@ footer{
   margin-bottom: 1em;;
 }
 
+    .lettrine > p:first-child{
+      &::first-letter{
+        font-size: 600%;
+        display:block;
+        float:left;
+        }
+    }
+
 @media (max-width: 990px) {
   img.img-tag{width: 100%;}
 }

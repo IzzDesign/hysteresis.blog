@@ -1,6 +1,5 @@
 ---
 title: Souvenir d'enfance
-excerpt: 
 published_date: "2021-06-22"
 author: Catherine
 reviewers:

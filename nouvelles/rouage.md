@@ -1,7 +1,6 @@
 ---
 title: Rouage
 scroll: true
-excerpt: "BIP BIP BIP. En quelques secondes, mon cerveau endormi oublie les délices oniriques dans lesquels il était plongé, se concentrant sur ce bruit désagréable qui emplit mes pensées et l'espace sonore. On peut bien nous parler de progrès, d'avancement : malgré tous ses miracles, la civilisation moderne n'a jamais réussi à nous soustraire au joug du plus terrible instrument de torture — le bruit du réveil. Arraché au forceps à ses rêves par les décibels déchaînés d'une machine sans émotion, comment se comporter en humain empathique ?"
 published_date: "2021-05-22"
 author: Matthieu
 reviewers:

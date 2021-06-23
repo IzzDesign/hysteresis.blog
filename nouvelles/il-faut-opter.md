@@ -1,6 +1,5 @@
 ---
 title: Il faut opter
-excerpt: 
 published_date: "2021-06-22"
 author: Isabelle
 reviewers:
@@ -14,7 +13,7 @@ Ladislas se trompa en nouant sa cravate. Il la détacha avant de recommencer. C�
 
 Pourtant, il avait choisi d’être ici. Lui et Christian, le cameraman, étaient arrivés il y a quelques jours à La Paz en Bolivie. Ils étaient tous les deux en quête de grands faits divers : insouciants et téméraires lorsqu’il s’agissait de prévoir leurs reportages, c’était une autre histoire quand ils touchaient leur exclusivité du doigt.
 
-Les premières 24 heures passées à La Paz n’avaient pas porté leurs fruits. Comment trouver un individu parmi des milliers ? Ils avaient d’abord posé des questions, mais sans résultat. Le reste du temps, ils avaient filmé les rues de La Paz et ses habitants. Cette ville à plus de trois mille mètres d’altitude était déroutante, ils avaient plusieurs fois eu le souffle coupé en arpentant ses avenues pentues. L’agitation était partout dans ces quartiers couleur ocre du centre-ville. Dans certains secteurs, les voitures étaient rares et tout se faisait à pied ; beaucoup de Boliviens portaient des charges lourdes à même les épaules. À tous les coins de rue, on trouvait des vendeurs à la sauvette, assis à même le sol. Des simples tentures surélevées par des bouts de bois leur servaient de parasol. Ce qui les avait dépaysés, outre le changement d’architecture et l’agencement très resserré et organique des habitations, avait été les vêtements des Boliviens. Les tenues de chanvre et de coton tout en couleur n’étaient pas à la mode de Paris, pas plus que le chapeau haut et rond des Boliviens. D'ailleurs, ils se détachaient de la foule avec leurs costumes.
+Les premières 24 heures passées à La Paz n’avaient pas porté leurs fruits. Comment trouver un individu parmi des milliers ? Ils avaient d’abord posé des questions, mais sans résultat. Le reste du temps, ils avaient filmé les rues de La Paz et ses habitants. Cette ville à près de quatre mille mètres d’altitude était déroutante, ils avaient plusieurs fois eu le souffle coupé en arpentant ses avenues pentues. L’agitation était partout dans ces quartiers couleur ocre du centre-ville. Dans certains secteurs, les voitures étaient rares et tout se faisait à pied ; beaucoup de Boliviens portaient des charges lourdes à même les épaules. À tous les coins de rue, on trouvait des vendeurs à la sauvette, assis à même le sol. Des simples tentures surélevées par des bouts de bois leur servaient de parasol. Ce qui les avait dépaysés, outre le changement d’architecture et l’agencement très resserré et organique des habitations, avait été les vêtements des Boliviens. Les tenues de chanvre et de coton tout en couleur n’étaient pas à la mode de Paris, pas plus que le chapeau haut et rond des Boliviens. D'ailleurs, ils se détachaient de la foule avec leurs costumes.
 
 Leur enquête aurait pu s’arrêter à ça : quelques images des rues de La Paz et un criminel en liberté, mais la chance avait tourné en leur faveur : le lendemain de leur arrivée, l’ambassadeur de France avait fait une demande officielle d’extradition à la Bolivie pour le dénommé Altmann. Cet homme était protégé par le gouvernement bolivien car son expertise et ses compétences acquises il y a trente ans de ça étaient plus qu’utiles à ce régime dictatorial. Le soir même de cette annonce, Ladislas et Christian étaient montés sur les hauteurs de La Paz pour filmer la ville en contrebas. Ils avaient pu passer au 20 heures de France 2 pour couvrir l’événement.
 
@@ -52,33 +51,54 @@ Et maintenant quoi ? Ils devaient patienter ? Allait-on les amener dans une autr
 Il observa Max du coin de l’œil. Celui-ci avait enlevé son usuel chapeau feutré qu’il tenait entre ses mains, ses yeux étaient dans le vague mais son expression était déterminée. Après tout, cette réunion serait la dernière pour les mois à venir. Les pupilles d’Émile glissèrent sur le cou de Max, il avait son écharpe blanche, elle était toujours là, même un jour d’été comme celui-ci. Ce tissu cachait une cicatrice, vestige de sa tentative de suicide. Il était de ceux qui préfèrent mourir que plier. Émile soupira. Max plaçait son honneur avant sa vie, mais tous n’avaient pas sa droiture, il avait vu des soldats déserter, trahir, et avec l’occupant au pouvoir, les félonies étaient d’autant plus nombreuses. Certes, Delestraint avait été arrêté et ils devaient nommer un nouveau dirigeant pour commander l’Armée Secrète, mais cette réunion semblait trop dangereuse aux yeux d’Émile : ils seraient tous présents. Une tête pouvait tomber, mais cinq ? Les mouvements de Résistance s’en remettraient-ils ? Il avait hâte d’en finir. Il faudrait une heure, peut-être deux s’ils peinaient à s'entendre. Finalement, qu’était une heure dans la vie d’un homme ?
 
 L’attente s’éternisait, c’est Samuel qui savait quoi faire une fois à l’intérieur de la maison, ils guettaient son signal. Ce dernier était resté silencieux, son visage creusé par l’anxiété, ce qui était normal vu la raison de leur présence. Émile jeta un coup d’œil au patient présent dans la salle d’attente. Le cinquantenaire bedonnant consultait un journal : **l’Effort, le quotidien socialiste de la reconstruction nationale** de ce 21 juin. Ce dernier titrait **« Après deux années de guerre à l’Est, le front allemand s’avère assez solide pour préserver l’Europe du front bolchévique »**. L’homme dut sentir le regard consterné d’Émile peser sur lui, puisqu'il releva ses yeux de sa lecture. Le lieutenant mit son attention ailleurs, il attrapa nonchalamment une gazette qui traînait sur une table. Il s’agissait de l’**Union Française** datant du 5 juin. Ses pupilles se perdirent sur une chronique d’Emmanuel Flandre titrée **« Les Neutres »**. Serrant les dents, il commença à déchiffrer :
-
 <style>
-    blockquote{
+    .newspaper{
         font-family: 'Times News Roman', serif;
         margin: 0 auto;
-        background-image: url('/assets/images/nouvelles/journal2.jpg');
-        padding: 0.5em;
-        width: 70%;
+        background-image: url('/assets/images/nouvelles/journal-fond.png');
+        background-size: cover;
         margin-bottom: 1em;
     }
-    blockquote span{
-        font-size: 2em;
-        font-weight: 600;
-    }
-    blockquote p{
+    .newspaper p{
         color: #000;
+    }
+    p.first{margin-top: 0.5em;}
+    p.first::first-letter{
+        font-size: 600%;
+        display:block;
+        float:left;
+    }
+    .newspaper img{
+        width: 100%;
+    }
+    figure{
+        display: flex;
+        flex-direction: column;
+        align-content: center;
+    }
+    figure span{
+        font-size: 1em;
+        font-family: 'Oswald';
     }
 </style>
 
->Le chancelier Hitler n’est pas seulement le grand politique, l’homme de l’audace et de la décision prompte et opportune, il est aussi, il ne faut pas l’oublier, le théoricien incisif et précis de cette guerre, comme il fut celui du national-socialisme. Il nous a habitués, depuis quelque temps, à des formules à l’emporte-pièce, qui font admirablement le point de la situation. En de saisissants raccourcis, qui sont d’impitoyables impératifs de l’heure, le Führer vient de prononcer des avertissements solennels à l’adresse de tous les peuples de l’Europe.
-Car, enfin, c’est par-dessus tout la lutte pour la vie de l’Europe, en tant que continent propre et indépendant qui se déroule actuellement et qui doit s’achever, soit par la dissolution de l’Europe, soit par la réalisation de son unité, souhaitée et recherchée pendant des siècles mais en vain.
-À cet égard, les paroles de Hitler sont à méditer par ceux qui dans ce vaste conflit vital n’ont pas encore cru devoir prendre leurs responsabilités.
-Et, plus récemment, il a fait en clair le procès de ce qu’il appelle si bien « le pseudo-monde neutre », ce soi-disant monde neutre qui nargue l’Allemagne d’aujourd’hui en dépit de ce qu’elle combat et saigne pour lui, et qui semble — je parle du moins pour certains petits pays — s’acoquiner de plus en plus avec les forces antifascistes, comme s’il avait la preuve que celles-ci gagneront.
-À ces enfants prodigues du continent, le Chancelier dit : « L’esprit de fausse objectivité doit disparaître et les peuples ne peuvent subsister qu’en adoptant une attitude nette ».
-Il était temps, en effet, de leur montrer que nous ne sommes pas dupes de leur duplicité. J’aime beaucoup cette expression : « Esprit de fausse objectivité ». Elle dénonce à merveille l’ignoble imposture morale du monde qui ne fait pas la guerre — d’un certain monde s’entend — monde dont la France faisait partie il n’y a pas très longtemps encore. Il n’est pas un monde, il n’est pas un peuple qui ne possède pas de préférence. Nous ne savons peut-être pas tous pour qui ou pour quoi nous sommes, mais nous savons tous contre qui ou contre quoi nous sommes.
-Nous portons tous l’un des belligérants dans notre cœur. L’indifférence n’existe pas. Qu’il y ait des Français pour souhaiter l’extermination des uns et des autres, je ne le crois pas. Dans le fond, ils sentent que la France aura besoin demain de ceux-ci ou de ceux-là. Ils le sentent à leur corps défendant, mais c’est une loi de la nature, il faut opter. Et si chacun, à part soi, a opté, il est de la plus élémentaire fierté, quand on fait seul le sacrifice de sa vie, d’exiger de chacun l’honnêteté de dire pour qui il opte.
-C’est pourquoi le Führer est, plus que quiconque au sein de l’Europe et au sein de l’Axe, fondé à demander aux peuples qui entourent l’Allemagne d’adopter une attitude nette. « Mettez bas vos masques, semble-t-il déclarer aux non-belligérants, sinon je vous démasquerai ». Cette violence n’est pas pour nous déplaire. Elle n’a rien d’outré. C’est le Christ qui a proclamé : « Qui n’est pas pour moi est contre moi ».
+<div class="row newspaper">
+    <div class="col-lg-12">
+        <img src="/assets/images/nouvelles/il-faut-opter-1.png" class="img-fluid" alt="force de l'axe europe journal seconde guerre">
+    </div>
+    <div class="col-lg-6">
+        <p class="first">Le chancelier Hitler n’est pas seulement le grand politique, l’homme de l’audace et de la décision prompte et opportune, il est aussi, il ne faut pas l’oublier, le théoricien incisif et précis de cette guerre, comme il fut celui du national-socialisme. Il nous a habitués, depuis quelque temps, à des formules à l’emporte-pièce, qui font admirablement le point de la situation. En de saisissants raccourcis, qui sont d’impitoyables impératifs de l’heure, le Führer vient de prononcer des avertissements solennels à l’adresse de tous les peuples de l’Europe.</p>
+        <p>Car, enfin, c’est par-dessus tout la lutte pour la vie de l’Europe, en tant que continent propre et indépendant qui se déroule actuellement et qui doit s’achever, soit par la dissolution de l’Europe, soit par la réalisation de son unité, souhaitée et recherchée pendant des siècles mais en vain.</p>
+        <p>À cet égard, les paroles de Hitler sont à méditer par ceux qui dans ce vaste conflit vital n’ont pas encore cru devoir prendre leurs responsabilités.</p>
+        <p>Et, plus récemment, il a fait en clair le procès de ce qu’il appelle si bien « le pseudo-monde neutre », ce soi-disant monde neutre qui nargue l’Allemagne d’aujourd’hui en dépit de ce qu’elle combat et saigne pour lui, et qui semble — je parle du moins pour certains petits pays — s’acoquiner de plus en plus avec les forces antifascistes, comme s’il avait la preuve que celles-ci gagneront.</p>
+        <p>À ces enfants prodigues du continent, le Chancelier dit : « L’esprit de fausse objectivité doit disparaître et les peuples ne peuvent subsister qu’en adoptant une attitude nette ».</p>
+    </div>
+    <div class="col-lg-6">
+        <p>Il était temps, en effet, de leur montrer que nous ne sommes pas dupes de leur duplicité. J’aime beaucoup cette expression : « Esprit de fausse objectivité ». Elle dénonce à merveille l’ignoble imposture morale du monde qui ne fait pas la guerre — d’un certain monde s’entend — monde dont la France faisait partie il n’y a pas très longtemps encore. Il n’est pas un monde, il n’est pas un peuple qui ne possède pas de préférence. Nous ne savons peut-être pas tous pour qui ou pour quoi nous sommes, mais nous savons tous contre qui ou contre quoi nous sommes.</p>
+        <p>Nous portons tous l’un des belligérants dans notre cœur. L’indifférence n’existe pas. Qu’il y ait des Français pour souhaiter l’extermination des uns et des autres, je ne le crois pas. Dans le fond, ils sentent que la France aura besoin demain de ceux-ci ou de ceux-là. Ils le sentent à leur corps défendant, mais c’est une loi de la nature, il faut opter. Et si chacun, à part soi, a opté, il est de la plus élémentaire fierté, quand on fait seul le sacrifice de sa vie, d’exiger de chacun l’honnêteté de dire pour qui il opte.</p>
+        <p>C’est pourquoi le Führer est, plus que quiconque au sein de l’Europe et au sein de l’Axe, fondé à demander aux peuples qui entourent l’Allemagne d’adopter une attitude nette. « Mettez bas vos masques, semble-t-il déclarer aux non-belligérants, sinon je vous démasquerai ». Cette violence n’est pas pour nous déplaire. Elle n’a rien d’outré. C’est le Christ qui a proclamé : « Qui n’est pas pour moi est contre moi ».</p>
+    </div>
+</div>
 
 Clac, clac, clac. Les pas de la bonne dans le couloir le sortirent de sa lecture. Il l’entendit ouvrir la porte, suivi du son de lourdes bottes talonnant le parquet. Émile tourna sa tête vers Max qui lui rendit son regard. À l’extérieur, deux silhouettes apparurent devant la porte-fenêtre, elles étaient habillées d’un imperméable noir s'arrêtant aux genoux et d’un chapeau à bords longs. Le cœur d’Émile s’emballa : la Gestapo était là.
 
@@ -138,7 +158,8 @@ Doucement, il ouvrit l’appareil et rangea les films dans une boite noire et he
 — Bien sûr mon ami.
 
 Quand il passa la porte, aucun garde ne le retint. Il quitta le ministère de l’Intérieur bolivien sans se retourner.
-*
+
+***
 Ladislas retrouva l'agitation de la rue. Il plissa les paupières face à la lumière extérieure, il s'était habitué à la pièce sombre. Par une chance miraculeuse, son exfiltration du bâtiment s'était déroulée sans encombre. Les gardes n’avaient pas protesté, preuve qu’ils n’avaient pas encore eu pour ordre de le retenir. Par chance, l’ambassade française était dans la même rue. Ironie du sort, elle était séparée du ministère de l’Intérieur par l’ambassade allemande. Il accéléra le pas sur les cent derniers mètres.
 
 Ladislas s’écroula sur une chaise et pleura comme un gamin. Après la surexcitation venait le moment d’atterrir. Il avait explosé en larmes au moment où ils avaient déposé la photo de Jean Moulin à côté des deux bobines qu’ils avaient filmées. Ils avaient fermé à clef la valise diplomatique. Christian avait géré la suite des événements : après leur interview, il avait glissé les négatifs dans une boite noire portative qu’ils avaient cachée sur le consul français. Ce dernier avait pu s’échapper de l’ambassade sans problème. Une fois tranquillisé, le cameraman avait ordonné à Ladislas de déguerpir avec les photos. Les administratifs Boliviens découvriraient dans quelques heures que les bobines données par Christian étaient vierges.
@@ -174,14 +195,17 @@ Jean Moulin une affaire française de Pierre Aknine
 
 ### Quelques questions restées sans réponse :
 #### Qui est Beate Klarsfeld ?
-Beate Klarsfeld et son époux Serge Klarsfeld sont des « chasseurs de nazis ». Ce sont eux qui en juillet 1971 apprennent que le procureur de Munich a classé une action en justice contre Klaus Barbie alors que la justice allemande sait qu’il se cache en Bolivie sous le nom de Klaus Altmann. Beate effectue plusieurs voyages en Bolivie pour demander justice et permet ainsi à la France de retrouver sa trace. Elle croisera Ladislas de Hoyos en juin 1972, juste avant son interview de Klaus Altmann. Elle lui fournira des clichés qui avaient été trouvés dans des archives de la justice allemande.
+Beate Klarsfeld et son époux Serge Klarsfeld sont des « chasseurs de nazis ». Ce sont eux qui en juillet 1971 apprennent que le procureur de Munich a classé une action en justice contre Klaus Barbie alors que la justice allemande sait qu’il se cache en Bolivie sous le nom de Klaus Altmann. Beate effectue plusieurs voyages en Bolivie pour demander justice et permet ainsi à la France de retrouver sa trace. Elle croisera Ladislas de Hoyos en février 1972, juste avant son interview de Klaus Altmann. Elle lui fournira des clichés qui avaient été trouvés dans des archives de la justice allemande.
 
 #### Qui a dénoncé Jean Moulin et la réunion de Caluire ?
 Le mystère reste encore entier. À la Libération en 1944, les archives allemandes révèlent que René Hardy, le fuyard du coup de filet de la maison du docteur Dugoujon à Caluire, s’était fait reconnaître par un résistant retourné : Jean Multon. Hardy se fait arrêter le 9 juin 1943 dans un train Lyon-Paris — 12 jours avant l’attaque. Ce même jour, Jean Moulton capture à Paris M. Delestrain, le chef de l’Armée Secrète. Les mêmes archives stipulent que la capture de Hardy de juin a permis les arrestations de Caluire. De plus, le 10 juin 1943, Hardy a une entrevue avec Barbie qui le libérera. Le 21 juin 1943, Hardy est blessé par balles lors de sa fuite. Il est le seul à ne pas avoir été menotté en sortant de la maison de Caluire.
+
 En octobre 1946, un second rapport trouvé dans les archives étrangères de Berlin mentionne que la détention d’Hardy aurait permis de découvrir des plans de sabotage de la SNCF ainsi que de nombreuses captures dont celle de Caluire.
 En 1947, il est envoyé devant la cour de justice. Il est défendu par de multiples anciens camarades résistants, plusieurs personnes lui établissant un alibi pour le 9 juin 1944. Lors de ce procès, la justice demande à entendre Klaus Barbie. En mai 1948, la justice française le localise en Allemagne, il est alors agent travaillant pour les américains qui le protègent. Barbie refuse de revenir en France car il y serait jugé pour crime de guerre, c'est donc en Allemagne et sous surveillance américaine qu’il témoigne : lors de son arrestation, Hardy lui aurait avoué qu’une réunion secrète aurait lieu à Caluire. Il lui aurait également donné le vrai nom de Max : Jean Moulin. Barbie témoigne que tous les soldats présents lors des arrestations de Caluire étaient au courant qu’Hardy devrait s’enfuir. Ce discours est considéré comme irrecevable par la cour. Hardy est donc acquitté faute de preuve le 8 mai 1950.
 En 1950, la Direction de la Surveillance du Territoire apporte une preuve de la présence d’Hardy dans le train Lyon-Paris, un ancien rapport d’un contrôle en témoigne, brisant ainsi les alibis d’Hardy. Il accuse Aubry (présent à Caluire lors des événements) de son arrestation et de celle de Caluire. Aubry était régulièrement en désaccord avec Jean Moulin et visait sa place selon certaines sources. C’est Aubry qui prend l’initiative d’emmener Hardy dans une réunion où il n’aurait pas dû être. Un contre procès est engagé après une nouvelle arrestation d’Hardy. Il évite la condamnation grâce à la « minorité de faveur » : quatre juges sur sept l’estiment fautif, une voix de plus et il aurait été jugé coupable. Hardy a fait en tout sept ans de prison préventive.
+
 En 1989, lors de son procès, Klaus Barbie via son avocat Jacques Vergès, accuse Raymond Aubrac, dit Samuel, d’être celui qui l’avait prévenu de la réunion de Caluire. Raymond Aubrac avait été, selon des archives, emprisonné par la police lyonnaise le 15 mars 1943 et mis en liberté provisoire le 10 mai 1943. Certaines archives allemandes mentionnent que la réunion de Caluire était connue depuis mai 1943 grâce à un résistant retourné, les notes ne précisent pas lequel. Aubrac fut le seul des six résistants captifs après les arrestations de Caluire à rester à la prison de Montluc. Il fut libéré par sa femme Lucie Aubrac et des camarades lors de son transfert à l’école de santé militaire le 21 octobre 1943.
+
 En 1997, Gérard Chauvy, historien, publie le livre Aubrac, Lyon 1943. Ouvrage dans lequel, s’appuyant sur le testament de Barbie écrit en 1987 et sur d’autres archives, il relève de nombreuses contradictions dans les témoignages successifs de Lucie et Raymond Aubrac. Il insinue dans son livre que le couple aurait trahi la Résistance. Pour être lavé de tout soupçon, Raymond Aubrac organise avec le journal Libération une réunion avec des historiens qu’il sélectionne, il y répondra à des questions et sera blanchi. Les Aubrac poursuivent en justice Chauvy pour diffamation et gagnent leur procès le 2 avril 1998.
 #### Sources :
 [Fiche Wikipédia | René Hardy](https://fr.wikipedia.org/wiki/Ren%C3%A9_Hardy)
@@ -191,3 +215,42 @@ En 1997, Gérard Chauvy, historien, publie le livre Aubrac, Lyon 1943. Ouvrage d
 [Fiche Wikipédia | Gérard Chauvy](https://fr.wikipedia.org/wiki/G%C3%A9rard_Chauvy)
 [Affaire Klaus Barbie : Jacques Vergès accuse Raymond Aubrac de trahison](https://www.dailymotion.com/video/x13765p)
 
+#### Quelques photos
+<div class="row">
+    <div class="col-lg-12">
+        <figure>
+            <img src="/assets/images/nouvelles/il-faut-opter-2.png" title="Ladislas de Hoyos à La Paz en 1972" alt="hoyos, la paz, 1972, bolivie, ladislas, télévision française">
+            <span>Ladislas de Hoyos sur les hauteurs de La Paz en février 1972</span>
+        </figure>
+        <figure>
+            <img src="/assets/images/nouvelles/il-faut-opter-3.png" title="Ladislas de Hoyos présentant à Klaus Altamnn/Barbie la photographie de Jean Moulin en 1972" alt="hoyos, la paz, 1972, bolivie, ladislas, télévision française, altamnn, barbie">
+            <span>Klaus Altmann/Barbie recevant la photo de Jean Moulin lors de l'interview pour France 2 en février 1972</span>
+        </figure>
+    </div>
+    <div class="col-lg-6 col-sm-6">
+        <figure>
+            <img src="/assets/images/nouvelles/il-faut-opter-4.png" title="La maison du docteur Dugoujon à Caluire" alt="caluire, dugoujon, résistance française, Jean Moulin">
+            <span>La maison du docteur Dugoujon à Caluire</span>
+        </figure>
+    </div>
+    <div class="col-lg-6 col-sm-6">
+        <figure>
+            <img src="/assets/images/nouvelles/il-faut-opter-5.png" title="L'union française du 5 juin 1943" alt="union française, 1943, journal, seconde guerre mondiale">
+            <span>Archive : L'union française du 5 juin 1943</span>
+        </figure>
+    </div>
+    <div class="col-lg-12">
+        <figure>
+            <img src="/assets/images/nouvelles/il-faut-opter-7.png" title="L'Effort du 21 juin 1943" alt="effort, 1943, journal, seconde guerre mondiale">
+            <span>Archive : L'Effort du 21 juin 1943</span>
+        </figure>
+        <figure>
+            <img src="/assets/images/nouvelles/il-faut-opter-6.png" title="Salle d'attente de la maison du docteur Dugoujon" alt="caluire,Dugoujon, Jean Moulin, Émile Schwarzfeld, Raymond Aubrac, résistance française">
+            <span>Salle d'attente de la maison du docteur Dugoujon</span>
+        </figure>
+        <figure>
+            <img src="/assets/images/nouvelles/il-faut-opter-8.png" title="Ladislas de Hoyos suivant Klaus Barbie le 13 mai 1987 en sortit de procès" alt="hoyos, 1987, lyon, ladislas, télévision française, altamnn, barbie, procès">
+            <span>Ladislas de Hoyos suivant Klaus Barbie le 13 mai 1987 en sortit de procès</span>
+        </figure>
+    </div>
+</div>

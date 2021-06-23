@@ -1,6 +1,5 @@
 ---
 title: Silence radio
-excerpt: —  Nick ? Sa voix tremblait. Vikita déglutit, elle sentait les battements de son cœur s’accélérer. Elle se retint quelques secondes avant de craquer et de réitérer son appel. Elle appuya avec force sur le bouton des communications puis s’exprima de la façon la plus autoritaire qu’elle put malgré son angoisse latente…
 published_date: "2021-05-22"
 author: Isabelle
 reviewers:
