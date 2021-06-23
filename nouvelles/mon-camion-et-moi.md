@@ -1,6 +1,5 @@
 ---
 title: Mon camion et moi
-scroll: true
 published_date: "2021-06-22"
 author: Matthieu
 reviewers:

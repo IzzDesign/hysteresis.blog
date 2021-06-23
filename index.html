@@ -35,7 +35,7 @@ layout: default
       <p class="category">Écrits et nouvelles</p>
         <div class="wrap">
           {% assign nouvelles = site.pages | where: "layout", "short-story" | sort: "published_date" | reverse %}
-        {% for n in nouvelles limit: 3 %}
+        {% for n in nouvelles limit: 4 %}
           <div class="col-lg-6 nouvelles">
             <a href="{{ n.url }}"><h3>{{ n.title }}</h3></a>
             <div class="date">{{ n.published_date | date: "%d/%m/%Y" }}</div>

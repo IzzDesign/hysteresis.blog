@@ -61,6 +61,7 @@ L’attente s’éternisait, c’est Samuel qui savait quoi faire une fois à l�
     }
     .newspaper p{
         color: #000;
+        text-align: justify;
     }
     p.first{margin-top: 0.5em;}
     p.first::first-letter{
@@ -75,7 +76,7 @@ L’attente s’éternisait, c’est Samuel qui savait quoi faire une fois à l�
 
 <div class="row newspaper">
     <div class="col-lg-12">
-        <img src="/assets/images/nouvelles/il-faut-opter-1.png" class="img-fluid" alt="force de l'axe europe journal seconde guerre">
+        <img src="/assets/images/nouvelles/il-faut-opter/il-faut-opter-1.png" class="img-fluid" alt="force de l'axe europe journal seconde guerre">
     </div>
     <div class="col-lg-6">
         <p class="first">Le chancelier Hitler n’est pas seulement le grand politique, l’homme de l’audace et de la décision prompte et opportune, il est aussi, il ne faut pas l’oublier, le théoricien incisif et précis de cette guerre, comme il fut celui du national-socialisme. Il nous a habitués, depuis quelque temps, à des formules à l’emporte-pièce, qui font admirablement le point de la situation. En de saisissants raccourcis, qui sont d’impitoyables impératifs de l’heure, le Führer vient de prononcer des avertissements solennels à l’adresse de tous les peuples de l’Europe.</p>
@@ -163,6 +164,46 @@ Bien d’autres ne reviendront pas, comme Jean Moulin, dit Max, qui périra suit
 
 Les photos montrées lors de l’interview, quant à elles, prouveront que les empreintes apposées par Altmann le jour de l’entrevue correspondaient à celles de Klaus Barbie. Il faudra attendre encore vingt-et-un ans et un changement de régime bolivien pour que l’extradition de Barbie vers la France ait lieu. Dès son arrivée, il sera détenu à la prison de Montluc, là où quarante ans plus tôt, le nazi enfermait et torturait ses victimes. Dans l'avion qui l'amena en France, il dira à un journaliste bolivien qui lui demandait s’il pensait que la France devait oublier ses méfaits : « J’ai oublié, après la guerre, tout ce qu’il s’est passé, et je n’ai pas haï, j’ai fait mon devoir ». À Lyon, quatorze mille hommes, femmes et enfants eurent affaire à lui et à la Gestapo sous son commandement. Il fut responsable de la mort de plus de quatre mille personnes et de la déportation de sept mille cinq cents juifs. Après quatre ans de procédure en France, le 11 mai 1987, démarre le procès de Barbie. Les crimes de guerre étant prescrits, il sera jugé pour crime contre l’humanité, une première en France. Lors de ce procès, Ladislas de Hoyos sera le seul reporter à pouvoir le filmer.
 
+#### Quelques photos
+<div class="row">
+    <div class="col-lg-12">
+        <figure>
+            <img src="/assets/images/nouvelles/il-faut-opter/il-faut-opter-2.png" title="Ladislas de Hoyos à La Paz en 1972" alt="hoyos, la paz, 1972, bolivie, ladislas, télévision française">
+            <span>Ladislas de Hoyos sur les hauteurs de La Paz en février 1972</span>
+        </figure>
+        <figure>
+            <img src="/assets/images/nouvelles/il-faut-opter/il-faut-opter-3.png" title="Ladislas de Hoyos présentant à Klaus Altamnn/Barbie la photographie de Jean Moulin en 1972" alt="hoyos, la paz, 1972, bolivie, ladislas, télévision française, altamnn, barbie">
+            <span>Klaus Altmann/Barbie recevant la photo de Jean Moulin lors de l'interview pour France 2 en février 1972</span>
+        </figure>
+    </div>
+    <div class="col-lg-6 col-sm-6">
+        <figure>
+            <img src="/assets/images/nouvelles/il-faut-opter/il-faut-opter-4.png" title="La maison du docteur Dugoujon à Caluire" alt="caluire, dugoujon, résistance française, Jean Moulin">
+            <span>La maison du docteur Dugoujon à Caluire</span>
+        </figure>
+    </div>
+    <div class="col-lg-6 col-sm-6">
+        <figure>
+            <img src="/assets/images/nouvelles/il-faut-opter/il-faut-opter-5.png" title="L'union française du 5 juin 1943" alt="union française, 1943, journal, seconde guerre mondiale">
+            <span>Archive : L'union française du 5 juin 1943</span>
+        </figure>
+    </div>
+    <div class="col-lg-12">
+        <figure>
+            <img src="/assets/images/nouvelles/il-faut-opter/il-faut-opter-7.png" title="L'Effort du 21 juin 1943" alt="effort, 1943, journal, seconde guerre mondiale">
+            <span>Archive : L'Effort du 21 juin 1943</span>
+        </figure>
+        <figure>
+            <img src="/assets/images/nouvelles/il-faut-opter/il-faut-opter-6.png" title="Salle d'attente de la maison du docteur Dugoujon" alt="caluire,Dugoujon, Jean Moulin, Émile Schwarzfeld, Raymond Aubrac, résistance française">
+            <span>Ancienne salle d'attente de la maison du docteur Dugoujon à Caluire</span>
+        </figure>
+        <figure>
+            <img src="/assets/images/nouvelles/il-faut-opter/il-faut-opter-8.png" title="Ladislas de Hoyos suivant Klaus Barbie le 13 mai 1987 en sortit de procès" alt="hoyos, 1987, lyon, ladislas, télévision française, altamnn, barbie, procès">
+            <span>Ladislas de Hoyos suivant Klaus Barbie le 13 mai 1987 en sortit de procès</span>
+        </figure>
+    </div>
+</div>
+
 #### Sources :
 [Sur les traces de Klaus Barbie - Un jour, une histoire - Laurent Delahousse](https://www.youtube.com/watch?v=ELSCRkSQYf4&t=2351s)
 [L'histoire de Klaus Barbie, le bourreau de Lyon | Archive INA](https://www.youtube.com/watch?v=jy9xBzF44X8&t=595s)
@@ -193,11 +234,13 @@ Le mystère reste encore entier. À la Libération en 1944, les archives alleman
 
 En octobre 1946, un second rapport trouvé dans les archives étrangères de Berlin mentionne que la détention d’Hardy aurait permis de découvrir des plans de sabotage de la SNCF ainsi que de nombreuses captures dont celle de Caluire.
 En 1947, il est envoyé devant la cour de justice. Il est défendu par de multiples anciens camarades résistants, plusieurs personnes lui établissant un alibi pour le 9 juin 1944. Lors de ce procès, la justice demande à entendre Klaus Barbie. En mai 1948, la justice française le localise en Allemagne, il est alors agent travaillant pour les américains qui le protègent. Barbie refuse de revenir en France car il y serait jugé pour crime de guerre, c'est donc en Allemagne et sous surveillance américaine qu’il témoigne : lors de son arrestation, Hardy lui aurait avoué qu’une réunion secrète aurait lieu à Caluire. Il lui aurait également donné le vrai nom de Max : Jean Moulin. Barbie témoigne que tous les soldats présents lors des arrestations de Caluire étaient au courant qu’Hardy devrait s’enfuir. Ce discours est considéré comme irrecevable par la cour. Hardy est donc acquitté faute de preuve le 8 mai 1950.
+
 En 1950, la Direction de la Surveillance du Territoire apporte une preuve de la présence d’Hardy dans le train Lyon-Paris, un ancien rapport d’un contrôle en témoigne, brisant ainsi les alibis d’Hardy. Il accuse Aubry (présent à Caluire lors des événements) de son arrestation et de celle de Caluire. Aubry était régulièrement en désaccord avec Jean Moulin et visait sa place selon certaines sources. C’est Aubry qui prend l’initiative d’emmener Hardy dans une réunion où il n’aurait pas dû être. Un contre procès est engagé après une nouvelle arrestation d’Hardy. Il évite la condamnation grâce à la « minorité de faveur » : quatre juges sur sept l’estiment fautif, une voix de plus et il aurait été jugé coupable. Hardy a fait en tout sept ans de prison préventive.
 
 En 1989, lors de son procès, Klaus Barbie via son avocat Jacques Vergès, accuse Raymond Aubrac, dit Samuel, d’être celui qui l’avait prévenu de la réunion de Caluire. Raymond Aubrac avait été, selon des archives, emprisonné par la police lyonnaise le 15 mars 1943 et mis en liberté provisoire le 10 mai 1943. Certaines archives allemandes mentionnent que la réunion de Caluire était connue depuis mai 1943 grâce à un résistant retourné, les notes ne précisent pas lequel. Aubrac fut le seul des six résistants captifs après les arrestations de Caluire à rester à la prison de Montluc. Il fut libéré par sa femme Lucie Aubrac et des camarades lors de son transfert à l’école de santé militaire le 21 octobre 1943.
 
 En 1997, Gérard Chauvy, historien, publie le livre Aubrac, Lyon 1943. Ouvrage dans lequel, s’appuyant sur le testament de Barbie écrit en 1987 et sur d’autres archives, il relève de nombreuses contradictions dans les témoignages successifs de Lucie et Raymond Aubrac. Il insinue dans son livre que le couple aurait trahi la Résistance. Pour être lavé de tout soupçon, Raymond Aubrac organise avec le journal Libération une réunion avec des historiens qu’il sélectionne, il y répondra à des questions et sera blanchi. Les Aubrac poursuivent en justice Chauvy pour diffamation et gagnent leur procès le 2 avril 1998.
+
 #### Sources :
 [Fiche Wikipédia | René Hardy](https://fr.wikipedia.org/wiki/Ren%C3%A9_Hardy)
 [Fiche Wikipédia | Beate Karlsfeld](https://fr.wikipedia.org/wiki/Beate_Klarsfeld)
@@ -205,43 +248,3 @@ En 1997, Gérard Chauvy, historien, publie le livre Aubrac, Lyon 1943. Ouvrage d
 [Fiche Wikipédia | Jacques Vergès](https://fr.wikipedia.org/wiki/Jacques_Verg%C3%A8s)
 [Fiche Wikipédia | Gérard Chauvy](https://fr.wikipedia.org/wiki/G%C3%A9rard_Chauvy)
 [Affaire Klaus Barbie : Jacques Vergès accuse Raymond Aubrac de trahison](https://www.dailymotion.com/video/x13765p)
-
-#### Quelques photos
-<div class="row">
-    <div class="col-lg-12">
-        <figure>
-            <img src="/assets/images/nouvelles/il-faut-opter-2.png" title="Ladislas de Hoyos à La Paz en 1972" alt="hoyos, la paz, 1972, bolivie, ladislas, télévision française">
-            <span>Ladislas de Hoyos sur les hauteurs de La Paz en février 1972</span>
-        </figure>
-        <figure>
-            <img src="/assets/images/nouvelles/il-faut-opter-3.png" title="Ladislas de Hoyos présentant à Klaus Altamnn/Barbie la photographie de Jean Moulin en 1972" alt="hoyos, la paz, 1972, bolivie, ladislas, télévision française, altamnn, barbie">
-            <span>Klaus Altmann/Barbie recevant la photo de Jean Moulin lors de l'interview pour France 2 en février 1972</span>
-        </figure>
-    </div>
-    <div class="col-lg-6 col-sm-6">
-        <figure>
-            <img src="/assets/images/nouvelles/il-faut-opter-4.png" title="La maison du docteur Dugoujon à Caluire" alt="caluire, dugoujon, résistance française, Jean Moulin">
-            <span>La maison du docteur Dugoujon à Caluire</span>
-        </figure>
-    </div>
-    <div class="col-lg-6 col-sm-6">
-        <figure>
-            <img src="/assets/images/nouvelles/il-faut-opter-5.png" title="L'union française du 5 juin 1943" alt="union française, 1943, journal, seconde guerre mondiale">
-            <span>Archive : L'union française du 5 juin 1943</span>
-        </figure>
-    </div>
-    <div class="col-lg-12">
-        <figure>
-            <img src="/assets/images/nouvelles/il-faut-opter-7.png" title="L'Effort du 21 juin 1943" alt="effort, 1943, journal, seconde guerre mondiale">
-            <span>Archive : L'Effort du 21 juin 1943</span>
-        </figure>
-        <figure>
-            <img src="/assets/images/nouvelles/il-faut-opter-6.png" title="Salle d'attente de la maison du docteur Dugoujon" alt="caluire,Dugoujon, Jean Moulin, Émile Schwarzfeld, Raymond Aubrac, résistance française">
-            <span>Salle d'attente de la maison du docteur Dugoujon</span>
-        </figure>
-        <figure>
-            <img src="/assets/images/nouvelles/il-faut-opter-8.png" title="Ladislas de Hoyos suivant Klaus Barbie le 13 mai 1987 en sortit de procès" alt="hoyos, 1987, lyon, ladislas, télévision française, altamnn, barbie, procès">
-            <span>Ladislas de Hoyos suivant Klaus Barbie le 13 mai 1987 en sortit de procès</span>
-        </figure>
-    </div>
-</div>

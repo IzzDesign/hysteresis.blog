@@ -1,6 +1,5 @@
 ---
 title: Rouage
-scroll: true
 published_date: "2021-05-22"
 author: Matthieu
 reviewers:
