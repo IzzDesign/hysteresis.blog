@@ -140,7 +140,7 @@ Je redescends dans le froid extérieur. Une silhouette est penchée sur le corps
 — Tu... tu l'as tué ?
 — C'est pas moi, c'est les ours.
 — Mais... c'est affreux...
-— Allez, fais pas ta mijaurée. Tu viens de me dire qu’y avait deux cent cinquante mille mecs qui se faisaient déjà la nique, c'est pas un de plus qui va changer le bilan. Allez, on se tire.
+— Allez, fais pas ta mijaurée. Tu viens de me dire qu’y avait deux cent cinquante mille mecs qui se faisaient déjà la nique, c'est pas un de plus qui va changer le bilan. Viens, on se tire.
 
 Comme il ne répond pas, je le prends par la manche et le ramène au camion. Ce qu'on ferait pas pour la famille...
 Dès que je claque la portière, je m'affale sur le siège et me désape dans la tiédeur du chauffage soufflant. Lui disparaît dans la cabine, sans un mot. Je pose la carte de crédit sur le tableau de bord, puis range mes deux potes Smith et Wesson dans la boite à gants. Un tour de clé, le moteur vrombit : soudain, Sébastian réapparaît, blanc comme un cul de nonne. Il se précipite sur la portière sans la refermer derrière lui. Rapidement, des bruits de vomi me parviennent. Je referme la porte en souriant : je finirais bien par en faire un homme. Moi aussi, la première fois que j'ai buté quelqu'un, j'ai vomi, maintenant ça ne me fait plus rien : ça lui passera aussi. C'est la seule façon de devenir important dans ce monde, et si on n'est pas prêt à écraser un peu les têtes qui dépassent, autant boire du chlore tout de suite.
