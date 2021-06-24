@@ -58,6 +58,7 @@ L’attente s’éternisait, c’est Samuel qui savait quoi faire une fois à l�
         background-image: url('/assets/images/nouvelles/journal-fond.png');
         background-size: cover;
         margin-bottom: 1em;
+        hyphens: auto;
     }
     .newspaper p{
         color: #000;
@@ -74,7 +75,7 @@ L’attente s’éternisait, c’est Samuel qui savait quoi faire une fois à l�
     }
 </style>
 
-<div class="row newspaper">
+<div class="row newspaper" lang="fr">
     <div class="col-lg-12">
         <img src="/assets/images/nouvelles/il-faut-opter/il-faut-opter-1.png" class="img-fluid" alt="force de l'axe europe journal seconde guerre">
     </div>
