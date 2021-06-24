@@ -198,6 +198,20 @@ Les photos montrées lors de l’interview, quant à elles, prouveront que les e
             <img src="/assets/images/nouvelles/il-faut-opter/il-faut-opter-6.png" title="Salle d'attente de la maison du docteur Dugoujon" alt="caluire,Dugoujon, Jean Moulin, Émile Schwarzfeld, Raymond Aubrac, résistance française">
             <span>Ancienne salle d'attente de la maison du docteur Dugoujon à Caluire</span>
         </figure>
+    </div>
+    <div class="col-lg-6 col-sm-6">
+        <figure>
+            <img src="/assets/images/nouvelles/il-faut-opter/il-faut-opter-9.png" title="Plaque commémorative sur la façade de la maison du docteur Dugoujon en l'honneur de Jean Moulin" alt="caluire, dugoujon, résistance française, Jean Moulin">
+            <span>Plaque commémorative sur la façade de la maison du docteur Dugoujon en l'honneur de Jean Moulin</span>
+        </figure>
+    </div>
+    <div class="col-lg-6 col-sm-6">
+        <figure>
+            <img src="/assets/images/nouvelles/il-faut-opter/il-faut-opter-10.png" title="Statue de Jean Moulin à Caluire en face de la maison du docteur Dugoujon" alt="caluire, dugoujon, résistance française, Jean Moulin, statue">
+            <span>Statue de Jean Moulin à Caluire en face de la maison du docteur Dugoujon</span>
+        </figure>
+    </div>
+    <div class="col-lg-12">
         <figure>
             <img src="/assets/images/nouvelles/il-faut-opter/il-faut-opter-8.png" title="Ladislas de Hoyos suivant Klaus Barbie le 13 mai 1987 en sortit de procès" alt="hoyos, 1987, lyon, ladislas, télévision française, altamnn, barbie, procès">
             <span>Ladislas de Hoyos suivant Klaus Barbie le 13 mai 1987 en sortit de procès</span>
