@@ -25,7 +25,7 @@ Il me pose une main sur l'épaule, et chacune de mes vertèbres se rapproche de 
 — D'accord monsi... Stefán.
 
 Je le suis avec mes bagages. J'ai fait tenir toute ma vie dans un sac et une petite valise. Tout ce que je laisse derrière, je ne le reverrais plus.
-Arrivé devant le véhicule, je siffle doucement d'appréciation. La bête est rutilante, énorme. Le premier marchepied se situe au niveau de mes épaules, et il faut en gravir plusieurs pour accéder à l'habitacle. La portière s'ouvre avec un bruit pneumatique, laissant s'échapper un air chaud chargé d'une odeur de tabac froid.
+Arrivé devant le véhicule, je siffle doucement d'admiration. La bête est rutilante, énorme. Le premier marchepied se situe au niveau de mes épaules, et il faut en gravir plusieurs pour accéder à l'habitacle. La portière s'ouvre avec un bruit pneumatique, laissant s'échapper un air chaud chargé d'une odeur de tabac froid.
 À gauche, Stefán a déjà pris place côté conducteur. Il fait tourner la clé et me fait signe d'utiliser l'un des deux sièges libres à sa droite. Je dépose mon sac sur un magazine en cachant mon rougissement, puis m'assoit. Pas le temps de boucler ma ceinture que l'énorme mastodonte se met en branle.
 — On s'arrache, gamin ! Sébastian, j'vais te dépuceler de la Transcontinentale...
 
