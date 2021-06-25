@@ -44,6 +44,7 @@ Allongé sur l'étroit couchage, je regarde les lumières défiler par le carrea
 De l'autre côté de la cloison, Stefán insulte copieusement un conducteur qui a déboîté devant lui. Il allait falloir m'habituer à ça… mais en faisant abstraction de mon oncle, tout était super.
 
 ***
+
 Stefán se gare vers vingt-deux heures. Le soleil n'est pas apparu de la journée, et vu notre direction, nous ne sommes pas prêts d'en voir le moindre rayon.
 Le parking brille de néons aux couleurs criardes qui promeuvent différents fast foods, strip-clubs et motels. Mon oncle se dirige vers l'un des restaurants. Le lieu reproduit une ambiance de dinner à l'américaine, et c'est autour d'une grande assiette de frites que nous entamons la discussion. Il me pose quelques questions sur la famille, d'un air distrait. Depuis que ma grand-mère lui a prêté un peu d'argent pour acheter son premier camion, on ne l'a plus jamais revu sous le toit familial. J'avais sept ans à l'époque, et je me souviens de sa dégaine nonchalante, sa tenue de cuir, ses santiags mal lavées, sa barbe drue. Je l'avais admiré toute ma jeunesse : il voyageait à travers l'Europe et l'Asie, sans avoir à gérer les problèmes du quotidien. Pour moi, il représentait la liberté à l'état pur. En grandissant, mon estime s'était parfois teintée de jalousie. Moi, je trimais à assembler des obus à la chaîne, payé au lance-pierre. Lui parcourait le globe, sans contrainte.
 Lorsque les avions devinrent interdits, on entendit encore moins parler de lui. Il était toujours occupé à livrer ça ou là je ne sais quelle console dernier cri pour les gosses riches des Chinois. Lorsque la plupart des mers du monde restèrent gelées toute l'année, les bateaux civils disparurent aussi, et la demande pour le transport routier augmenta. C'est à cette époque que les gouvernements d'Europa, l'Union des Nouveaux Travailleurs Soviétiques et la Démocratie d'Amérique eurent l'idée d'un immense axe routier. Les travaux sur la péninsule soviétique et la pointe de l'Alaska prirent des années, mais lorsqu'ils furent achevés, une nouvelle colonne vertébrale de l'humanité apparut. Les prix de l'immobilier le long de la Transcontinentale flambèrent, tandis que les régions les plus lointaines furent progressivement laissées en déshérence.
@@ -73,6 +74,7 @@ Connard. Trois trucs vraiment ? Et en quinze ans t'as pas été foutu de demande
 Mais je ferme ma gueule. Parfois, la meilleure arme contre les crétins, c'est le silence. Et puis, je ne souhaite pas finir sur le bord de route.
 
 ***
+
 Le thermomètre extérieur indique moins soixante-dix degrés Celsius.
 Sur les vingt mille kilomètres de la Transcontinentale, certains endroits sont plus fréquentés que d'autres. L'approche asiatique du détroit de Béring est particulièrement désertique : le froid y est encore plus brutal qu'ailleurs, et seuls quelques Slaves survivent ici, la plupart vivotant de petits boulots de maintenance sur la Trans et ses quelques aires. Depuis Krasnoyark, l'éclairage extérieur a disparu et nous roulons à la lueur des puissants phares. Les pneus neige dévorent les kilomètres verglacés.
 Cela fait deux jours que nous voyageons. Comme je le prévoyais, Stefán s'est avéré être un très mauvais partenaire de discussion. Il m'a violemment suggéré de fermer ma gueule lorsque j'ai proposé de conduire. Par ennui, j'ai lu l'intégralité du manuel d'entretien de son véhicule, et je suis maintenant incollable sur la tuyauterie interne et les différentes pièces. J'ai lu son contrat d'achat, les modalités pour le changement de plaque d'immatriculation, tout ce qui me passait sous la main. Mais il n'y a pas assez pour m'occuper, et j'ai donc négocié avec mon oncle un accès à l'antenne satellite du camion. Sans cette antenne, en ces lieux reculés, c'est l'isolation totale.
@@ -134,7 +136,7 @@ Ces fourmis de SK. Toutes les mêmes. Le règlement, et rien d'autre. Ils sont l
 Je dégaine et tire trois fois sur ce matériel humain.
 Putain, c'est dingue, on s'habitue jamais au vacarme de ces outils.
 Je repousse la carcasse du pied pour la planquer sous le camion, puis je monte à l'intérieur du tracteur. Je vérifie le contenu de la cargaison : du courrier pour le Mexique. Fais chier, ça vaut pas un rond. Dans la cabine à l'arrière, je choppe la couverture, parce que la mienne pue. Dans la table de nuit, une carte de crédit virtuelle, l'écran affiche 1500 ¥. Cool, ça paiera l'essence du mois et une pute.
-En repartant, je mets une balle dans l'ordinateur de bord. Je lui avais bien dit que je voulais résoudre ça maintenant et tout de suite.
+En repartant, je tire une balle dans l'ordinateur de bord. Je lui avais bien dit que je voulais résoudre ça maintenant et tout de suite.
 Je redescends dans le froid extérieur. Une silhouette est penchée sur le corps ; de la synthéfibre basse qualité, je le reconnais, coup de bol pour lui, sinon il prenait une bastos aussi.
 — Tu... tu l'as tué ?
 — C'est pas moi, c'est les ours.
@@ -149,14 +151,14 @@ Alors que je finis ma quatrième cigarette, il rentre et se rassoit. De sa poche
 ***
 
 Lorsqu'il revient des chiottes, il n'a toujours pas décroché un mot. Quatre heures qu'on roule et cette petite fiotte tire encore une gueule de déterré. La nuit est tombée depuis quelques heures, normalement j'aurais dû brancher l'autopilote et aller me pieuter, mais vu l'ambiance, je préfère conduire. C'est bandant de conduire seul, toutes les voitures se sont arrêtées depuis longtemps, et les rares camions que l'on croise tourne en automatique.
-Sebastian se rassoit lourdement tandis que sur mon tableau de bord, un indicateur apparaît en rouge clignotant.
+Sébastian se rassoit lourdement tandis que sur mon tableau de bord, un indicateur apparaît en rouge clignotant.
 — T'as chié des briquettes ? Le filtre d'évacuation des chiottes est bloqué. Je veux bien être sympa et supporter tes pleurnicheries, mais je vais pas faire la dame pipi pour toi. C'est ton problème !
 
 Je nous gare sur le bas-côté au milieu de nulle part. Sur la route, on n'a le droit de vidanger les déchets que dans certains endroits bien spécifiques, mais c'est plus une réglementation pour ces connards de SK qu'un truc qui concerne tous les routiers. On a toujours vidé nos merdes sur le bord de route et personne n'en est jamais mort.
 Je lui tends une clé à molette et commence à lui expliquer quel tuyau vider. Il m'interrompt rapidement parce qu'il "a lu tout le manuel". Comme quoi, c'est utile un intellectuel : ça sait directement quel tuyau contient la merde.
 La portière claquée, je m'empare d'un des magazines qui traîne. J'aime bien les dames dessus, elles me prennent jamais la tête.
 
-Une quinzaine de minutes plus tard, mon téléphone sonne. Sebastian m'a mis un message, il a besoin de mon aide.
+Une quinzaine de minutes plus tard, mon téléphone sonne. Sébastian m'a mis un message, il a besoin de mon aide.
 Une bordée de jurons, et me voilà emmitouflé, de nouveau dans le froid et dans la nuit. Le blizzard s'est levé, on survivrait pas deux heures dehors par ce temps. Au niveau des essieux arrière, le neveu est arc-bouté sur son outil, tentant sans succès de libérer le bouchon d'évacuation des eaux usées.
 Il tremble de façon visible sous le froid.
 — Allez, rentre te dégeler le cul au camion, sac à pisse. Mets le contact, ça fera chauffer le moteur, ça doit être bien gelé là.
@@ -173,6 +175,6 @@ Qu'est-ce que c'est que cette connerie ?
 Je sors mon téléphone pour appeler Sébastian.
 Une notification s'affiche en premier plan : « le changement de propriétaire de votre camion a bien été enregistré. Vous trouverez en pièce jointe notre facture de 1500 ¥... »
 
-Au loin, Sebastian et son camion disparaissent en même temps que ma dernière barre de réseau satellitaire.
+Au loin, Sébastian et son camion disparaissent en même temps que ma dernière barre de réseau satellitaire.
 Le vent froid me saisit.
 Ah, l'enfant de catin.
