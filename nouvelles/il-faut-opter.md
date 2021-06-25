@@ -213,8 +213,8 @@ Les photos montrées lors de l’interview, quant à elles, prouveront que les e
     </div>
     <div class="col-lg-12">
         <figure>
-            <img src="/assets/images/nouvelles/il-faut-opter/il-faut-opter-8.png" title="Ladislas de Hoyos suivant Klaus Barbie le 13 mai 1987 en sortit de procès" alt="hoyos, 1987, lyon, ladislas, télévision française, altamnn, barbie, procès">
-            <span>Ladislas de Hoyos suivant Klaus Barbie le 13 mai 1987 en sortit de procès</span>
+            <img src="/assets/images/nouvelles/il-faut-opter/il-faut-opter-8.png" title="Ladislas de Hoyos suivant Klaus Barbie le 13 mai 1987 en sortie de procès" alt="hoyos, 1987, lyon, ladislas, télévision française, altamnn, barbie, procès">
+            <span>Ladislas de Hoyos suivant Klaus Barbie le 13 mai 1987 en sortie de procès</span>
         </figure>
     </div>
 </div>
