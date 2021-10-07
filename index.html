@@ -27,11 +27,11 @@ layout: default
           <p>{{ recent.excerpt }}</p>
           <a href="{{ recent.url }}" class="soft-link">&rarr;Lire l'article </a>
         </div>
-      </div>      
+      </div>
     </div>
     <div class="col-lg-12">
       <img src="/assets/images/svg/nouvelles.svg" class="img-fluid icon">
-      <h2>Derniers écrits</h2>
+      <h2 id="derniers">Derniers écrits</h2>
       <p class="category">Écrits et nouvelles</p>
         <div class="wrap">
           {% assign nouvelles = site.pages | where: "layout", "short-story" | sort: "published_date" | reverse %}

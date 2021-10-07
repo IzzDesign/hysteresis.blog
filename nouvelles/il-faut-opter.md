@@ -33,7 +33,7 @@ Il tint avec fébrilité ses notes, cela démarrait. Lui qui avait l’habitude 
 Ladislas arrivait à la fin du scénario écrit par les autorités boliviennes, son cœur s’emballa de plus belle. Il fallait opter, décider quel type d'homme il souhaitait être. Il oublia tout : cette pièce sombre dans laquelle ils étaient, l'objectif qui tournait derrière, Christian, le consul français, le ministre de l’Intérieur bolivien et les cinq autres individus qui s’étaient assis contre le mur pour assister à cette comédie grotesque. Il oublia même Beate, qui quelques jours plus tôt lui avait dit à quel point retrouver ce criminel importait. Il oublia les millions de Français qui attendaient une réponse, qui voulaient la justice. Seul restait cet homme.
 
 Il changea les règles du jeu et se mit à poser de nouvelles questions, en allemand cette fois-ci. Ladislas ne s’en rendit pas compte, mais Christian jeta un coup d’œil aux employés du ministère qui s’échangeaient quelques messes basses. Pourtant, personne n’osa les interrompre. Après tout, cette interview avait été accordée pour faire bonne figure. Ladislas en profita pour presser son vis-à-vis avec des interrogations de plus en plus précises ; après lui avoir demandé où il était né et quand, il lui expliqua que le gouvernement allemand et le procureur de Munich avaient validé l’hypothèse que son identité actuelle était fausse. Pour eux, il était bien un criminel recherché. Klaus nia avec la même tranquillité que plus tôt, mais le reporter le coupa en pleine phrase :
-— N’êtes vous jamais allé à Lyon ?
+— N’êtes-vous jamais allé à Lyon ?
 — *Ich bin nicht in Lyon gewesen*.
 Le cœur de Ladislas s’emballa, il ne put s’empêcher de sentir un sentiment d’extrême puissance couler dans ses veines. Tout flic qu’il était, le ressortissant bolivien venait de se faire avoir : pour quelqu'un qui ne parlait pas français, il le comprenait drôlement bien. Fort de cette petite victoire, le journaliste porta une main à son veston pour en retirer la photo qu’il protégeait tant. Il jeta un coup d’œil à ce portrait en noir et blanc, celui d’un homme ; dessus, l’individu revêtait un chapeau en feutre gris aux bords larges muni d’une calotte creuse et d’un galon noir pour pourtour. Adossé contre une colonne, il était habillé d’un grand manteau sombre en feutre et d’une écharpe bien serrée contre son cou. Son regard était fier et droit. Cette photo était emblématique. Ladislas la révéla à la caméra puis la tendit à Klaus et demanda :
 — Avez-vous déjà vu cet homme ?
@@ -131,7 +131,7 @@ Klaus Altmann répéta les mots de manière assez fluide. Le journaliste ne s’
 — Monsieur Altmann, ou monsieur Barbie, je ne sais pas… vous avez la conscience tranquille ?
 — *Oui, je n’ai rien à me reprocher.*
 
-L’interview terminée, des sourires de convenance se formèrent sur tous les visages. Quand Ladislas et Altmann se serrèrent la main, les yeux de l'Allemand étaient d’acier derrière une apparence courtoise. Le journaliste vit dans son regard qu’Altmann savait s’être fait piéger. La porte se referma et une fois seul, les trois Français s’observèrent en silence. Ce moment de flottement dura quelques secondes, il marquait un retour à la réalité après un instant hors du temps. C’est Christian qui rompit leur mutisme :
+L’interview terminée, des sourires de convenance se formèrent sur tous les visages. Quand Ladislas et Altmann se serrèrent la main, les yeux de l'Allemand étaient d’acier derrière une apparence courtoise. Le journaliste vit dans son regard qu’Altmann savait s’être fait piéger. La porte se referma et une fois seuls, les trois Français s’observèrent en silence. Ce moment de flottement dura quelques secondes, il marquait un retour à la réalité après un instant hors du temps. C’est Christian qui rompit leur mutisme :
 — Ladis, c’est de la dynamite ce qu’on a…
 — N’est-ce pas, lui répondit Ladislas, mi-choqué, mi-jouissif.
 Ladislas avait l’air d’un gamin qui venait de réussir un grand coup, il avait du mal à exprimer une pensée claire. Christian eut du mal à croire qu’ils pourraient sortir d’ici avec ces images, il fronça les sourcils et se tourna vers Ladislas.
@@ -213,8 +213,8 @@ Les photos montrées lors de l’interview, quant à elles, prouveront que les e
     </div>
     <div class="col-lg-12">
         <figure>
-            <img src="/assets/images/nouvelles/il-faut-opter/il-faut-opter-8.png" title="Ladislas de Hoyos suivant Klaus Barbie le 13 mai 1987 en sortit de procès" alt="hoyos, 1987, lyon, ladislas, télévision française, altamnn, barbie, procès">
-            <span>Ladislas de Hoyos suivant Klaus Barbie le 13 mai 1987 en sortit de procès</span>
+            <img src="/assets/images/nouvelles/il-faut-opter/il-faut-opter-8.png" title="Ladislas de Hoyos suivant Klaus Barbie le 13 mai 1987 en sortie de procès" alt="hoyos, 1987, lyon, ladislas, télévision française, altamnn, barbie, procès">
+            <span>Ladislas de Hoyos suivant Klaus Barbie le 13 mai 1987 en sortie de procès</span>
         </figure>
     </div>
 </div>
