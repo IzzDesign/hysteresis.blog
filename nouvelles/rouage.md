@@ -29,7 +29,7 @@ Voilà vraiment longtemps que Margarita n'est pas passée. Le budget est serré,
 
 Je saute dans la douche ; il n'y a plus d'eau chaude, ce qui est normal vu l'heure : le réseau de distribution est partagé avec tout l'immeuble, et les derniers levés n'ont plus rien. Ça m'apprendra à utiliser ce satané SNOOZE.
 Ne dit-on pas que "L'avenir appartient à ceux qui se lèvent tôt" ? En grommelant, je me jette sous le flux glacé qui finit de me réveiller.
-Je me savonne avec énergie, puis quitte le bac de douche et me sèche d'une serviette grise à l'odeur douteuse qui a connu des jours meilleurs. J'avais pourtant souvenir qu'elle était blanche ?
+Je me savonne avec énergie, puis quitte le bac de douche et me sèche d'une serviette grise qui a connu des jours meilleurs. J'avais pourtant souvenir qu'elle était blanche ?
 Un coup de déo sous mes aisselles, un coup de peigne dans les cheveux, un coup de parfum sur la nuque gauche, un autre sur la nuque droite : aujourd'hui est un jour spécial qui mérite qu'on sente bon.
 La pile de caleçons propres est vide, mais je suis peu sorti hier, celui de la veille fera l'affaire. Je me glisse dans le pantalon du costume, boutonne ma chemise blanche, enfile ma veste. J'avais prévu de cirer mes chaussures dimanche, mais comme tous les dimanches, j'ai oublié. Je regarde l'heure, crache un juron. Hâtivement, je cire d'une main tandis que l'autre tâtonne avec les contrôles de ma machine à café. Le noir coule à gauche et luit à droite ; j'engloutis ma tasse sans respirer, en me brûlant palais et trachée. Je souffle sur mes chaussures dans une tentative dérisoire de sécher le cirage, puis je m'engouffre dans l'ascenseur avec seulement dix minutes de retard.
 
