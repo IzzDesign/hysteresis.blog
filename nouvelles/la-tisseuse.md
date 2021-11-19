@@ -20,6 +20,9 @@ tags:
         width: 30%;
     }
     .big{width: 40%;}
+    @media (max-width: 500px) {
+        .entete{width: 65%;}
+    }
 </style>
 
 <img src="/assets/images/nouvelles/tisseuse/hamamelis.png" class="entete">
