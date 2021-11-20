@@ -29,7 +29,7 @@ tags:
 
 ## Hamamélis
 
-Elle lisse de ses longs doigts les nombreux fils noirs, enchevêtrant d’une main habile les brins de coton. Elle travaille au rythme d’une horloge, chaque geste suivant le même tempo que le précédent. Ses mains dansent sur une musique familière. C’est seulement à l’arrivée du dernier brin qu’Hachiko s’arrête. Elle respire et lève les yeux. Le soleil est bien plus haut que lorsqu’elle s’était attablée à son ouvrage. La matinée se termine mais, malgré l’heure, la couleur de l’astre est douce, rehaussant le vert des arbres et brillant sur la terre humide. Son chat, Haiiro, profite de l’arrivée du printemps sur la terrasse en bois. Il lui semble que la nature s’accorde à son état, une lumineuse joie pourtant mesurée. Elle observe sa tapisserie, heureuse de la voir entière et terminée après l’avoir tant imaginée. Dès le premier battement de cils, les couleurs s’étaient imposées à elle, à la seconde où la vieille dame lui avait posé sa question. La voici, sa réponse : sous ses yeux. Hachiko fait glisser la pulpe de ses doigts sur le relief, profitant de la rugosité des fils pour s’assurer que son œuvre est bien réelle. Il ne manque plus qu’à la finaliser. Elle ouvre le tiroir et attrape de fins ciseaux d’argent. Une fois terminée, elle se lève pour aller chercher du papier de soie dans lequel elle cache la pièce faite de fils de coton. Elle l’amène dans son salon, la posant au centre même de la table sur laquelle elle prendra le thé avec la vieille dame cet après-midi.
+Elle lisse de ses longs doigts les nombreux fils noirs, enchevêtrant d’une main habile les brins de coton. Elle travaille au rythme d’une horloge, chaque geste suivant le même tempo que le précédent. Ses mains dansent sur une musique familière. C’est seulement à l’arrivée du dernier brin qu’Hachiko s’arrête. Elle respire et lève les yeux. Le soleil est bien plus haut que lorsqu’elle s’était attablée à son ouvrage. La matinée se termine mais, malgré l’heure, la couleur de l’astre est douce, rehaussant le vert des arbres et brillant sur la terre humide. Son chat, Haiiro, profite de l’arrivée du printemps sur la terrasse en bois. Il lui semble que la nature s’accorde à son état, une lumineuse joie pourtant mesurée. Elle observe sa tapisserie, heureuse de la voir entière et terminée après l’avoir tant imaginée. Dès le premier battement de cils, les couleurs s’étaient imposées à elle, à la seconde où la vieille dame lui avait posé sa question. La voici, sa réponse&nbsp;:&nbsp;sous ses yeux. Hachiko fait glisser la pulpe de ses doigts sur le relief, profitant de la rugosité des fils pour s’assurer que son œuvre est bien réelle. Il ne manque plus qu’à la finaliser. Elle ouvre le tiroir et attrape de fins ciseaux d’argent. Une fois terminée, elle se lève pour aller chercher du papier de soie dans lequel elle cache la pièce faite de fils de coton. Elle l’amène dans son salon, la posant au centre même de la table sur laquelle elle prendra le thé avec la vieille dame cet après-midi.
 
 C’est tout juste après le déjeuner qu’Hachiko entend les petits pas fouler la terre sur le chemin qui conduit jusqu’à chez elle. Elle attendait sa cliente sans vraiment le faire, sachant que son après-midi se déroulerait d’elle-même. Hachiko s’apprête dans sa cuisine, réchauffant l’eau jusqu’à ce que des minuscules bulles se forment au fond de la casserole. Elle rassemble les feuilles de thé vert. Elle amène son plateau dans le salon, là où les _shōjis_ ouverts permettent d’avoir une vue sur l’extérieur. D’abord son jardin, puis les arbres ainsi que le chemin de terre sur lequel se trouve sa visiteuse, et plus loin dans la vallée, la ville bruyante et ronflante. L’installation du plateau de thé incite la vieille dame à se déchausser et à accéder à l’intérieur de la maison en passant par la terrasse en bois surélevée. Elles s’assoient sur leurs talons, l’une en face de l’autre. Hachiko lisse son kimono beige orné de branches d’hamamélis. Le thé est servi en silence, jusqu’à ce que les deux femmes lèvent leur _chawans_ pour y tremper leurs lèvres. La discussion qui s’engage se fait chaleureuse, comme deux amies se retrouvant pour échanger des banalités, jusqu’à ce que le breuvage soit terminé. Alors seulement la dame lance un regard sur le paquet posé sur la table.
 
@@ -49,10 +49,18 @@ Le reste de l’après-midi passe avec lenteur. Petit à petit, les nuages couvr
 « Sakamoto-san ? »
 
 La voix de l’homme est inconnue. La jeune femme hoche de la tête. Une vibration dérange ses oreilles malgré le bruit de la pluie mais n’arrête pas l’homme&nbsp;:
+
 « Je suis là pour une commande. »
+
 Aucun mot ne sort de la bouche d’Hachiko.
+
 « Saviez-vous que je viendrais ? »
-Les yeux de la tisseuse glissent sur la chemise blanche qui apparaît timidement, ce long trait blanc entouré de reflets noirs. Elle ne ment pas : « Oui. » Il hoche la tête, elle le toise de haut en bas :
+
+Les yeux de la tisseuse glissent sur la chemise blanche qui apparaît timidement, ce long trait blanc entouré de reflets noirs.
+Elle ne ment pas : « Oui. »
+
+Il hoche la tête, elle le toise de haut en bas :
+
 « Pourquoi vouloir une tapisserie ?
 — Par curiosité…
 — Si ce n’est que cela, j’ai bien peur que vous soyez déçu.
