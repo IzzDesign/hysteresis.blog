@@ -104,7 +104,9 @@ Ses yeux se posent sur la liasse de yens abandonnés. Elle se sent tiraillée, a
 « Pas encore.
 — Qu’est-ce qui vous retient dans votre choix ? »
 
-Hachiko sourit : « Nous n’avons pas discuté.
+Hachiko sourit&nbsp;:
+
+« Nous n’avons pas discuté.
 — Donc, cette conversation pourrait vous décider. »
 
 Les yeux de la tisseuse parcourent son visage, ses cheveux, son cou, sa cravate rouge nouée autour d’une chemise blanche, elle cherche à s’accrocher à un détail, en vain. Elle finit par répondre&nbsp;:&nbsp;
@@ -430,14 +432,17 @@ Elle n’arrive pas à retenir les larmes, elles perlent à ses yeux sans fin. E
 « Kyūsaku, pourquoi es-tu venu me voir ?
 — Pour ça, lance-t-il avec dédain. Je voulais vous le dire. Je voulais vous voir pleurer, je voulais vous voir dévastée, je voulais que vous me suppliiez de vous pardonner. Je vous détestais. »
 
-La tisseuse déglutit avec difficulté :
+La tisseuse déglutit avec difficulté&nbsp;:
 
 « Pourquoi ne l’as-tu pas fait ? Pourquoi ne m’as-tu pas confronté dès le premier soir ?
 — Je ne sais pas.
 — Pourquoi m’as-tu traité avec douceur et gentillesse après tout ce que je t’ai fait ?
 — Je… ne sais pas. »
 
-Il inspire : « C’était… différent de ce que je m’étais imaginé. Vous étiez différente. C’est devenu… difficile de vous détester. »
+Il inspire&nbsp;:&nbsp;
+
+« C’était… différent de ce que je m’étais imaginé. Vous étiez différente. C’est devenu… difficile de vous détester. »
+
 Elle le regarde dans les yeux, les joues inondées de larmes. Il ne doit pas supporter cette vue car il baisse la tête. Hachiko ne voit plus son visage.
 
 « Arrêtez de pleurer… s’il vous plaît. »
