@@ -170,7 +170,7 @@ Elle ne reçoit pour seule réponse qu’un large sourire.
 
 <img src="/assets/images/nouvelles/tisseuse/belle-de-nuit.png" class="entete">
 
-## Belles de nuit
+## Belles-de-nuit
 Hachiko ne s’est donc pas trompée. La tapisserie qu’elle avait créée pour la vieille dame lui était bien destinée. Elle se fixe sur cette pensée et tente de laisser son cœur lourd derrière elle, en bas de la colline. Elle essaye d’alléger chaque pas qu’elle fait en direction de sa maison. Elle arrive près du champ de belles-de-nuit. Elles s’ouvrent à peine, saluant le jour qui disparaît. Juste après, derrière un arbre, la silhouette de la bâtisse en bois apparaît ainsi qu’une voiture qui commence à être familière. L’homme, lui, l’attend devant sa terrasse. 
 
 Alors qu’elle continue d'approcher, son cœur bondit de colère.
