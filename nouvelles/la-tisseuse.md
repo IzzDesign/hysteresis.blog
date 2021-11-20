@@ -60,7 +60,6 @@ Les yeux de la tisseuse glissent sur la chemise blanche qui apparaît timidement
 Elle ne ment pas : « Oui. »
 
 Il hoche la tête, elle le toise de haut en bas :
-
 « Pourquoi vouloir une tapisserie ?
 — Par curiosité…
 — Si ce n’est que cela, j’ai bien peur que vous soyez déçu.
