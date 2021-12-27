@@ -180,7 +180,7 @@ Elle ne reçoit pour seule réponse qu’un large sourire.
 <img src="/assets/images/nouvelles/tisseuse/belle-de-nuit.png" class="entete">
 
 ## Belles-de-nuit
-Hachiko ne s’est donc pas trompée. La tapisserie qu’elle avait créée pour la vieille dame lui était bien destinée. Elle se fixe sur cette pensée et tente de laisser son cœur lourd derrière elle, en bas de la colline. Elle essaye d’alléger chaque pas qu’elle fait en direction de sa maison. Elle arrive près du champ de belles-de-nuit. Elles s’ouvrent à peine, saluant le jour qui disparaît. Juste après, derrière un arbre, la silhouette de la bâtisse en bois apparaît ainsi qu’une voiture qui commence à être familière. L’homme, lui, l’attend devant sa terrasse. 
+Hachiko ne s’est donc pas trompée. La tapisserie qu’elle avait créée pour la vieille dame lui était bien destinée. Elle se fixe sur cette pensée et tente de laisser son cœur lourd derrière elle, en bas de la colline. Elle essaye d’alléger chaque pas qu’elle fait en direction de sa maison. Elle arrive près du champ de belles-de-nuit. Elles s’ouvrent à peine, saluant le jour qui disparaît. Juste après, derrière un arbre, la silhouette de la bâtisse en bois apparaît ainsi qu’une voiture qui commence à être familière. L’homme, lui, l’attend devant sa terrasse.
 
 Alors qu’elle continue d'approcher, son cœur bondit de colère.
 
@@ -321,7 +321,7 @@ Elle fronce les sourcils.
 
 « C’est différent avec vous… Je ne manque pas de réponses à vous donner, mais la signification m’échappe, j’ai l’impression de marcher à reculons. »
 
-Le bruit du ruisseau remplit le silence, ils restent tous les deux immobiles, plongés dans leurs pensées. C’est Kyūsaku qui finit par briser leur contemplation, il lui faut rentrer. Ils reviennent sur leurs pas. Comme les dernières fois, Hachiko le raccompagne à sa voiture. La balade, l’eau du ruisseau, le regard d’Ito-san l’ont rendus sereine. Un sentiment gonfle dans sa poitrine et la submerge, elle se sent prête. Avant qu’il ne rentre dans son véhicule, elle l’interpelle :
+Le bruit du ruisseau remplit le silence, ils restent tous les deux immobiles, plongés dans leurs pensées. C’est Kyūsaku qui finit par briser leur contemplation, il lui faut rentrer. Ils reviennent sur leurs pas. Comme les dernières fois, Hachiko le raccompagne à sa voiture. La balade, l’eau du ruisseau, le regard d’Ito-san l’ont rendue sereine. Un sentiment gonfle dans sa poitrine et la submerge, elle se sent prête. Avant qu’il ne rentre dans son véhicule, elle l’interpelle :
 
 « Revenez la semaine prochaine, j’aurais votre tapisserie.
 — Sakamoto-san…
@@ -362,7 +362,7 @@ Une nuit, alors que le sommeil lui échappe, elle se relève et se dirige vers s
 <img src="/assets/images/nouvelles/tisseuse/zephyrante.png" class="entete">
 
 ## Zephyranthes
-Hachiko s’est préparée, elle a lavé son visage et a coiffé ses cheveux, elle a sorti son plus beau kimono, celui orné de zephyranthes d’un rose profond. Elle l’a enfilé comme on enfilerait une armure. Elle a soulevé la pierre qui retenait la liasse de billets. Au village, très tôt ce matin sur le marché, elle a retrouvé la voisine de Nakamura-obasan. Cette dernière l’a aidé à se diriger jusqu’à la gare la plus proche ainsi qu’à retrouver Ito Kyūsaku.
+Hachiko s’est préparée, elle a lavé son visage et a coiffé ses cheveux, elle a sorti son plus beau kimono, celui orné de zephyranthes d’un rose profond. Elle l’a enfilé comme on enfilerait une armure. Elle a soulevé la pierre qui retenait la liasse de billets. Au village, très tôt ce matin sur le marché, elle a retrouvé la voisine de Nakamura-obasan. Cette dernière l’a aidée à se diriger jusqu’à la gare la plus proche ainsi qu’à retrouver Ito Kyūsaku.
 
 Dans le train, elle sent la chaleur étouffante s’intensifier à mesure que la ville approche. Elle repense à Ito-san, il n’était pas difficile à trouver : le jeune prodige dont le mariage avec la fille d’une des familles les plus riches du pays signe le rapprochement de leurs deux sociétés. Une alliance prolifique, titraient les journaux. Elle ne lui a jamais vu le sourire présent sur la photo du magazine, mais comme une mauvaise note, celui-ci lui avait donné la migraine.
 
@@ -479,7 +479,7 @@ Lorsque la porte se referme derrière elle, sa poitrine se serre. Elle se dit qu
 L’été n’a pas fini d’être suffocant, bien qu’il se termine. Hachiko se demande si la température est vraiment plus élevée que les années précédentes ou si son état d’âme rend la chaleur bien plus compliquée à supporter. Elle n’avait jamais connu le manque, elle le trouve bien douloureux. Malgré cela, elle a décidé d’embrasser les émotions qui la parcourent. Certaines sont laides, d’autres vaines, pourtant elle les accueille avec patience. Après son excursion en ville, elle a replacé la liasse de billets au même endroit, elle l’a bloquée avec le même caillou. Elle l’évite du regard à chaque fois qu’elle passe devant.
 
 Elle a symboliquement sorti chaque tissage qu’elle a reproduit ses derniers mois, les exposant pour continuer à les faire vivre. Elle n’a jamais rangé la tapisserie de Kyūsaku, elle est restée sur la table de travail, elle attend son propriétaire : deux brèves aux ailes bleues, au cou blanc, au ventre d’or, à la queue rouge, au dos vert, volant libres dans le ciel. Elle n’a pas tissé depuis des semaines.
-Hachiko s’est plongée dans l’entretien de son jardin. Elle ramasse les fleurs fanées, arrose, arrange… Elle n’a jamais été aussi méthodique. 
+Hachiko s’est plongée dans l’entretien de son jardin. Elle ramasse les fleurs fanées, arrose, arrange… Elle n’a jamais été aussi méthodique.
 
 Ce soir-là, elle profite du crépuscule pour arroser les plants. Elle inspire avec joie l’odeur de la terre humide ainsi que le parfum des fleurs d’ylang-ylang jaunes, une douce senteur qui ressemble à de la vanille épicée. Elle passe la pulpe de ses doigts sur les feuilles et les branchages, elle se perd dans ses pensées. Un bruit la fait pourtant sursauter. Elle a entendu le moteur d’une voiture, elle reste immobile, le sang commence à battre à ses oreilles, elle guette d’autres bruits.
 
