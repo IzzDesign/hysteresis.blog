@@ -321,7 +321,7 @@ Elle fronce les sourcils.
 
 « C’est différent avec vous… Je ne manque pas de réponses à vous donner, mais la signification m’échappe, j’ai l’impression de marcher à reculons. »
 
-Le bruit du ruisseau remplit le silence, ils restent tous les deux immobiles, plongés dans leurs pensées. C’est Kyūsaku qui finit par briser leur contemplation, il lui faut rentrer. Ils reviennent sur leurs pas. Comme les dernières fois, Hachiko le raccompagne à sa voiture. La balade, l’eau du ruisseau, le regard d’Ito-san l’ont rendus sereine. Un sentiment gonfle dans sa poitrine et la submerge, elle se sent prête. Avant qu’il ne rentre dans son véhicule, elle l’interpelle :
+Le bruit du ruisseau remplit le silence, ils restent tous les deux immobiles, plongés dans leurs pensées. C’est Kyūsaku qui finit par briser leur contemplation, il lui faut rentrer. Ils reviennent sur leurs pas. Comme les dernières fois, Hachiko le raccompagne à sa voiture. La balade, l’eau du ruisseau, le regard d’Ito-san l’ont rendue sereine. Un sentiment gonfle dans sa poitrine et la submerge, elle se sent prête. Avant qu’il ne rentre dans son véhicule, elle l’interpelle :
 
 « Revenez la semaine prochaine, j’aurais votre tapisserie.
 — Sakamoto-san…
@@ -362,7 +362,7 @@ Une nuit, alors que le sommeil lui échappe, elle se relève et se dirige vers s
 <img src="/assets/images/nouvelles/tisseuse/zephyrante.png" class="entete">
 
 ## Zephyranthes
-Hachiko s’est préparée, elle a lavé son visage et a coiffé ses cheveux, elle a sorti son plus beau kimono, celui orné de zephyranthes d’un rose profond. Elle l’a enfilé comme on enfilerait une armure. Elle a soulevé la pierre qui retenait la liasse de billets. Au village, très tôt ce matin sur le marché, elle a retrouvé la voisine de Nakamura-obasan. Cette dernière l’a aidé à se diriger jusqu’à la gare la plus proche ainsi qu’à retrouver Ito Kyūsaku.
+Hachiko s’est préparée, elle a lavé son visage et a coiffé ses cheveux, elle a sorti son plus beau kimono, celui orné de zephyranthes d’un rose profond. Elle l’a enfilé comme on enfilerait une armure. Elle a soulevé la pierre qui retenait la liasse de billets. Au village, très tôt ce matin sur le marché, elle a retrouvé la voisine de Nakamura-obasan. Cette dernière l’a aidée à se diriger jusqu’à la gare la plus proche ainsi qu’à retrouver Ito Kyūsaku.
 
 Dans le train, elle sent la chaleur étouffante s’intensifier à mesure que la ville approche. Elle repense à Ito-san, il n’était pas difficile à trouver : le jeune prodige dont le mariage avec la fille d’une des familles les plus riches du pays signe le rapprochement de leurs deux sociétés. Une alliance prolifique, titraient les journaux. Elle ne lui a jamais vu le sourire présent sur la photo du magazine, mais comme une mauvaise note, celui-ci lui avait donné la migraine.
 
@@ -435,7 +435,7 @@ La tisseuse déglutit avec difficulté&nbsp;:
 
 « Pourquoi ne l’as-tu pas fait ? Pourquoi ne m’as-tu pas confronté dès le premier soir ?
 — Je ne sais pas.
-— Pourquoi m’as-tu traité avec douceur et gentillesse après tout ce que je t’ai fait ?
+— Pourquoi m’as-tu traitée avec douceur et gentillesse après tout ce que je t’ai fait ?
 — Je… ne sais pas. »
 
 Il inspire&nbsp;:&nbsp;
@@ -487,7 +487,7 @@ Au claquement d’une portière, elle lâche son arrosoir. Son cœur s’emballe
 
 « Hachiko… Je… voulais te dire… »
 Il souffle doucement, elle frémit.
-« Je suis désolée j’ai mis du temps.
+« Je suis désolé j’ai mis du temps.
 — Tout va bien, je t’attendais.
 — Le mariage… il n’y en a plus… C’est ce que j’étais venu te dire. »
 
