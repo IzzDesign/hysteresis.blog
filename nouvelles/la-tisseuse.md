@@ -180,7 +180,7 @@ Elle ne reçoit pour seule réponse qu’un large sourire.
 <img src="/assets/images/nouvelles/tisseuse/belle-de-nuit.png" class="entete">
 
 ## Belles-de-nuit
-Hachiko ne s’est donc pas trompée. La tapisserie qu’elle avait créée pour la vieille dame lui était bien destinée. Elle se fixe sur cette pensée et tente de laisser son cœur lourd derrière elle, en bas de la colline. Elle essaye d’alléger chaque pas qu’elle fait en direction de sa maison. Elle arrive près du champ de belles-de-nuit. Elles s’ouvrent à peine, saluant le jour qui disparaît. Juste après, derrière un arbre, la silhouette de la bâtisse en bois apparaît ainsi qu’une voiture qui commence à être familière. L’homme, lui, l’attend devant sa terrasse. 
+Hachiko ne s’est donc pas trompée. La tapisserie qu’elle avait créée pour la vieille dame lui était bien destinée. Elle se fixe sur cette pensée et tente de laisser son cœur lourd derrière elle, en bas de la colline. Elle essaye d’alléger chaque pas qu’elle fait en direction de sa maison. Elle arrive près du champ de belles-de-nuit. Elles s’ouvrent à peine, saluant le jour qui disparaît. Juste après, derrière un arbre, la silhouette de la bâtisse en bois apparaît ainsi qu’une voiture qui commence à être familière. L’homme, lui, l’attend devant sa terrasse.
 
 Alors qu’elle continue d'approcher, son cœur bondit de colère.
 
@@ -479,7 +479,7 @@ Lorsque la porte se referme derrière elle, sa poitrine se serre. Elle se dit qu
 L’été n’a pas fini d’être suffocant, bien qu’il se termine. Hachiko se demande si la température est vraiment plus élevée que les années précédentes ou si son état d’âme rend la chaleur bien plus compliquée à supporter. Elle n’avait jamais connu le manque, elle le trouve bien douloureux. Malgré cela, elle a décidé d’embrasser les émotions qui la parcourent. Certaines sont laides, d’autres vaines, pourtant elle les accueille avec patience. Après son excursion en ville, elle a replacé la liasse de billets au même endroit, elle l’a bloquée avec le même caillou. Elle l’évite du regard à chaque fois qu’elle passe devant.
 
 Elle a symboliquement sorti chaque tissage qu’elle a reproduit ses derniers mois, les exposant pour continuer à les faire vivre. Elle n’a jamais rangé la tapisserie de Kyūsaku, elle est restée sur la table de travail, elle attend son propriétaire : deux brèves aux ailes bleues, au cou blanc, au ventre d’or, à la queue rouge, au dos vert, volant libres dans le ciel. Elle n’a pas tissé depuis des semaines.
-Hachiko s’est plongée dans l’entretien de son jardin. Elle ramasse les fleurs fanées, arrose, arrange… Elle n’a jamais été aussi méthodique. 
+Hachiko s’est plongée dans l’entretien de son jardin. Elle ramasse les fleurs fanées, arrose, arrange… Elle n’a jamais été aussi méthodique.
 
 Ce soir-là, elle profite du crépuscule pour arroser les plants. Elle inspire avec joie l’odeur de la terre humide ainsi que le parfum des fleurs d’ylang-ylang jaunes, une douce senteur qui ressemble à de la vanille épicée. Elle passe la pulpe de ses doigts sur les feuilles et les branchages, elle se perd dans ses pensées. Un bruit la fait pourtant sursauter. Elle a entendu le moteur d’une voiture, elle reste immobile, le sang commence à battre à ses oreilles, elle guette d’autres bruits.
 
