@@ -155,7 +155,7 @@ Le reste de la semaine passe dans une lenteur sournoise. Hachiko ne peut s’emp
 
 Un jour, après une journée à cogiter, elle n’y tient pas, il lui faut bouger ; elle se chausse et se dirige à pied vers le village en contrebas. Il lui faut de toute manière faire quelques courses, mais son véritable but est tout autre : elle a besoin de savoir si elle a fait une erreur.
 
-Son sac rempli d’emplettes, elle erre dans le village à la recherche d’une maison bien particulière, une à la porte et aux volets bleus, dont le jardin est rempli de tulipes blanches. Elle la trouve après quelques pérégrinations mais quelques détails lui font froncer les sourcils : les fleurs sont déjà fanées et les volets sont fermés en une si belle fin de journée de printemps. Elle toque à la porte en vain. La jeune femme finit par se diriger vers une passante pour lui demander si la vieille dame est là aujourd’hui.
+Son sac rempli d’emplettes, elle erre dans le village à la recherche d’une maison bien particulière, une à la porte et aux volets bleus, dont le jardin est rempli de tulipes blanches. Elle la trouve après quelques pérégrinations mais certains détails lui font froncer les sourcils : les fleurs sont déjà fanées et les volets sont fermés en une si belle fin de journée de printemps. Elle toque à la porte en vain. La jeune femme finit par se diriger vers une passante pour lui demander si la vieille dame est là aujourd’hui.
 
 « Oh… Laissez-moi deviner, vous êtes la jeune tisseuse qui habite plus haut sur la colline ?
 — Oui, je suis Sakamoto Hachiko.
