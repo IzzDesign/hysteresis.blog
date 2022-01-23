@@ -112,7 +112,7 @@ Les yeux de la tisseuse parcourent son visage, ses cheveux, son cou, sa cravate 
 
 « Possible. »
 
-L’homme soupire, puis détache sa veste pour la plier et la poser à côté de lui. Elle le regarde faire. Il fait des gestes méticuleux, puis croise les bras alors que de nouvelles vibrations font trembler le parquet&nbsp;:
+L’homme soupire, puis détache sa veste pour l'enlever et la poser à côté de lui. Elle le regarde faire. Il fait des gestes méticuleux, puis croise les bras alors que de nouvelles vibrations font trembler le parquet&nbsp;:
 
 « Bien. J’attends vos questions.
 — N’est-ce pas vous qui êtes venu à moi ?
@@ -133,7 +133,7 @@ La bouche d’Hachiko s’affaisse, elle l’observe en silence, les mains posé
 — Vous payez ce loisir bien cher.
 — C’est votre don que je paye. »
 
-Cette fois ses lèvres se pincent, l’homme le remarque. Il se dérobe du regard accusateur d’Hachiko en relevant sa montre pour observer l’heure. L’objet doré se retrouve devant le rouge de sa cravate. La tisseuse fixe les formes qui se détachent l’une de l’autre, elles composent exactement le motif de l’une de ses tapisseries, elle ne peut oublier la couleur or des fils qu’elle avait choisis pour la réaliser. La vision se brise alors qu’il baisse son bras. La jeune femme se relève avec lenteur, marchant sans bruit sur son parquet. Elle prend congé. Malgré la délicatesse de ses pas, son cœur tambourine avec force dans sa poitrine, elle fait le souhait que ce dernier ne soit pas entendu, retenant presque son souffle. Elle passe devant l’inconnu qui lâche un soupir. Elle s’arrête devant l’ouverture, n’ayant pas encore posé le pied à l’intérieur de son salon. Dans un élan, elle annonce avec clarté :
+Cette fois ses lèvres se pincent, l’homme le remarque. Il se dérobe du regard accusateur d’Hachiko en relevant sa manche pour observer l’heure. L’objet doré se retrouve devant le rouge de sa cravate. La tisseuse fixe les formes qui se détachent l’une de l’autre, elles composent exactement le motif de l’une de ses tapisseries, elle ne peut oublier la couleur or des fils qu’elle avait choisis pour la réaliser. La vision se brise alors qu’il baisse son bras. La jeune femme se relève avec lenteur, marchant sans bruit sur son parquet. Elle prend congé. Malgré la délicatesse de ses pas, son cœur tambourine avec force dans sa poitrine, elle fait le souhait que ce dernier ne soit pas entendu, retenant presque son souffle. Elle passe devant l’inconnu qui lâche un soupir. Elle s’arrête devant l’ouverture, n’ayant pas encore posé le pied à l’intérieur de son salon. Dans un élan, elle annonce avec clarté :
 
 « Je vais le faire. »
 
@@ -142,7 +142,7 @@ Elle ne lui laisse pas le temps de réagir, elle passe la porte, la glisse jusqu
 <img src="/assets/images/nouvelles/tisseuse/coquelicot.png" class="entete">
 
 ## Coquelicots
-Elle constate le lendemain matin que les billets sont toujours là. Il a donc accepté son offre. Elle soupire. Sa nuit a été agitée, peuplée d'or et de coquelicots. Elle déjeune à l’extérieur malgré l’air frisquet du matin, sur la même table où elle s’est assise hier avec l’homme. Hachiko a les yeux perdus dans le vague, elle fait distraitement jouer ses baguettes entre les grains de riz. Haiiro se frotte à ses genoux, la sortant de ses rêveries, lui arrachant un sourire.
+Elle constate le lendemain matin que les billets sont toujours là. Il a donc accepté son offre. Elle soupire. Sa nuit a été agitée, peuplée d'or et de coquelicots. Elle déjeune à l’extérieur malgré l’air frisquet du matin, à la même place où elle s’est assise hier avec l’homme. Hachiko a les yeux perdus dans le vague, elle fait distraitement jouer ses baguettes entre les grains de riz. Haiiro se frotte à ses genoux, la sortant de ses rêveries, lui arrachant un sourire.
 
 Cette fois-ci, elle n’attend pas une semaine. Elle se dirige vers sa salle de travail, bien décidée à tisser l’ouvrage qu’elle a aperçu hier. Elle veut comprendre. Elle veut savoir pourquoi ses visions reviennent. La tisseuse se met à jouer avec ses mains pour entremêler les fils, pianotant pour les nouer avec grâce. Ceux d’or se mélangent aux rouges, les recouvrant tel un ruisseau. Hachiko s’emporte, accélère le rythme de ses doigts, fait voler les brins, elle se sent prise dans une danse effrénée qui ne peut s’arrêter qu’une fois que la dernière note est jouée.
 
@@ -151,7 +151,7 @@ Lorsque la pression retombe, elle cligne des yeux. Fort heureusement, elle a eu 
 <img src="/assets/images/nouvelles/tisseuse/tulipe.png" class="entete">
 
 ## Tulipes blanches
-Le reste de la semaine passe dans une lenteur sournoise. Hachiko ne peut s’empêcher de se demander si le temps ne se jouerait pas d’elle après avoir été son allié si longtemps. L’homme n’a pas dit quand il repasserait, mais par réflexe elle n’a pas compté les jours. Elle passe ses heures à scruter l’horizon, les feuilles, l’herbe… Elle cherche des détails dans tous les recoins de sa vision, espérant recevoir une réponse mais plus son esprit s’y fixe, plus Hachiko se sent perdue. Le manque de solution la questionne : a-t-elle donné les tapisseries aux mauvais destinataires ? Quelles conséquences cela a-t-il eues ? S’est-elle trompée ?
+Le reste de la semaine passe dans une lenteur sournoise. Hachiko ne peut s’empêcher de se demander si le temps ne se jouerait pas d’elle après avoir été son allié si longtemps. L’homme n’a pas dit quand il repasserait, mais elle n’a pas compté les jours. Elle passe ses heures à scruter l’horizon, les feuilles, l’herbe… Elle cherche des détails dans tous les recoins de sa vision, espérant recevoir une réponse mais plus son esprit s’y fixe, plus Hachiko se sent perdue. Le manque de solution la questionne : a-t-elle donné les tapisseries aux mauvais destinataires ? Quelles conséquences cela a-t-il eues ? S’est-elle trompée ?
 
 Un jour, après une journée à cogiter, elle n’y tient pas, il lui faut bouger ; elle se chausse et se dirige à pied vers le village en contrebas. Il lui faut de toute manière faire quelques courses, mais son véritable but est tout autre : elle a besoin de savoir si elle a fait une erreur.
 
@@ -180,7 +180,7 @@ Elle ne reçoit pour seule réponse qu’un large sourire.
 <img src="/assets/images/nouvelles/tisseuse/belle-de-nuit.png" class="entete">
 
 ## Belles-de-nuit
-Hachiko ne s’est donc pas trompée. La tapisserie qu’elle avait créée pour la vieille dame lui était bien destinée. Elle se fixe sur cette pensée et tente de laisser son cœur lourd derrière elle, en bas de la colline. Elle essaye d’alléger chaque pas qu’elle fait en direction de sa maison. Elle arrive près du champ de belles-de-nuit. Elles s’ouvrent à peine, saluant le jour qui disparaît. Juste après, derrière un arbre, la silhouette de la bâtisse en bois apparaît ainsi qu’une voiture qui commence à être familière. L’homme, lui, l’attend devant sa terrasse.
+Hachiko ne s’est donc pas trompée. La tapisserie qu’elle avait créée pour la vieille dame lui était bien destinée. Elle se fixe sur cette pensée et tente de laisser son cœur lourd derrière elle, en bas de la colline. Elle essaye d’alléger chacun des pas qu’elle fait en direction de sa maison. Elle arrive près du champ de belles-de-nuit. Elles s’ouvrent à peine, saluant le jour qui disparaît. Juste après, derrière un arbre, la silhouette de la bâtisse en bois apparaît ainsi qu’une voiture qui commence à être familière. L’homme, lui, l’attend devant sa terrasse.
 
 Alors qu’elle continue d'approcher, son cœur bondit de colère.
 
@@ -197,9 +197,9 @@ Il la fixe. Elle réalise que ce n’était peut-être pas exactement ce qu’il
 
 « Je n’ai pas encore ce que vous voulez de moi. Je n’ai pas eu de vision. »
 
-Il baisse la tête, croise les bras et évite son regard. Son ego piqué à vif, elle se dit qu’il va retirer sa commande mais il soupire, marche vers elle, la dépasse, se dirige à pas décidés vers sa voiture, ouvre la portière, rentre, allume le moteur et démarre. Hachiko le regarde faire bouche bée.
+Il baisse la tête, croise les bras et évite son regard. Son ego piqué à vif, elle se dit qu’il va retirer sa commande mais il soupire, marche vers elle, la dépasse, se dirige à pas décidés vers sa voiture, ouvre la portière, rentre, allume le moteur et démarre. Hachiko le regarde bouche bée.
 
-Elle rentre chez elle encore abasourdie. Elle s'agite avec des préoccupations banales : ranger ses courses, nourrir le chat, préparer à manger. Elle occupe ses mains pour éviter de faire monter la colère en elle. Elle qui s’est confiée, n’a eu que du dédain et de l’indifférence. Elle s’étonne quand le moteur d’une voiture s’approche. Hachiko sort par la porte-fenêtre. L’homme s’avance, il a quelques sacs dans la main :
+Elle rentre chez elle encore abasourdie. Elle s'agite avec des préoccupations banales : ranger ses courses, nourrir le chat, préparer à manger. Elle occupe ses mains pour éviter de faire monter la colère en elle. Elle qui s’est confiée, n’a eu que du dédain et de l’indifférence. Elle s’étonne d'entendre le moteur d’une voiture qui s’approche. Hachiko sort par la porte-fenêtre. L’homme s’avance, il a quelques sacs dans la main :
 
 « On m’a toujours dit que dans des situations comme ça, il faut boire avec un ami. Donc…
 — Nous sommes amis ?
@@ -388,7 +388,7 @@ L’homme garde la bouche close.
 — Ma mère…
 — Elle était ma voisine, ma meilleure amie, ma bouffée d'oxygène… J’avais dix-sept ans, elle vingt-cinq. Avant elle, je n’avais ma place nulle part. Avec elle, j’avais trouvé quelqu’un qui était mon miroir, quelqu’un qui faisait écho à ma détresse.
 — Elle n’était pas malheureuse.
-— Elle t’a eu si jeune… Tu avais déjà neuf ans quand je vous ai connu. Tu te souviens de cette époque ?
+— Elle t’a eu si jeune… Tu avais déjà neuf ans quand je vous ai connus. Tu te souviens de cette époque ?
 — Peu d’elle, murmure-t-il. J’ai oublié. Je me souviens juste qu’elle riait beaucoup, qu’elle chantait.
 — Elle avait une voix magnifique.
 — Je me souviens très bien de vous, ma mère me disait que vous aviez un don…
