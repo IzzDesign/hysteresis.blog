@@ -108,7 +108,7 @@ Hachiko sourit&nbsp;:
 « Nous n’avons pas discuté.
 — Donc, cette conversation pourrait vous décider. »
 
-Les yeux de la tisseuse parcourent son visage, ses cheveux, son cou, sa cravate rouge nouée autour d’une chemise blanche, elle cherche à s’accrocher à un détail, en vain. Elle finit par répondre&nbsp;:&nbsp;
+Les yeux de la tisseuse parcourent son visage, ses cheveux, son cou, sa cravate rouge nouée autour d’une chemise blanche, elle cherche à s’accrocher à un détail, en vain. Elle finit par répondre&nbsp;:
 
 « Possible. »
 
