@@ -13,6 +13,7 @@ scroll: true
         <p class="date">{{ page.published_date | date: "%d/%m/%Y" }}</p>
         <p class="category">Auteur</p>
         {% include author.html author_name=page.author %}
+        <p>Temps de lecture estimé : {{ content|size|divided_by:6|divided_by:250|round}} minutes </p>
       </div>
       <div class="lettrine">
         {{ content | replace: " »", "&nbsp;»"| replace:"« ", "«&nbsp;"| replace:" ?", "&nbsp;?"| replace:" !", "&nbsp;!" }}
@@ -46,6 +47,9 @@ scroll: true
               </div>
             {% endif %}
           {% endfor %}
+          {% if counter == 0 %}
+          <p>Aucune autre nouvelle.</p>
+          {% endif %}
         </div>
     </div>
     <div class="col-lg-4">
