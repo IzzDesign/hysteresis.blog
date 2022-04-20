@@ -21,6 +21,7 @@ $regular-title: 400;
   align-items: center;
   margin-bottom: 2em;
   text-align: center;
+  width: 100%;
 }
 .flex{
   display: flex;
@@ -113,13 +114,18 @@ a h4{
   }
 }
 
-.category{
+.category, .divers{
   font-family: $font-texte;
   text-transform: uppercase;
   letter-spacing: 1em;
   font-size: 0.8em;
   margin-top: 1em;
   color: $gris;
+}
+
+.divers{
+  letter-spacing: 0.3em;
+  text-align: center;
 }
 
 .soft-link{

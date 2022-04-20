@@ -11,9 +11,9 @@ scroll: true
         <p class="category">Écrits et nouvelles</p>
         <h1>{{ page.title }}</h1>
         <p class="date">{{ page.published_date | date: "%d/%m/%Y" }}</p>
+        <p class="date">Temps de lecture estimé : {{ content|size|divided_by:6|divided_by:250|round}} minutes </p>
         <p class="category">Auteur</p>
         {% include author.html author_name=page.author %}
-        <p>Temps de lecture estimé : {{ content|size|divided_by:6|divided_by:250|round}} minutes </p>
       </div>
       <div class="lettrine">
         {{ content | replace: " »", "&nbsp;»"| replace:"« ", "«&nbsp;"| replace:" ?", "&nbsp;?"| replace:" !", "&nbsp;!" }}
@@ -37,18 +37,23 @@ scroll: true
           {% assign nouvelles = site.pages | where: "layout", "short-story" | sort: "date" | reverse %}
           {% assign counter = 0 %}
           {% for n in nouvelles %}
-            {% if page.title != n.title and page.author == n.author and counter < 4 %}
+            {% if page.title != n.title and page.author == n.author and counter < 3 %}
               {% assign counter = counter | plus: 1 %}
               <div class="col-lg-12 nouvelles">
                 <a href="{{ n.url }}"><h3>{{ n.title }}</h3></a>
-                <div class="date">{{ n.published_date | date: "%d/%m/%Y" }}</div>
+                <div class="date">{{ n.published_date | date: "%d/%m/%Y" }} | {{ n.content|size|divided_by:6|divided_by:250|round}} minutes</div>
                 {% include author.html author_name=n.author %}
                 {% include tag.html tags=n.tags %}
               </div>
             {% endif %}
           {% endfor %}
           {% if counter == 0 %}
-          <p>Aucune autre nouvelle.</p>
+          <div class="center">
+            <p class="divers">Aucune autre nouvelle</p>
+            <p class="divers">voir la fiche auteur</p>
+            {% include author.html author_name=page.author %}
+          </div>
+          
           {% endif %}
         </div>
     </div>
@@ -61,7 +66,7 @@ scroll: true
           {% assign nouvelles = site.pages | where: "layout", "short-story" | sort: "date" %}
           {% assign counter = 0 %}
           {% for n in nouvelles %}
-            {% if page.author != n.author and counter < 4 %}
+            {% if page.author != n.author and counter < 3 %}
               {% assign counter = counter| plus: 1 %}
               <div class="col-lg-12 nouvelles">
                 <a href="{{ n.url }}"><h3>{{ n.title }}</h3></a>
