@@ -1,3 +1,10 @@
+---
+title: Le gardien de phare
+published_date: "2022-04-27"
+author: Matthieu
+tags:
+    - nouvelles
+---
 Çizif se réveille en sursaut. Les braises dans le foyer ne rougeoient plus.
 D'un pas lourd, il descend l'escalier en spirale, ses doigts frottent la pierre lisse de la paroi.
 En bas, il compte les traits inscrits sur le mur. C'est sa dernière journée.
@@ -26,7 +33,7 @@ C'est le père de sa femme, un armateur, qui lui avait trouvé ce poste. "Excell
 Lever, frapper.
 Les premières semaines au phare avaient été dures.
 Lever, frapper.
-Le jour de son départ, à l'Assomption, elle lui avait annoncé être enceinte. Il avait voulu tout annuler, rester. Elle l'avait convaincu : "pour le bébé, c'est mieux que tu ne sois pas là, au moins les premiers mois". C'est vrai qu'éméché, il se laissait un peu emporter. Sa femme pouvait endurer, mais probablement pas l'enfant dans son ventre.
+Le jour de son départ, à l'Assomption, elle lui avait annoncé être enceinte. Il avait voulu tout annuler, rester. Elle l'avait convaincu : "pour 7le bébé, c'est mieux que tu ne sois pas là, au moins les premiers mois". C'est vrai qu'éméché, il se laissait un peu emporter. Sa femme pouvait endurer, mais probablement pas l'enfant dans son ventre.
 Lever... frapper ?
 
 Il interrompt son mouvement, perdu dans ses pensées.
