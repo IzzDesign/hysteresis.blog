@@ -10,12 +10,13 @@ D'un pas lourd, il descend l'escalier en spirale, ses doigts frottent la pierre 
 En bas, il compte les traits inscrits sur le mur. C'est sa dernière journée.
 Ce soir, il gravera le bâtonnet final, et demain, le bateau viendra.
 
-Comme tous les matins, il fait le tour de son île. Dans une nasse cousue de son ultime chemise, il trouve quelques poissons. Une mouette le survole, riant de sa maigre pêche. Sans trop y croire, il lui lance un galet et l'oiseau s'effondre, assommé au sol. Il salive d'avance en le ramassant, cela fait longtemps qu'il n'a pas eu l'occasion de manger autre chose que du poisson.
+Comme tous les matins, il fait le tour de son île. Dans une nasse cousue de son ultime chemise, il trouve quelques poissons. Une mouette survole le piège, riant de sa maigre pêche.
+Il lance un galet et l'oiseau s'effondre, assommé au sol. Il salive d'avance en ramassant le volatile : voilà bien longtemps qu'il n'a pas mangé autre chose que du poisson.
 Ses réserves de nourriture séchée ont déjà été dévorées. Peut-être aurait-il dû mieux se rationner ?
-Il mord le poisson à pleines dents. À la deuxième bouchée, l'animal cesse de se débattre, et il peut plus facilement extraire les viscères et l'arête centrale.
+Il saisit l'un des poissons prisonniers, le mord à pleines dents. À la deuxième bouchée, l'animal cesse de se débattre, et il peut plus facilement extraire les viscères et l'arête centrale.
 Il engloutit le reste, les yeux fixés sur la houle calme du matin et l'éternel ressac.
 
-Au bas du phare, il plume l'oiseau lapidé. La masse froide du bâtiment le protège du soleil d'été. Son ouvrage terminé, il range le volatile dans son sac.
+Au bas du phare, il plume l'oiseau lapidé. La masse froide du bâtiment le protège du soleil d'été. Son ouvrage terminé, il range la mouette dans son sac.
 Ses mains rugueuses saisissent la hachette, et passent le fer émoussé sur sa meule à aiguiser.
 
 Il lui faut quelques minutes de marche pour rejoindre les premiers arbres. Leur ombre est bienvenue, tandis qu'il commence sa tâche.
