@@ -5,7 +5,7 @@ author: Matthieu
 tags:
     - nouvelles
 ---
-Çizif se réveille en sursaut. Les braises dans le foyer ne rougeoient plus.
+Çizif se réveille en sursaut, le visage baigné de larmes. Les braises dans le foyer ne rougeoient plus.
 D'un pas lourd, il descend l'escalier en spirale, ses doigts frottent la pierre lisse de la paroi.
 En bas, il compte les traits inscrits sur le mur. C'est sa dernière journée.
 Ce soir, il gravera le bâtonnet final, et demain, le bateau viendra.
