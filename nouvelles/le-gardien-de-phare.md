@@ -6,17 +6,16 @@ tags:
     - nouvelles
 ---
 Çizif se réveille en sursaut, le visage baigné de larmes. Les braises dans le foyer ne rougeoient plus.
-D'un pas lourd, il descend l'escalier en spirale, ses doigts frottent la pierre lisse de la paroi.
-En bas, il compte les traits inscrits sur le mur. C'est sa dernière journée.
+D'un pas lourd, il descend l'escalier en spirale, les doigts contre la pierre lisse de la paroi.
+En bas du phare, il compte les traits inscrits sur le mur. C'est sa dernière journée.
 Ce soir, il gravera le bâtonnet final, et demain, le bateau viendra.
 
 Comme tous les matins, il fait le tour de son île. Dans une nasse cousue de son ultime chemise, il trouve quelques poissons. Une mouette survole le piège, riant de sa maigre pêche.
-Il lance un galet et l'oiseau s'effondre, assommé au sol. Il salive d'avance en ramassant le volatile : voilà bien longtemps qu'il n'a pas mangé autre chose que du poisson.
-Ses réserves de nourriture séchée ont déjà été dévorées. Peut-être aurait-il dû mieux se rationner ?
+Il lance un galet et l'oiseau s'effondre, assommé au sol. Il salive d'avance en ramassant le volatile, car depuis qu'il a terminé ses réserves de nourriture, il ne mange rien d'autre que du poisson. Peut-être aurait-il dû mieux se rationner ?
 Il saisit l'un des poissons emprisonnés, le mord à pleines dents. À la deuxième bouchée, l'animal cesse de se débattre, et il peut plus facilement extraire les viscères et l'arête centrale.
 Il engloutit le reste, les yeux fixés sur la houle calme du matin et l'éternel ressac.
 
-Au bas du phare, il plume l'oiseau lapidé. La masse froide du bâtiment le protège du soleil d'été. Son ouvrage terminé, il range la mouette dans son sac.
+De retour au pied du phare, il plume l'oiseau lapidé. La masse froide du bâtiment le protège du soleil d'été. Son ouvrage terminé, il range la mouette dans son sac.
 Ses mains rugueuses saisissent la hachette, et passent le fer émoussé sur sa meule à aiguiser.
 
 Il lui faut quelques minutes de marche pour rejoindre les premiers arbres. Leur ombre est bienvenue, tandis qu'il commence sa tâche.
@@ -34,7 +33,7 @@ C'est le père de sa femme, un armateur, qui lui avait trouvé ce poste. "Excell
 Lever, frapper.
 Les premières semaines au phare avaient été dures.
 Lever, frapper.
-Le jour de son départ, à l'Assomption, elle lui avait annoncé être enceinte. Il avait voulu tout annuler, rester. Elle l'avait convaincu : "pour 7le bébé, c'est mieux que tu ne sois pas là, au moins les premiers mois". C'est vrai qu'éméché, il se laissait un peu emporter. Sa femme pouvait endurer, mais probablement pas l'enfant dans son ventre.
+Le jour de son départ, à l'Assomption, elle lui avait annoncé être enceinte. Il avait voulu tout annuler, rester. Elle l'avait convaincu : "pour le bébé, c'est mieux que tu ne sois pas là, au moins les premiers mois". C'est vrai qu'éméché, il se laissait un peu emporter. Sa femme pouvait endurer, mais probablement pas l'enfant dans son ventre.
 Lever... frapper ?
 
 Il interrompt son mouvement, perdu dans ses pensées.
