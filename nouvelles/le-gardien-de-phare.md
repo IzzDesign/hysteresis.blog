@@ -13,7 +13,7 @@ Ce soir, il gravera le bâtonnet final, et demain, le bateau viendra.
 Comme tous les matins, il fait le tour de son île. Dans une nasse cousue de son ultime chemise, il trouve quelques poissons. Une mouette survole le piège, riant de sa maigre pêche.
 Il lance un galet et l'oiseau s'effondre, assommé au sol. Il salive d'avance en ramassant le volatile, car depuis qu'il a terminé ses réserves de nourriture, il ne mange rien d'autre que du poisson. Peut-être aurait-il dû mieux se rationner ?
 Il saisit l'un des poissons emprisonnés, le mord à pleines dents. À la deuxième bouchée, l'animal cesse de se débattre, et il peut plus facilement extraire les viscères et l'arête centrale.
-Il engloutit le reste, les yeux fixés sur la houle calme du matin et l'éternel ressac.
+Il engloutit le reste, les yeux fixés sur l'éternel ressac de la houle calme du matin.
 
 De retour au pied du phare, il plume l'oiseau lapidé. La masse froide du bâtiment le protège du soleil d'été. Son ouvrage terminé, il range la mouette dans son sac.
 Ses mains rugueuses saisissent la hachette, et passent le fer émoussé sur sa meule à aiguiser.
