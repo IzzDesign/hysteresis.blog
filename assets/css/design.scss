@@ -6,7 +6,7 @@ $vert2: #A0DBA9;
 $jaune: #F5DF4E;
 $gris: #B5B5B5;
 $gris2:#454545;
-$body-color: #000;
+$body-color: #363636;
 $hover-color: #272727;
 $font-texte: 'Montserrat', sans-serif;
 $font-title: 'Oswald', sans-serif;
@@ -396,6 +396,10 @@ footer{
   margin-bottom: 1em;;
 }
 
+.lettrine{
+  font-family: 'Lora', serif;
+  line-height: 1.95em;
+}
 .lettrine > p:first-child{
   &::first-letter{
     font-size: 600%;
