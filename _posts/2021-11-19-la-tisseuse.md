@@ -8,25 +8,25 @@ tags:
     - nouvelles
 excerpt: Elle lisse de ses longs doigts les nombreux fils noirs, enchevêtrant d’une main habile les brins de coton. Elle travaille au rythme d’une horloge, chaque geste suivant le même tempo que le précédent. Ses mains dansent sur une musique familière. C’est seulement à l’arrivée du dernier brin qu’Hachiko s’arrête. Elle respire et lève les yeux. Le soleil est bien plus haut que lorsqu’elle s’était attablée à son ouvrage. La matinée se termine mais, malgré l’heure, la couleur de l’astre est douce, rehaussant le vert des arbres et brillant sur la terre humide.
 ---
-<!-- <style>
+<style>
     h2{
       font-size: 2em;
       text-align: center;
       margin: 0 0 2em 0;
       font-family: 'Vigrand Bold';
     }
-    .entete{
+    .img-short-story{
         display: block;
         margin: 0 auto;
         width: 30%;
     }
     .big{width: 40%;}
     @media (max-width: 500px) {
-        .entete{width: 65%;}
+        .img-short-story{width: 65%;}
     }
-</style> -->
+</style>
 
-<img src="/assets/images/nouvelles/tisseuse/hamamelis.png" class="entete">
+<img src="/assets/images/nouvelles/tisseuse/hamamelis.png" class="img-short-story">
 
 ## Hamamélis
 
@@ -85,7 +85,7 @@ L’homme la dévisage un instant, il attend un signe de sa part mais elle reste
 
 Elle reste dans l’encadrement de la porte coulissante, l'observant retourner sur ses pas. Quand le bruit du moteur s'étouffe, elle attend encore plusieurs longues minutes avant d'enfin fermer le _shōji_. Cette nuit-là, elle trouve difficilement le sommeil.
 
-<img src="/assets/images/nouvelles/tisseuse/pivoine-soucis.png" class="entete big">
+<img src="/assets/images/nouvelles/tisseuse/pivoine-soucis.png" class="img-short-story big">
 
 ## Pivoines et soucis
 Elle observe d’un œil las la liasse de billets qui traîne depuis sept jours sur les planches en bois de sa terrasse. Les coupures faites de coton gâchent la vue de son jardin, agrippant son regard à chaque fois. La semaine vient pourtant de passer en un clin d’œil, mais chaque jour elle a trouvé l’attente contraignante. Les billets dehors ont l’air d’avoir gonflé à cause de l’humidité ambiante. Pourtant, elle n’y a pas touché, si ce n’est en posant une pierre assez grosse pour éviter qu’ils disparaissent sous les bourrasques de printemps.
@@ -140,7 +140,7 @@ Cette fois ses lèvres se pincent, l’homme le remarque. Il se dérobe du regar
 
 Elle ne lui laisse pas le temps de réagir, elle passe la porte, la glisse jusqu’à ce que le panneau claque d’un bruit discret. Elle reste là, le cœur battant. Elle sait que sa silhouette se dessine en ombres chinoises sur la paroi de papier, mais elle s’en fiche, elle guette les sons qui ne sont pas recouverts par les battements à ses oreilles. Elle entend le bois craquer, des pas dans l’allée, la portière d’une voiture et le lancinant bourdonnement d’un moteur qui finit par s’éloigner. Hachiko court alors jusqu’à son bureau. Elle ouvre ses tiroirs, cherche parmi ses rouleaux de fils. Elle s’arrête lorsqu’elle a trouvé ce qu’elle désire, elle pose les deux bobines dans sa paume : l’une est faite de fils dorés, l’autre d’un rouge coquelicot profond. Ses doigts se referment avec douceur, emprisonnant les brins dans sa main alors qu’elle expire un long souffle.
 
-<img src="/assets/images/nouvelles/tisseuse/coquelicot.png" class="entete">
+<img src="/assets/images/nouvelles/tisseuse/coquelicot.png" class="img-short-story">
 
 ## Coquelicots
 Elle constate le lendemain matin que les billets sont toujours là. Il a donc accepté son offre. Elle soupire. Sa nuit a été agitée, peuplée d'or et de coquelicots. Elle déjeune à l’extérieur malgré l’air frisquet du matin, à la même place où elle s’est assise hier avec l’homme. Hachiko a les yeux perdus dans le vague, elle fait distraitement jouer ses baguettes entre les grains de riz. Haiiro se frotte à ses genoux, la sortant de ses rêveries, lui arrachant un sourire.
@@ -149,7 +149,7 @@ Cette fois-ci, elle n’attend pas une semaine. Elle se dirige vers sa salle de 
 
 Lorsque la pression retombe, elle cligne des yeux. Fort heureusement, elle a eu tout juste assez de bobine pour finir. Elle souffle et lève la tête, s’apercevant avec surprise que la nuit est déjà là. Elle n’a ni mangé ni bu. Elle bouge avec difficulté, son corps est ankylosé par cette longue journée assise. Elle va directement se coucher pour un sommeil sans rêves.
 
-<img src="/assets/images/nouvelles/tisseuse/tulipe.png" class="entete">
+<img src="/assets/images/nouvelles/tisseuse/tulipe.png" class="img-short-story">
 
 ## Tulipes blanches
 Le reste de la semaine passe dans une lenteur sournoise. Hachiko ne peut s’empêcher de se demander si le temps ne se jouerait pas d’elle après avoir été son allié si longtemps. L’homme n’a pas dit quand il repasserait, mais elle n’a pas compté les jours. Elle passe ses heures à scruter l’horizon, les feuilles, l’herbe… Elle cherche des détails dans tous les recoins de sa vision, espérant recevoir une réponse mais plus son esprit s’y fixe, plus Hachiko se sent perdue. Le manque de solution la questionne : a-t-elle donné les tapisseries aux mauvais destinataires ? Quelles conséquences cela a-t-il eues ? S’est-elle trompée ?
@@ -178,7 +178,7 @@ La tisseuse laisse son regard s'attarder sur la vieille façade, puis sur le jar
 
 Elle ne reçoit pour seule réponse qu’un large sourire.
 
-<img src="/assets/images/nouvelles/tisseuse/belle-de-nuit.png" class="entete">
+<img src="/assets/images/nouvelles/tisseuse/belle-de-nuit.png" class="img-short-story">
 
 ## Belles-de-nuit
 Hachiko ne s’est donc pas trompée. La tapisserie qu’elle avait créée pour la vieille dame lui était bien destinée. Elle se fixe sur cette pensée et tente de laisser son cœur lourd derrière elle, en bas de la colline. Elle essaye d’alléger chacun des pas qu’elle fait en direction de sa maison. Elle arrive près du champ de belles-de-nuit. Elles s’ouvrent à peine, saluant le jour qui disparaît. Juste après, derrière un arbre, la silhouette de la bâtisse en bois apparaît ainsi qu’une voiture qui commence à être familière. L’homme, lui, l’attend devant sa terrasse.
@@ -287,7 +287,7 @@ Les lèvres de l’homme se resserrent. Sa curiosité fait de nouveau un bond en
 
 Le jeune homme se retourne. Elle voit ses pupilles qui tressautent, ses sourcils qui se froncent. Sa bouche va former un mot mais il est sauvé par la sonnerie de son téléphone. Il préfère le décrocher plutôt que lui répondre. C’est la deuxième fois ce soir qu’elle le voit s’enfuir dans la nuit.
 
-<img src="/assets/images/nouvelles/tisseuse/lilas.png" class="entete">
+<img src="/assets/images/nouvelles/tisseuse/lilas.png" class="img-short-story">
 
 ## Lilas
 L’été approche, elle le sent au soleil qui chauffe sa peau. Hachiko s’est laissée guider à quelques mètres de sa maison par Haiiro, son chat gris qui aime s’assoupir sous les arbres. Elle tourne en rond chez elle depuis plusieurs jours. L’homme était revenu, de semaine en semaine. Elle ne lui avait plus demandé son nom, ni d’où il la connaissait. En échange, il ne la pressait pas pour obtenir sa tapisserie. Elle lui avait raconté l’histoire de Nakamura-obasan, la tapisserie qu’elle lui avait faite, sa signification et la réalisation de cette vision. Elle avait ouvert son cœur car, malgré le manque de surprise, ce deuil lui était lourd à porter. Les dernières semaines avaient été mélancoliques pour elle, il l’avait donc écouté en silence déverser sa tristesse. Elle lui avait montré les environs, ils trouvaient tous les deux la paix dans ce rituel calme et précieux. Il avait beau revenir régulièrement, les jours à l’attendre passaient de plus en plus lentement.
@@ -348,7 +348,7 @@ Il se tourne vers elle et la regarde enfin dans les yeux :
 
 Elle est incapable de répondre, elle ne peut que rester immobile alors que la voiture s’éloigne.
 
-<img src="/assets/images/nouvelles/tisseuse/narcisses.png" class="entete">
+<img src="/assets/images/nouvelles/tisseuse/narcisses.png" class="img-short-story">
 
 ## Narcisses et belles-de-jour
 Elle étouffe. L’été est bien là et il est plus aride qu’elle ne peut le supporter. La chaleur a cette particularité de ralentir le temps, elle qui ne compte jamais les jours en vient à compter les heures, les minutes, les secondes.
@@ -360,7 +360,7 @@ Une nuit, alors que le sommeil lui échappe, elle se relève et se dirige vers s
 
 À l’aube, alors que l’ouvrage est terminé, elle comprend enfin. Sous le choc, elle se lève. Malgré la fraîcheur du début du jour, elle suffoque. Elle ouvre les _shōjis_ pour faire rentrer l’air, mais ce n’est pas suffisant. Elle traverse à grands pas sa terrasse et descend dans son jardin. Elle marche jusqu’à la forêt puis lâche les brides et finit par courir de toutes ses forces. Les bois qui sont d’habitude calmes semblent différents dans la pénombre du petit matin, ils lui paraissent austères. Des branches griffent sa peau et s’accrochent à son kimono, ses pieds s’engourdissent sur le sol froid du sous-bois. Elle continue néanmoins de courir jusqu’au ruisseau qui bat à pleine vitesse, comme son cœur. Hachiko s’arrête enfin, reprend sa respiration. Elle tombe à genoux près de l’eau, y trempe ses mains qu’elle pose sur ses joues pour calmer le feu qui les ronge. Petit à petit, sa colère se transforme.
 
-<img src="/assets/images/nouvelles/tisseuse/zephyrante.png" class="entete">
+<img src="/assets/images/nouvelles/tisseuse/zephyrante.png" class="img-short-story">
 
 ## Zephyranthes
 Hachiko s’est préparée, elle a lavé son visage et a coiffé ses cheveux, elle a sorti son plus beau kimono, celui orné de zephyranthes d’un rose profond. Elle l’a enfilé comme on enfilerait une armure. Elle a soulevé la pierre qui retenait la liasse de billets. Au village, très tôt ce matin sur le marché, elle a retrouvé la voisine de Nakamura-obasan. Cette dernière l’a aidée à se diriger jusqu’à la gare la plus proche ainsi qu’à retrouver Ito Kyūsaku.
@@ -474,7 +474,7 @@ Elle le sent frémir. Elle reprend son souffle, son cœur sprinte dans sa poitri
 
 Lorsque la porte se referme derrière elle, sa poitrine se serre. Elle se dit qu’elle ne reverra plus jamais Ito Kyūsaku.
 
-<img src="/assets/images/nouvelles/tisseuse/ylang-ylang.png" class="entete">
+<img src="/assets/images/nouvelles/tisseuse/ylang-ylang.png" class="img-short-story">
 
 ## Ylang-Ylang
 L’été n’a pas fini d’être suffocant, bien qu’il se termine. Hachiko se demande si la température est vraiment plus élevée que les années précédentes ou si son état d’âme rend la chaleur bien plus compliquée à supporter. Elle n’avait jamais connu le manque, elle le trouve bien douloureux. Malgré cela, elle a décidé d’embrasser les émotions qui la parcourent. Certaines sont laides, d’autres vaines, pourtant elle les accueille avec patience. Après son excursion en ville, elle a replacé la liasse de billets au même endroit, elle l’a bloquée avec le même caillou. Elle l’évite du regard à chaque fois qu’elle passe devant.

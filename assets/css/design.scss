@@ -26,7 +26,7 @@ body{
   ::selection { background-color: $bleu-clair; }
 }
 
-#main-content{
+.main-content{
   display: flex;
   flex-direction: column;
   max-width: 990px;
@@ -153,7 +153,7 @@ h2{
   line-height: 1.2em;
 }
 
-a h2{
+a h2, a h3{
   position: relative;
   &:before{
     content: "";
@@ -170,8 +170,9 @@ a h2{
   }
   &:hover{
     &:before{
-      transform: scale(1.3) translateX(20%);
-      background: rgba($bleu-turquoise, 1.0);
+      transform: scale(0.6) translateX(-35px) rotate(320deg);
+      background: rgba($rouge, 1.0);
+      border-radius: 0;
     }
   }
 }
@@ -224,6 +225,7 @@ h4{
   position: relative;
   color: $bleu-fonce;
   max-width: fit-content;
+  text-align: center;
   &:before{
     content: "";
     position: absolute;
@@ -251,10 +253,11 @@ h4{
 .entete{
   height: 150px;
   display: flex;
-  flex-direction: column;
   align-items: flex-end;
   .un, .deux, .trois{
     border-radius: 50%;
+    position: absolute;
+    display: block;
   }
   &:hover{
     .un, .deux, .trois{animation-play-state: paused;}
@@ -346,13 +349,6 @@ h4{
   font-size: 0.85em;
 }
 
-.hysteresis{
-  img{
-    width: 100px;
-    padding-right:1em;
-  }
-}
-
 .tag-list{
   display: flex;
   flex-direction: row;
@@ -387,7 +383,7 @@ h4{
       &:hover{color: #000;}
     }
     &:hover:after{
-      transform: rotate(360deg) scale(1.1);
+      transform: rotate(360deg) scale(1.1) translateX(-5px);
       background-color: $bleu-turquoise;
       border-radius: 0;
     }
@@ -409,6 +405,7 @@ h4{
   align-items:stretch;
   border-top: $bleu-clair 2px solid;
   margin-bottom: 1em;
+  flex: 33%;
 }
 .align-center{
   display: grid;
@@ -450,13 +447,8 @@ a.profil-auteur, a.profil-index{
     filter: grayscale(100%);
     transition: all cubic-bezier(.39,.3,.46,.86) 0.2s;
   }
-  h3{
-    background-image:
-     linear-gradient(
-       to bottom, $bleu-clair 0%,
-       $bleu-clair 100%
-     );
-    transition: all cubic-bezier(.39,.3,.46,.86) 0.2s;
+  h4{
+    margin: 0;
     }
   span.description{
     display: inline-block;
@@ -471,20 +463,15 @@ a.profil-auteur, a.profil-index{
     &:before{
       margin-left: 0;
       margin-top: 0;
-      border: $rouge 4px solid;
-      background-color: $rouge;
-      border-radius: 50%;
-      transform: translateX(-15px);
+      border: $bleu-turquoise 4px solid;
+      background-color: $bleu-turquoise;
+      transform: rotate(320deg) translateX(-10px) scale(0.8);
     }
     img{
       opacity: 1;
     }
     span.description{
       transform: translateX(10px);
-    }
-    h3{
-      background-size: 5px 45px;
-      background-position: 0 70%;
     }
   }
 }
@@ -498,13 +485,9 @@ a.profil-index{
     margin-left: 0.6em;
   }
   p.little{
+    font-family: $font-title;
     display: block; margin-left: 0;
     margin-top: 0.5em;
-  }
-  &:hover{
-    p.little{
-      color: $bleu-clair;
-    }
   }
 }
 
@@ -521,14 +504,12 @@ a.profil-auteur{
 
 .profil{
   margin:0 1.3em 1em 1.3em;
-  justify-content: center;
+  width: fit-content;
   p{
     min-height:5em;
     margin-top: 1em
   }
 }
-
-img.img-tag{width: 50%;}
 
 footer{
   border-top: #eee solid 2px;
@@ -601,13 +582,34 @@ figure span{
 }
 
 @media (max-width: 990px) {
-  img.img-tag{width: 100%;}
+  .main-content{
+    margin: 0 2em;
+  }
+}
+
+@media (max-width: 750px) {
+  .row{
+    flex-direction: column;
+    justify-content: center;
+  }
+
+  .articles .row{
+    gap: 0;
+    a.soft-link{
+      margin: 0 auto;
+    }
+  }
+
+  .articles .row div.info-articles{
+      text-align: center;
+      a.profil-index, div.tag-list{
+        margin: 0 auto;
+        width: fit-content;
+      }
+    }
 }
 
 @media (max-width: 500px) {
-  .soft-link{
-    letter-spacing: 0.15em;
-  }
   .category{
     letter-spacing: 0.5em;
   }

@@ -20,7 +20,6 @@ layout: default
   {% endfor %}
 </div>
 <div class="column">
-  <img src="/assets/images/svg/tag.svg" class="img-fluid icon">
   <h2>Tags</h2>
   <p class="category">catégories et tags</p>
     <div class="tag-list">
@@ -31,13 +30,11 @@ layout: default
   <a href="tags.html" class="soft-link">&rarr;Tous les tags</a>
 </div>
 <div class="column">
-  <img src="/assets/images/svg/auteurs.svg" class="img-fluid icon">
   <h2>Auteurs</h2>
   <p class="category">tous les auteurs</p>
-  <div class="row">
+  <div class="row wrap">
     {% for a in site.authors limit: 10 %}
       <a class="profil-index" href="{{ a.url }}">
-        <div class="round"></div>
         <img src="/assets/images/profil/{{ a.name|downcase }}.png">
         <p class="little">{{ a.name }}</p>
       </a>
