@@ -2,5 +2,5 @@
     font-family: 'Vigrand Bold';
     font-style: normal;
     font-weight: normal;
-    src: local('./fonts/Vigrand-Bold.woff'), url('../assets/fonts/Vigrand-Bold.woff') format('woff');
+    src: local('../fonts/Vigrand-Bold.woff'), url('../fonts/Vigrand-Bold.woff') format('woff');
 }
