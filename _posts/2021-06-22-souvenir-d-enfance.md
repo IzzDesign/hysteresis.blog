@@ -11,8 +11,8 @@ tags:
 ---
 
 Depuis son fauteuil, la vieille dame observe le jardin par la porte-fenêtre. C’est une froide journée d’hiver. Les arbres sont nus, la terre gelée. Dans quelques jours, on lui fêtera son quatre-vingt-onzième anniversaire. Elle vit chez sa fille depuis quelques années. Elle a dû quitter le village où elle est née et où elle vivait depuis son veuvage.
- 
-La vieille dame repense à son village situé en Drôme provençale. Elle se remémore le chant des cigales et le parfum des distilleries de lavande ou de lavandin qui embaumait l’air à l’époque.
+
+La vieille dame repense à son village situé en Drôme provençale. Elle se remémore le chant des cigales et le parfum des distilleries de lavande ou de lavandin qui embaumait l’air à l’époque.<!--more-->
  
 Puis son esprit vagabonde et elle repense à ses parents, sa sœur et son frère avec qui elle a partagé ses souvenirs d’enfance et se dit que perdre ses parents, c’est mourir un peu.
  

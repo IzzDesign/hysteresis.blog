@@ -11,7 +11,7 @@ tags:
 Bip... Bip... Bip... « La boite vocale de votre correspondant est pleine. Merci de réessayer ultérieurement ».
 
 Je maugrée en raccrochant pour la sixième fois. Il m'avait donné rendez-vous sur la bretelle 658 de la Transcontinentale à seize heures, il est seize heures vingt.
-Le froid glacial me saisit sous mes épais vêtements. Par moins vingt degrés Celsius, même les meilleures synthéfibres ne retiennent pas la chaleur longtemps. Qu'est-ce qu'il fout ? Maman m'avait prévenu que la fiabilité n'était pas son fort, mais là je me caille ! Il pourrait au moins vérifier son téléphone...
+Le froid glacial me saisit sous mes épais vêtements. Par moins vingt degrés Celsius, même les meilleures synthéfibres ne retiennent pas la chaleur longtemps. Qu'est-ce qu'il fout ? Maman m'avait prévenu que la fiabilité n'était pas son fort, mais là je me caille ! Il pourrait au moins vérifier son téléphone...<!--more-->
 
 Autour de moi, les routiers me regardent d'un air suspicieux. J'ai l'habitude.
 Soudain, une main me saisit vigoureusement par l'épaule :

@@ -4,30 +4,23 @@ layout: default
 
 <div class="body">
   <div class="container">
-    <div class="row">
-      <div class="col-lg-12">
-        <h2>{{ page.name }}</h2>
-        {{ content }}
-        <div class="row">
-            {% assign list_pages_a = site.pages | where: "author", page.name %}
-            {% assign list_posts_a = site.posts | where: "author", page.name | where: "note", false %}
-            {% assign list_a = list_pages_a | concat: list_posts_a | sort: "date" | reverse %}
-            {% for p in list_a %}
-            <div class="col-lg-6">
-              <div class="list-auteurs">
-                <a href="{{ p.url }}"><h3>{{ p.title }}</h3></a>
-                {% if p.published_date %}
-                  <div class="date">{{ p.published_date | date: "%d/%m/%Y" }} | {{ p.content|size|divided_by:6|divided_by:250|round}} minutes</div>
-                {% else %}
-                  <div class="date">{{ p.date | date: "%d/%m/%Y" }} | {{ p.content|size|divided_by:6|divided_by:250|round}} minutes</div>
-                {% endif %}
-                {% include author.html author_name=p.author %}
-                {% include tag.html tags=p.tags %}
-              </div>
-            </div>
-            {% endfor %}
-        </div>
-      </div>
+    <h2>{{ page.name }}</h2>
+    {{ content }}
+    <div class="row wrap">
+        {% assign list_posts = site.posts | where: "author", page.name %}
+        {% for p in list_posts %}
+          <div class="list-auteurs">
+            <a href="{{ p.url }}"><h3>{{ p.title }}</h3></a>
+            {% if p.published_date %}
+              <div class="date">{{ p.published_date | date: "%d/%m/%Y" }} | {{ p.content|size|divided_by:6|divided_by:250|round}} minutes</div>
+            {% else %}
+              <div class="date">{{ p.date | date: "%d/%m/%Y" }} | {{ p.content|size|divided_by:6|divided_by:250|round}} minutes</div>
+            {% endif %}
+            {% include author.html author_name=p.author %}
+            {% include tag.html tags=p.tags %}
+          </div>
+        {% endfor %}
     </div>
+    <a href="/auteurs.html" class="soft-link">Tous les auteurs</a>
   </div>
 </div>

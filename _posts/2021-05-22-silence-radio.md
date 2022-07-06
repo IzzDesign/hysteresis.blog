@@ -12,7 +12,7 @@ tags:
 
 —  Nick ?
 Sa voix tremblait. Vikita déglutit, elle sentait les battements de son cœur s’accélérer. Elle se retint quelques secondes avant de craquer et de réitérer son appel. Elle appuya avec force sur le bouton des communications puis s’exprima de la façon la plus autoritaire qu’elle put malgré son angoisse latente :
-—  Nick, tu peux arrêter de faire l’idiot et répondre steuplaît ?
+—  Nick, tu peux arrêter de faire l’idiot et répondre steuplaît ?<!--more-->
 Silence radio. Ça y est, elle commençait vraiment à prendre peur. Tout un tas de pensées se bousculait dans sa tête, après tout, dans l’espace, la moindre inattention et c’était la fin. Son cerveau fit défiler une multitude de scénarios devant ses yeux, chacun pouvant expliquer pourquoi son petit ami ne réagissait pas ; chacun étant plus horrible que l’autre. Pourquoi l’avait-elle laissé faire des idioties sur la coque de leur vaisseau ? C’était tellement stupide.
 
 La jeune femme mordilla l’intérieur de sa joue avant de diriger sa main vers l'interphone. Elle allait de nouveau appeler, un geste cherchant à combler son impuissance quand soudain la voix de Nick se mit à grésiller dans les enceintes du *Chuzhak*.

@@ -13,11 +13,11 @@ tags:
  
 Saint-Dié-des-Vosges, 18 novembre 1944, 6 heures du matin
 En cette matinée sombre, froide et brumeuse, trois hommes, mains en l’air, marchent en file indienne suivis par trois soldats allemands commandés par un _Feldwebel_.[^1]
+
 Les soldats venaient de les arrêter à la sortie d’un immeuble d’habitation gravement endommagé mais encore debout et les avaient obligés d’abandonner sur place les  couvertures et autres objets d’utilité courante dont ils étaient chargés.
-Le petit groupe s’avance vers un tas de décombres. L’un des hommes a la quarantaine, petit, mince et blond, le visage fin ; le second est grand, brun, bel homme, avec une légère claudication et le troisième est très jeune, de taille moyenne, blond-roux.
+Le petit groupe s’avance vers un tas de décombres.<!--more--> L’un des hommes a la quarantaine, petit, mince et blond, le visage fin ; le second est grand, brun, bel homme, avec une légère claudication et le troisième est très jeune, de taille moyenne, blond-roux.
 Le _feldwebel_ demande au groupe de stopper et aux trois prisonniers de s’aligner  face aux soldats.
 Puis, il donne l’ordre de tirer. Les trois hommes s’écroulent sur le sol.
- 
  
 ***
  

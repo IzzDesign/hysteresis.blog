@@ -21,13 +21,7 @@ defaults:
       path: ""
       type: "posts"
     values:
-      layout: "post"
-      categories: "articles"
-      note: false
-  -
-    scope:
-      path: "nouvelles"
-      type: "pages"
-    values:
       layout: "short-story"
+      categories: "nouvelles"
       scroll: true
+      excerpt_separator: <!--more-->

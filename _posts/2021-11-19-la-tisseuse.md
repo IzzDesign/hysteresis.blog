@@ -6,13 +6,14 @@ reviewers:
     - Matthieu
 tags:
     - nouvelles
+excerpt: Elle lisse de ses longs doigts les nombreux fils noirs, enchevêtrant d’une main habile les brins de coton. Elle travaille au rythme d’une horloge, chaque geste suivant le même tempo que le précédent. Ses mains dansent sur une musique familière. C’est seulement à l’arrivée du dernier brin qu’Hachiko s’arrête. Elle respire et lève les yeux. Le soleil est bien plus haut que lorsqu’elle s’était attablée à son ouvrage. La matinée se termine mais, malgré l’heure, la couleur de l’astre est douce, rehaussant le vert des arbres et brillant sur la terre humide.
 ---
-<style>
+<!-- <style>
     h2{
       font-size: 2em;
       text-align: center;
       margin: 0 0 2em 0;
-      font-family: 'Pacifico';
+      font-family: 'Vigrand Bold';
     }
     .entete{
         display: block;
@@ -23,7 +24,7 @@ tags:
     @media (max-width: 500px) {
         .entete{width: 65%;}
     }
-</style>
+</style> -->
 
 <img src="/assets/images/nouvelles/tisseuse/hamamelis.png" class="entete">
 

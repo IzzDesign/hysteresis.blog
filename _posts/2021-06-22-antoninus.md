@@ -11,7 +11,8 @@ tags:
 ---
 
 Voici qu'arrive la fin de l'année ; l'activité du groupe est réduite, les esprits vagabondent à l'idée de profiter sous peu d'un repos bien mérité. Les discussions vont bon train pour savoir qui préférera la mer, qui la campagne, qui la montagne, qui un bon livre, qui du bricolage... à la mer, la campagne ou à la montagne.
-L'ancien du groupe, tirant sur sa pipe, pince-sans-rire, commente la situation politique, socio-économique de la ville, du pays, du monde. Passionnant et complexe, cultivé, il allie royalisme inavoué, républicain dans l'âme, et athéisme assumé en recherche spirituelle. Le plus jeune, bien qu'âgé d'une quarantaine, trie sa collection de cartes qu'il indique être magiques, mais sans doute certains d'entre nous n'ont jamais bien compris le sens de ce mot !? Le troisième est tout occupé à ses pensées sous-marines, passionné de plongée et de traversées des océans sur le vieux gréement familial.
+
+L'ancien du groupe, tirant sur sa pipe, pince-sans-rire, commente la situation politique, socio-économique de la ville, du pays, du monde.<!--more--> Passionnant et complexe, cultivé, il allie royalisme inavoué, républicain dans l'âme, et athéisme assumé en recherche spirituelle. Le plus jeune, bien qu'âgé d'une quarantaine, trie sa collection de cartes qu'il indique être magiques, mais sans doute certains d'entre nous n'ont jamais bien compris le sens de ce mot !? Le troisième est tout occupé à ses pensées sous-marines, passionné de plongée et de traversées des océans sur le vieux gréement familial.
 
 L'année s'est bien passée et le repos est donc mérité.
 

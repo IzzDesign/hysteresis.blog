@@ -4,42 +4,50 @@ scroll: true
 ---
 
 <div class="container">
-  <div class="row">
-    <div class="col-lg-8 offset-lg-2">
-      <div class="center">
-        <a href="/tags/nouvelles.html"><img src="/assets/images/svg/nouvelles.svg" class="img-fluid icon-big"></a>
-        <p class="category">Écrits et nouvelles</p>
-        <h1>{{ page.title }}</h1>
-        <p class="date">{{ page.published_date | date: "%d/%m/%Y" }}</p>
-        <p class="date">Temps de lecture estimé : {{ content|size|divided_by:6|divided_by:250|round}} minutes </p>
-        <p class="category">Auteur</p>
-        {% include author.html author_name=page.author %}
-      </div>
-      <div class="lettrine">
-        {{ content | replace: " »", "&nbsp;»"| replace:"« ", "«&nbsp;"| replace:" ?", "&nbsp;?"| replace:" !", "&nbsp;!" }}
-      </div>
-      <div class="center">
-        <p class="category">Auteur</p>
-        {% include author.html author_name=page.author %}
-        <p class="category">Correcteur</p>
-        {% for r in page.reviewers %}
+    <div class="center">
+      <a href="/tags/nouvelles.html" class="entete">
+        <div class="un"></div>
+        <div class="deux"></div>
+        <div class="trois"></div>
+        <span>Nouvelle</span>
+      </a>
+      <p class="category">Écrits et nouvelles</p>
+      <h1>{{ page.title }}</h1>
+      <p class="date">{{ page.published_date | date: "%d/%m/%Y" }}</p>
+      <p class="date">Temps de lecture estimé : {{ content|size|divided_by:6|divided_by:250|round}} minutes </p>
+      <p class="category">Auteur</p>
+      {% include author.html author_name=page.author %}
+    </div>
+    <div class="lettrine">
+      {{ content | replace: " »", "&nbsp;»"| replace:"« ", "«&nbsp;"| replace:" ?", "&nbsp;?"| replace:" !", "&nbsp;!" }}
+    </div>
+    <div class="center">
+      <p class="category">Auteur</p>
+      {% include author.html author_name=page.author %}
+      {% if page.reviewers %}
+      <p class="category">Correcteur</p>
+         {% for r in page.reviewers %}
           {% include author.html author_name=r %}
         {% endfor %}
-        {% include tag.html tags=page.tags %}
-      </div>
+      {% endif %}
+      {% include tag.html tags=page.tags %}
     </div>
-    <div class="col-lg-4 offset-lg-2">
-      <div class="center">
-        <img src="/assets/images/svg/auteurs.svg" class="icon">
-        <h4 class="link-title">Du même auteur</h4>
-      </div>
-        <div class="row">
-          {% assign nouvelles = site.pages | where: "layout", "short-story" | sort: "date" | reverse %}
+    <div class="row">
+      <div class="demi-column">
+        <div class="center">
+          <div class="entete">
+            <div class="icon-bg un"></div>
+            <div class="icon-bg deux"></div>
+            <div class="icon-bg trois"></div>
+            <span>Du même auteur</span>
+          </div>
+        </div>
+        <div>
           {% assign counter = 0 %}
-          {% for n in nouvelles %}
+          {% for n in site.posts %}
             {% if page.title != n.title and page.author == n.author and counter < 3 %}
               {% assign counter = counter | plus: 1 %}
-              <div class="col-lg-12 nouvelles">
+              <div class="nouvelles">
                 <a href="{{ n.url }}"><h3>{{ n.title }}</h3></a>
                 <div class="date">{{ n.published_date | date: "%d/%m/%Y" }} | {{ n.content|size|divided_by:6|divided_by:250|round}} minutes</div>
                 {% include author.html author_name=n.author %}
@@ -52,23 +60,25 @@ scroll: true
             <p class="divers">Aucune autre nouvelle</p>
             <p class="divers">voir la fiche auteur</p>
             {% include author.html author_name=page.author %}
-          </div>
-          
+          </div>  
           {% endif %}
         </div>
-    </div>
-    <div class="col-lg-4">
-      <div class="center">
-        <img src="/assets/images/svg/nouvelles.svg" class="icon">
-        <h4 class="link-title">Autres nouvelles</h4>
       </div>
-        <div class="row">
-          {% assign nouvelles = site.pages | where: "layout", "short-story" | sort: "date" %}
+      <div class="demi-column">
+        <div class="center">
+         <div class="entete">
+            <div class="icon-bg un"></div>
+            <div class="icon-bg deux"></div>
+            <div class="icon-bg trois"></div>
+            <span>Autres nouvelles</span>
+          </div>
+        </div>
+        <div class="column">
           {% assign counter = 0 %}
-          {% for n in nouvelles %}
-            {% if page.author != n.author and counter < 3 %}
+          {% for n in site.posts %}
+            {% if page.author != n.author and counter < 2 %}
               {% assign counter = counter| plus: 1 %}
-              <div class="col-lg-12 nouvelles">
+              <div class="nouvelles">
                 <a href="{{ n.url }}"><h3>{{ n.title }}</h3></a>
                 <div class="date">{{ n.published_date | date: "%d/%m/%Y" }}</div>
                 {% include author.html author_name=n.author %}
@@ -77,6 +87,6 @@ scroll: true
             {% endif %}
           {% endfor %}
         </div>
+      </div>
     </div>
-  </div>
 </div>

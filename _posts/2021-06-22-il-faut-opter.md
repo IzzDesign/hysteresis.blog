@@ -9,7 +9,7 @@ tags:
     - histoire
 ---
 
-Ladislas se trompa en nouant sa cravate. Il la détacha avant de recommencer. C’était la troisième fois qu’il perdait le fil et devait tout reprendre. Pourtant, lorsqu'il s'habillait, ses gestes étaient conditionnés par l’habitude ; surtout s’agissant de sa cravate, il ne pouvait pas passer à la télévision sans être bien apprêté. Il dut se concentrer pour venir à bien de ses difficultés : devant, derrière, boucle, nœud… Une fois fini, il s'observa dans le petit miroir ovale accroché au mur décrépi de son hôtel. La confiance ne transparaissait pas de son visage allongé, ses yeux noirs trahissaient son angoisse. Il passa une main dans ce qui lui restait de cheveux, dégageant une mèche brune de son crâne dégarni. Il soupira, cherchant à capter un peu de courage. Ladislas sentit ce dernier apparaître subrepticement dans sa poitrine tandis que son cœur se serrait, avant de décider de se faire de nouveau la malle. Il aurait aimé que la sensation s'imprègne encore un peu.
+Ladislas se trompa en nouant sa cravate. Il la détacha avant de recommencer. C’était la troisième fois qu’il perdait le fil et devait tout reprendre. Pourtant, lorsqu'il s'habillait, ses gestes étaient conditionnés par l’habitude ; surtout s’agissant de sa cravate, il ne pouvait pas passer à la télévision sans être bien apprêté. Il dut se concentrer pour venir à bien de ses difficultés : devant, derrière, boucle, nœud… Une fois fini, il s'observa dans le petit miroir ovale accroché au mur décrépi de son hôtel. La confiance ne transparaissait pas de son visage allongé, ses yeux noirs trahissaient son angoisse.<!--more--> Il passa une main dans ce qui lui restait de cheveux, dégageant une mèche brune de son crâne dégarni. Il soupira, cherchant à capter un peu de courage. Ladislas sentit ce dernier apparaître subrepticement dans sa poitrine tandis que son cœur se serrait, avant de décider de se faire de nouveau la malle. Il aurait aimé que la sensation s'imprègne encore un peu.
 
 Pourtant, il avait choisi d’être ici. Lui et Christian, le cameraman, étaient arrivés il y a quelques jours à La Paz en Bolivie. Ils étaient tous les deux en quête de grands faits divers : insouciants et téméraires lorsqu’il s’agissait de prévoir leurs reportages, c’était une autre histoire quand ils touchaient leur exclusivité du doigt.
 
@@ -75,21 +75,21 @@ L’attente s’éternisait, c’est Samuel qui savait quoi faire une fois à l�
     }
 </style>
 
-<div class="row newspaper" lang="fr">
-    <div class="col-lg-12">
-        <img src="/assets/images/nouvelles/il-faut-opter/il-faut-opter-1.png" class="img-fluid" alt="force de l'axe europe journal seconde guerre">
-    </div>
-    <div class="col-lg-6">
-        <p class="first">Le chancelier Hitler n’est pas seulement le grand politique, l’homme de l’audace et de la décision prompte et opportune, il est aussi, il ne faut pas l’oublier, le théoricien incisif et précis de cette guerre, comme il fut celui du national-socialisme. Il nous a habitués, depuis quelque temps, à des formules à l’emporte-pièce, qui font admirablement le point de la situation. En de saisissants raccourcis, qui sont d’impitoyables impératifs de l’heure, le Führer vient de prononcer des avertissements solennels à l’adresse de tous les peuples de l’Europe.</p>
-        <p>Car, enfin, c’est par-dessus tout la lutte pour la vie de l’Europe, en tant que continent propre et indépendant qui se déroule actuellement et qui doit s’achever, soit par la dissolution de l’Europe, soit par la réalisation de son unité, souhaitée et recherchée pendant des siècles mais en vain.</p>
-        <p>À cet égard, les paroles de Hitler sont à méditer par ceux qui dans ce vaste conflit vital n’ont pas encore cru devoir prendre leurs responsabilités.</p>
-        <p>Et, plus récemment, il a fait en clair le procès de ce qu’il appelle si bien « le pseudo-monde neutre », ce soi-disant monde neutre qui nargue l’Allemagne d’aujourd’hui en dépit de ce qu’elle combat et saigne pour lui, et qui semble — je parle du moins pour certains petits pays — s’acoquiner de plus en plus avec les forces antifascistes, comme s’il avait la preuve que celles-ci gagneront.</p>
-        <p>À ces enfants prodigues du continent, le Chancelier dit : « L’esprit de fausse objectivité doit disparaître et les peuples ne peuvent subsister qu’en adoptant une attitude nette ».</p>
-    </div>
-    <div class="col-lg-6">
-        <p>Il était temps, en effet, de leur montrer que nous ne sommes pas dupes de leur duplicité. J’aime beaucoup cette expression : « Esprit de fausse objectivité ». Elle dénonce à merveille l’ignoble imposture morale du monde qui ne fait pas la guerre — d’un certain monde s’entend — monde dont la France faisait partie il n’y a pas très longtemps encore. Il n’est pas un monde, il n’est pas un peuple qui ne possède pas de préférence. Nous ne savons peut-être pas tous pour qui ou pour quoi nous sommes, mais nous savons tous contre qui ou contre quoi nous sommes.</p>
-        <p>Nous portons tous l’un des belligérants dans notre cœur. L’indifférence n’existe pas. Qu’il y ait des Français pour souhaiter l’extermination des uns et des autres, je ne le crois pas. Dans le fond, ils sentent que la France aura besoin demain de ceux-ci ou de ceux-là. Ils le sentent à leur corps défendant, mais c’est une loi de la nature, il faut opter. Et si chacun, à part soi, a opté, il est de la plus élémentaire fierté, quand on fait seul le sacrifice de sa vie, d’exiger de chacun l’honnêteté de dire pour qui il opte.</p>
-        <p>C’est pourquoi le Führer est, plus que quiconque au sein de l’Europe et au sein de l’Axe, fondé à demander aux peuples qui entourent l’Allemagne d’adopter une attitude nette. « Mettez bas vos masques, semble-t-il déclarer aux non-belligérants, sinon je vous démasquerai ». Cette violence n’est pas pour nous déplaire. Elle n’a rien d’outré. C’est le Christ qui a proclamé : « Qui n’est pas pour moi est contre moi ».</p>
+<div class="column newspaper" lang="fr">
+    <img src="/assets/images/nouvelles/il-faut-opter/il-faut-opter-1.png" class="img-fluid" alt="force de l'axe europe journal seconde guerre">
+    <div class="row">
+        <div>
+            <p class="first">Le chancelier Hitler n’est pas seulement le grand politique, l’homme de l’audace et de la décision prompte et opportune, il est aussi, il ne faut pas l’oublier, le théoricien incisif et précis de cette guerre, comme il fut celui du national-socialisme. Il nous a habitués, depuis quelque temps, à des formules à l’emporte-pièce, qui font admirablement le point de la situation. En de saisissants raccourcis, qui sont d’impitoyables impératifs de l’heure, le Führer vient de prononcer des avertissements solennels à l’adresse de tous les peuples de l’Europe.</p>
+            <p>Car, enfin, c’est par-dessus tout la lutte pour la vie de l’Europe, en tant que continent propre et indépendant qui se déroule actuellement et qui doit s’achever, soit par la dissolution de l’Europe, soit par la réalisation de son unité, souhaitée et recherchée pendant des siècles mais en vain.</p>
+            <p>À cet égard, les paroles de Hitler sont à méditer par ceux qui dans ce vaste conflit vital n’ont pas encore cru devoir prendre leurs responsabilités.</p>
+            <p>Et, plus récemment, il a fait en clair le procès de ce qu’il appelle si bien « le pseudo-monde neutre », ce soi-disant monde neutre qui nargue l’Allemagne d’aujourd’hui en dépit de ce qu’elle combat et saigne pour lui, et qui semble — je parle du moins pour certains petits pays — s’acoquiner de plus en plus avec les forces antifascistes, comme s’il avait la preuve que celles-ci gagneront.</p>
+            <p>À ces enfants prodigues du continent, le Chancelier dit : « L’esprit de fausse objectivité doit disparaître et les peuples ne peuvent subsister qu’en adoptant une attitude nette ».</p>
+        </div>
+        <div>
+            <p>Il était temps, en effet, de leur montrer que nous ne sommes pas dupes de leur duplicité. J’aime beaucoup cette expression : « Esprit de fausse objectivité ». Elle dénonce à merveille l’ignoble imposture morale du monde qui ne fait pas la guerre — d’un certain monde s’entend — monde dont la France faisait partie il n’y a pas très longtemps encore. Il n’est pas un monde, il n’est pas un peuple qui ne possède pas de préférence. Nous ne savons peut-être pas tous pour qui ou pour quoi nous sommes, mais nous savons tous contre qui ou contre quoi nous sommes.</p>
+            <p>Nous portons tous l’un des belligérants dans notre cœur. L’indifférence n’existe pas. Qu’il y ait des Français pour souhaiter l’extermination des uns et des autres, je ne le crois pas. Dans le fond, ils sentent que la France aura besoin demain de ceux-ci ou de ceux-là. Ils le sentent à leur corps défendant, mais c’est une loi de la nature, il faut opter. Et si chacun, à part soi, a opté, il est de la plus élémentaire fierté, quand on fait seul le sacrifice de sa vie, d’exiger de chacun l’honnêteté de dire pour qui il opte.</p>
+            <p>C’est pourquoi le Führer est, plus que quiconque au sein de l’Europe et au sein de l’Axe, fondé à demander aux peuples qui entourent l’Allemagne d’adopter une attitude nette. « Mettez bas vos masques, semble-t-il déclarer aux non-belligérants, sinon je vous démasquerai ». Cette violence n’est pas pour nous déplaire. Elle n’a rien d’outré. C’est le Christ qui a proclamé : « Qui n’est pas pour moi est contre moi ».</p>
+        </div>
     </div>
 </div>
 
@@ -166,79 +166,69 @@ Bien d’autres ne reviendront pas, comme Jean Moulin, dit Max, qui périra suit
 Les photos montrées lors de l’interview, quant à elles, prouveront que les empreintes apposées par Altmann le jour de l’entrevue correspondaient à celles de Klaus Barbie. Il faudra attendre encore vingt-et-un ans et un changement de régime bolivien pour que l’extradition de Barbie vers la France ait lieu. Dès son arrivée, il sera détenu à la prison de Montluc, là où quarante ans plus tôt, le nazi enfermait et torturait ses victimes. Dans l'avion qui l'amena en France, il dira à un journaliste bolivien qui lui demandait s’il pensait que la France devait oublier ses méfaits : « J’ai oublié, après la guerre, tout ce qu’il s’est passé, et je n’ai pas haï, j’ai fait mon devoir ». À Lyon, quatorze mille hommes, femmes et enfants eurent affaire à lui et à la Gestapo sous son commandement. Il fut responsable de la mort de plus de quatre mille personnes et de la déportation de sept mille cinq cents juifs. Après quatre ans de procédure en France, le 11 mai 1987, démarre le procès de Barbie. Les crimes de guerre étant prescrits, il sera jugé pour crime contre l’humanité, une première en France. Lors de ce procès, Ladislas de Hoyos sera le seul reporter à pouvoir le filmer.
 
 #### Quelques photos
-<div class="row">
-    <div class="col-lg-12">
-        <figure>
-            <img src="/assets/images/nouvelles/il-faut-opter/il-faut-opter-2.png" title="Ladislas de Hoyos à La Paz en 1972" alt="hoyos, la paz, 1972, bolivie, ladislas, télévision française">
-            <span>Ladislas de Hoyos sur les hauteurs de La Paz en février 1972</span>
-        </figure>
-        <figure>
-            <img src="/assets/images/nouvelles/il-faut-opter/il-faut-opter-3.png" title="Ladislas de Hoyos présentant à Klaus Altamnn/Barbie la photographie de Jean Moulin en 1972" alt="hoyos, la paz, 1972, bolivie, ladislas, télévision française, altamnn, barbie">
-            <span>Klaus Altmann/Barbie recevant la photo de Jean Moulin lors de l'interview pour France 2 en février 1972</span>
-        </figure>
-    </div>
-    <div class="col-lg-6 col-sm-6">
+<div class="center">
+    <figure>
+        <img src="/assets/images/nouvelles/il-faut-opter/il-faut-opter-2.png" title="Ladislas de Hoyos à La Paz en 1972" alt="hoyos, la paz, 1972, bolivie, ladislas, télévision française">
+        <span>Ladislas de Hoyos sur les hauteurs de La Paz en février 1972</span>
+    </figure>
+    <figure>
+        <img src="/assets/images/nouvelles/il-faut-opter/il-faut-opter-3.png" title="Ladislas de Hoyos présentant à Klaus Altamnn/Barbie la photographie de Jean Moulin en 1972" alt="hoyos, la paz, 1972, bolivie, ladislas, télévision française, altamnn, barbie">
+        <span>Klaus Altmann/Barbie recevant la photo de Jean Moulin lors de l'interview pour France 2 en février 1972</span>
+    </figure>
+    <div class="row">
         <figure>
             <img src="/assets/images/nouvelles/il-faut-opter/il-faut-opter-4.png" title="La maison du docteur Dugoujon à Caluire" alt="caluire, dugoujon, résistance française, Jean Moulin">
             <span>La maison du docteur Dugoujon à Caluire</span>
         </figure>
-    </div>
-    <div class="col-lg-6 col-sm-6">
         <figure>
             <img src="/assets/images/nouvelles/il-faut-opter/il-faut-opter-5.png" title="L'union française du 5 juin 1943" alt="union française, 1943, journal, seconde guerre mondiale">
             <span>Archive : L'union française du 5 juin 1943</span>
         </figure>
     </div>
-    <div class="col-lg-12">
-        <figure>
-            <img src="/assets/images/nouvelles/il-faut-opter/il-faut-opter-7.png" title="L'Effort du 21 juin 1943" alt="effort, 1943, journal, seconde guerre mondiale">
-            <span>Archive : L'Effort du 21 juin 1943</span>
-        </figure>
-        <figure>
-            <img src="/assets/images/nouvelles/il-faut-opter/il-faut-opter-6.png" title="Salle d'attente de la maison du docteur Dugoujon" alt="caluire,Dugoujon, Jean Moulin, Émile Schwarzfeld, Raymond Aubrac, résistance française">
-            <span>Ancienne salle d'attente de la maison du docteur Dugoujon à Caluire</span>
-        </figure>
-    </div>
-    <div class="col-lg-6 col-sm-6">
+    <figure>
+        <img src="/assets/images/nouvelles/il-faut-opter/il-faut-opter-7.png" title="L'Effort du 21 juin 1943" alt="effort, 1943, journal, seconde guerre mondiale">
+        <span>Archive : L'Effort du 21 juin 1943</span>
+    </figure>
+    <figure>
+        <img src="/assets/images/nouvelles/il-faut-opter/il-faut-opter-6.png" title="Salle d'attente de la maison du docteur Dugoujon" alt="caluire,Dugoujon, Jean Moulin, Émile Schwarzfeld, Raymond Aubrac, résistance française">
+        <span>Ancienne salle d'attente de la maison du docteur Dugoujon à Caluire</span>
+    </figure>
+    <div class="row">
         <figure>
             <img src="/assets/images/nouvelles/il-faut-opter/il-faut-opter-9.png" title="Plaque commémorative sur la façade de la maison du docteur Dugoujon en l'honneur de Jean Moulin" alt="caluire, dugoujon, résistance française, Jean Moulin">
             <span>Plaque commémorative sur la façade de la maison du docteur Dugoujon en l'honneur de Jean Moulin</span>
         </figure>
-    </div>
-    <div class="col-lg-6 col-sm-6">
         <figure>
             <img src="/assets/images/nouvelles/il-faut-opter/il-faut-opter-10.png" title="Statue de Jean Moulin à Caluire en face de la maison du docteur Dugoujon" alt="caluire, dugoujon, résistance française, Jean Moulin, statue">
             <span>Statue de Jean Moulin à Caluire en face de la maison du docteur Dugoujon</span>
         </figure>
     </div>
-    <div class="col-lg-12">
-        <figure>
-            <img src="/assets/images/nouvelles/il-faut-opter/il-faut-opter-8.png" title="Ladislas de Hoyos suivant Klaus Barbie le 13 mai 1987 en sortie de procès" alt="hoyos, 1987, lyon, ladislas, télévision française, altamnn, barbie, procès">
-            <span>Ladislas de Hoyos suivant Klaus Barbie le 13 mai 1987 en sortie de procès</span>
-        </figure>
-    </div>
+    <figure>
+        <img src="/assets/images/nouvelles/il-faut-opter/il-faut-opter-8.png" title="Ladislas de Hoyos suivant Klaus Barbie le 13 mai 1987 en sortie de procès" alt="hoyos, 1987, lyon, ladislas, télévision française, altamnn, barbie, procès">
+        <span>Ladislas de Hoyos suivant Klaus Barbie le 13 mai 1987 en sortie de procès</span>
+    </figure>
 </div>
 
 #### Sources :
-[Sur les traces de Klaus Barbie - Un jour, une histoire - Laurent Delahousse](https://www.youtube.com/watch?v=ELSCRkSQYf4&t=2351s)
-[L'histoire de Klaus Barbie, le bourreau de Lyon | Archive INA](https://www.youtube.com/watch?v=jy9xBzF44X8&t=595s)
-[1972 : Klaus Altman est-il Klaus Barbie ? | Archive INA](https://www.youtube.com/watch?v=-Rn3VSIJ_-s)
-[La traque de Klaus Barbie, le boucher de Lyon | France Inter](https://www.franceinter.fr/emissions/affaires-sensibles/affaires-sensibles-13-aout-2020)
-[Fiche Wikipédia | Klaus Barbie](https://fr.wikipedia.org/wiki/Klaus_Barbie#Retour_en_France)
-[Fiche Wikipédia | Jean Moulin](https://fr.wikipedia.org/wiki/Jean_Moulin)
-[Fiche Wikipédia | Émile Schwarzfeld](https://fr.wikipedia.org/wiki/%C3%89mile_Schwarzfeld)
-[Fiche Wikipédia | Ladislas de Hoyos](https://fr.wikipedia.org/wiki/Ladislas_de_Hoyos)
-[Fiche Wikipédia | La Paz](https://fr.wikipedia.org/wiki/La_Paz)
-[Fiche Wikipédia | Maison du Docteur Dugoujon](https://fr.wikipedia.org/wiki/Maison_du_docteur_Dugoujon)
-[Jean Moulin / Klaus Barbie - France Télévision](https://www.youtube.com/watch?v=57bEgmkp4GU&t=2286s)
-Jean Moulin une affaire française de Pierre Aknine
-[Le cameraman raconte l'interview qui a confondu le SS Klaus Barbie en 1972 | RTS](https://www.rts.ch/info/monde/8759316-le-cameraman-raconte-linterview-qui-a-confondu-le-ss-klaus-barbie-en-1972.html)
-[L’ancien NAZI piégé par un journaliste en pleine interview (1972) | Mamytwink](https://www.youtube.com/watch?v=6uv5RzB8BX8&list=WL&index=7&t=375s)
-[Révélations de Klaus Barbie sur Raymond Aubrac | Archive INA](https://www.youtube.com/watch?v=LLn9xxucQ24&t=47s)
-[La mort de Jean Moulin racontée par sa sœur Laure | France Culture](https://www.youtube.com/watch?v=d53qmcL36jE&list=WL&index=11)
-[Affaire AUBRAC](https://www.youtube.com/watch?v=KkVSrLhMZDk)
-[L’union française n°127 du 5 juin 1943](https://gallica.bnf.fr/ark:/12148/bpt6k1410300f/f1.item.zoom)
-[L’effort n°948 du 21 juin 1943](https://www.retronews.fr/journal/leffort/21-jun-1943/2301/4794336/1)
+- [Sur les traces de Klaus Barbie - Un jour, une histoire - Laurent Delahousse](https://www.youtube.com/watch?v=ELSCRkSQYf4&t=2351s)
+- [L'histoire de Klaus Barbie, le bourreau de Lyon - Archive INA](https://www.youtube.com/watch?v=jy9xBzF44X8&t=595s)
+- [1972 : Klaus Altman est-il Klaus Barbie ? - Archive INA](https://www.youtube.com/watch?v=-Rn3VSIJ_-s)
+- [La traque de Klaus Barbie, le boucher de Lyon - France Inter](https://www.franceinter.fr/emissions/affaires-sensibles/affaires-sensibles-13-aout-2020)
+- [Fiche Wikipédia - Klaus Barbie](https://fr.wikipedia.org/wiki/Klaus_Barbie#Retour_en_France)
+- [Fiche Wikipédia - Jean Moulin](https://fr.wikipedia.org/wiki/Jean_Moulin)
+- [Fiche Wikipédia - Émile Schwarzfeld](https://fr.wikipedia.org/wiki/%C3%89mile_Schwarzfeld)
+- [Fiche Wikipédia - Ladislas de Hoyos](https://fr.wikipedia.org/wiki/Ladislas_de_Hoyos)
+- [Fiche Wikipédia - La Paz](https://fr.wikipedia.org/wiki/La_Paz)
+- [Fiche Wikipédia - Maison du Docteur Dugoujon](https://fr.wikipedia.org/wiki/Maison_du_docteur_Dugoujon)
+- [Jean Moulin / Klaus Barbie - France Télévision](https://www.youtube.com/watch?v=57bEgmkp4GU&t=2286s)
+- Jean Moulin une affaire française de Pierre Aknine
+- [Le cameraman raconte l'interview qui a confondu le SS Klaus Barbie en 1972 - RTS](https://www.rts.ch/info/monde/8759316-le-cameraman-raconte-linterview-qui-a-confondu-le-ss-klaus-barbie-en-1972.html)
+- [L’ancien NAZI piégé par un journaliste en pleine interview (1972) - Mamytwink](https://www.youtube.com/watch?v=6uv5RzB8BX8&list=WL&index=7&t=375s)
+- [Révélations de Klaus Barbie sur Raymond Aubrac - Archive INA](https://www.youtube.com/watch?v=LLn9xxucQ24&t=47s)
+- [La mort de Jean Moulin racontée par sa sœur Laure - France Culture](https://www.youtube.com/watch?v=d53qmcL36jE&list=WL&index=11)
+- [Affaire AUBRAC](https://www.youtube.com/watch?v=KkVSrLhMZDk)
+- [L’union française n°127 du 5 juin 1943](https://gallica.bnf.fr/ark:/12148/bpt6k1410300f/f1.item.zoom)
+- [L’effort n°948 du 21 juin 1943](https://www.retronews.fr/journal/leffort/21-jun-1943/2301/4794336/1)
 
 ### Quelques questions restées sans réponse :
 #### Qui est Beate Klarsfeld ?
@@ -257,9 +247,9 @@ En 1989, lors de son procès, Klaus Barbie via son avocat Jacques Vergès, accus
 En 1997, Gérard Chauvy, historien, publie le livre **Aubrac, Lyon 1943**. Ouvrage dans lequel, s’appuyant sur le testament de Barbie écrit en 1987 et sur d’autres archives, il relève de nombreuses contradictions dans les témoignages successifs de Lucie et Raymond Aubrac. Il insinue dans son livre que le couple aurait trahi la Résistance. Pour être lavé de tout soupçon, Raymond Aubrac organise avec le journal Libération une réunion avec des historiens qu’il sélectionne, il y répondra à des questions et sera blanchi. Les Aubrac poursuivent en justice Chauvy pour diffamation et gagnent leur procès le 2 avril 1998.
 
 #### Sources :
-[Fiche Wikipédia | René Hardy](https://fr.wikipedia.org/wiki/Ren%C3%A9_Hardy)
-[Fiche Wikipédia | Beate Karlsfeld](https://fr.wikipedia.org/wiki/Beate_Klarsfeld)
-[Fiche Wikipédia | Raymond Aubrac](https://fr.wikipedia.org/wiki/Raymond_Aubrac#La_pol%C3%A9mique_autour_de_Caluire)
-[Fiche Wikipédia | Jacques Vergès](https://fr.wikipedia.org/wiki/Jacques_Verg%C3%A8s)
-[Fiche Wikipédia | Gérard Chauvy](https://fr.wikipedia.org/wiki/G%C3%A9rard_Chauvy)
-[Affaire Klaus Barbie : Jacques Vergès accuse Raymond Aubrac de trahison](https://www.dailymotion.com/video/x13765p)
+- [Fiche Wikipédia - René Hardy](https://fr.wikipedia.org/wiki/Ren%C3%A9_Hardy)
+- [Fiche Wikipédia - Beate Karlsfeld](https://fr.wikipedia.org/wiki/Beate_Klarsfeld)
+- [Fiche Wikipédia - Raymond Aubrac](https://fr.wikipedia.org/wiki/Raymond_Aubrac#La_pol%C3%A9mique_autour_de_Caluire)
+- [Fiche Wikipédia - Jacques Vergès](https://fr.wikipedia.org/wiki/Jacques_Verg%C3%A8s)
+- [Fiche Wikipédia - Gérard Chauvy](https://fr.wikipedia.org/wiki/G%C3%A9rard_Chauvy)
+- [Affaire Klaus Barbie : Jacques Vergès accuse Raymond Aubrac de trahison](https://www.dailymotion.com/video/x13765p)
