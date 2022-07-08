@@ -73,7 +73,7 @@ body{
     }
     &:hover{
       span:before{
-        transform: translate(155px, 10px) scale(0.3);
+        transform: translate(160px, 10px) scale(0.3);
         background: rgba($bleu-fonce,1);
       }
       &:active{
@@ -610,6 +610,22 @@ figure span{
 }
 
 @media (max-width: 500px) {
+  .navbar .navbar-brand{
+    margin: 0.5em 0 0 0;
+    span{
+      padding: 5px 10px;
+      font-size: 1.2em;
+    }
+    span:before{
+      width: 20px;
+      height: 20px;
+    }
+    &:hover{
+      span:before{
+        transform: translate(100px, 5px) scale(0.3);
+      }
+    }
+  }
   .category{
     letter-spacing: 0.5em;
   }
