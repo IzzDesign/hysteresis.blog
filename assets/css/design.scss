@@ -401,12 +401,16 @@ h4{
 }
 
 .list-auteurs{
-  display: flex;
-  flex-direction: column;
-  align-items:stretch;
   border-top: $bleu-clair 2px solid;
   margin-bottom: 1em;
   flex: 33%;
+  h3{
+    line-height: 1.3em;
+  }
+  a{
+    width: max-content;
+    height: 100%;
+  }
 }
 .align-center{
   display: grid;
@@ -429,6 +433,7 @@ a.profil-auteur, a.profil-index{
   justify-content: flex-start;
   gap: 15px;
   margin: 0.5em;
+  height: 50px;
   &:before{
     content: '';
     width: 40px;
