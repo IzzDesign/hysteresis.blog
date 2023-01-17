@@ -153,26 +153,26 @@ h2{
   line-height: 1.2em;
 }
 
-a h2, a h3{
+.hover-cta{
   position: relative;
   &:before{
     content: "";
     position: absolute;
-    top: 5px;
-    left: -20px;
+    top: 0px;
+    left: 0px;
     display: block;
     border-radius: 28px;
     background: rgba(#DCE9EF,1);
-    width: 40px;
-    height: 40px;
+    width: 100%;
+    height: 100%;
     z-index: -1;
     transition: all .3s ease;
   }
   &:hover{
     &:before{
-      transform: scale(0.6) translateX(-35px) rotate(320deg);
       background: rgba($rouge, 1.0);
       border-radius: 0;
+      transform: scaleY(0.3) translateY(50px);
     }
   }
 }
@@ -218,7 +218,7 @@ h4{
   letter-spacing: 0.5em;
   font-size: 0.85em;
   margin: 1em 0;
-  padding: 0.5em 0.2em;
+  padding: 0.5em 0.1em 0.5em 0.4em;
   font-weight: 600;
   transition: all cubic-bezier(.39,.3,.46,.86) 0.5s;
   display: inline-flex;
@@ -360,7 +360,6 @@ h4{
     width: fit-content;
     font-family: $font-title;
     font-size:1em;
-    margin-right: 0.5em;
     position: relative;
     &:after{
       content: '';
@@ -383,7 +382,9 @@ h4{
       &:hover{color: #000;}
     }
     &:hover:after{
-      transform: rotate(360deg) scale(1.1) translateX(-5px);
+      width: 80%;
+      height: 80%;
+      transform: rotate(180deg) scale(1.1);
       background-color: $bleu-turquoise;
       border-radius: 0;
     }
