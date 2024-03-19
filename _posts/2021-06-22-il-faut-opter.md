@@ -63,10 +63,12 @@ L’attente s’éternisait, c’est Samuel qui savait quoi faire une fois à l�
     .newspaper p{
         color: #000;
         text-align: justify;
+        font-size: 1.2em;
+        line-height: 1.3em;
     }
-    p.first{margin-top: 0.5em;}
+    p.first{margin-top: 0.7em;}
     p.first::first-letter{
-        font-size: 600%;
+        font-size: 500%;
         display:block;
         float:left;
     }
@@ -97,12 +99,12 @@ Clac, clac, clac. Les pas de la bonne dans le couloir le sortirent de sa lecture
 
 Deux autres hommes entrèrent dans la pièce et exigèrent en allemand qu’ils se lèvent et s’alignent face au mur. Ils s’exécutèrent tous, sauf Max qui se justifia :
 — Je suis ici pour une rage de dents, je peux vous montrer mon ordonnance.
-Il fit mine de soulever le pan de son manteau pour attraper un papier et l’allemand le menaça de son pistolet. Il détacha chaque mot en français avec un accent à couper au couteau :
+Il fit mine de soulever le pan de son manteau pour attraper un papier et l’allemand le menaça de son pistolet. Il détacha chaque mot en français avec un accent à couper au couteau&nbsp;:
 — Contre le mur et les mains en l’air.
 Max rejoignit Émile. En silence, ils se jetèrent un coup d’œil. Le lieutenant savait qu’étant dans la salle d’attente, ils pouvaient se faire passer pour des patients et s’en sortir. À sa droite, Samuel était étrangement calme, tandis qu’à côté de lui, l’homme au journal suait en abondance. Émile pensa avec dureté que le cinquantenaire pourrait voir de près la magnificence allemande tant encensée dans les papelards qu’il lisait. Depuis le couloir, une voix sèche de sonorité allemande résonna :
 — Vous avez une réunion illégale dans vos locaux ?
 — Non, répondit une voix masculine.
-Le claquement d’une gifle se fit entendre, puis des ordres en allemand. L’escalier craqua sous le bruit des pas de la Gestapo qui montait à l’étage. Un monsieur, qu’Émile identifia comme le médecin Dugoujon, fut poussé contre le mur avec la femme qui leur avait ouvert suivi d’une jeune fille, le visage en larmes. Cette dernière tentait de se rhabiller en fermant son chemisier. À part le claquement des talons contre le sol, l’étage était silencieux jusqu’à ce qu’un son sourd retentisse : quelque chose de lourd venait de tomber faisant vibrer le plafond. Des ordres et des coups résonnèrent dans tout l’édifice. Émile souffla avec gravité : leurs compagnons étaient déjà en haut, ils étaient tous pris au piège. Il eut envie de se retourner pour surprendre les deux soldats et leur offrir une porte de sortie, mais le chuchotement de Max l’arrêta dans son geste désespéré :
+Le claquement d’une gifle se fit entendre, puis des ordres en allemand. L’escalier craqua sous le bruit des pas de la Gestapo qui montait à l’étage. Un monsieur, qu’Émile identifia comme le médecin Dugoujon, fut poussé contre le mur avec la femme qui leur avait ouvert suivi d’une jeune fille, le visage en larmes. Cette dernière tentait de se rhabiller en fermant son chemisier. À part le claquement des talons contre le sol, l’étage était silencieux jusqu’à ce qu’un son sourd retentisse : quelque chose de lourd venait de tomber faisant vibrer le plafond. Des ordres et des coups résonnèrent dans tout l’édifice. Émile souffla avec gravité : leurs compagnons étaient déjà en haut, ils étaient tous pris au piège. Il eut envie de se retourner pour surprendre les deux soldats et leur offrir une porte de sortie, mais le chuchotement de Max l’arrêta dans son geste désespéré&nbsp;:
 — Je m’appelle Jacques Martel.
 Il fut dérouté une seconde avant de comprendre que cette information était destinée au médecin situé à la gauche de Max. Émile déglutit, Max avait raison, il fallait faire semblant, jouer les civils et espérer ne passer que quelques jours en prison, espérer que leurs faux papiers les couvriraient. On cria à l’étage :
 — Où est Max ?
