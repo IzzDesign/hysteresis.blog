@@ -167,7 +167,7 @@ Hachiko ne dit rien, seul le silence peut témoigner de sa tristesse. La dame lu
 « Elle m’a dit que vous lui avez été d’un bon conseil, qu’après vous avoir vu elle se sentait sereine.
 — C’est aussi l’image qu’elle m’a laissée. »
 
-Elles sourient toutes les deux à cette pensée. Hachiko se retourne vers la petite maison en pierre :
+Elles sourient toutes les deux à cette pensée. Hachiko se retourne vers la petite maison en pierre&nbsp;:
 
 « Que va-t-il lui arriver ?
 — Ses enfants habitent en ville. Elle sera sûrement vendue dans les mois qui viennent. »
@@ -252,7 +252,7 @@ Le saumon fond sur sa langue. Elle ferme les yeux pour apprécier les saveurs. L
 L’homme l’observe avec un certain trouble dans les yeux, elle le voit hésiter avant de se décider&nbsp;:
 
 « Si je peux me permettre… je trouve que cela est…
-— Je ne suis pas inquiète. J’ai confiance. Et quand bien même, je trouverais une solution à ce problème quand il se présentera. *Si* il se présente. » rajoute-t-elle.
+— Je ne suis pas inquiète. J’ai confiance. Et quand bien même, je trouverais une solution à ce problème quand il se présentera. *S'il* se présente. » rajoute-t-elle.
 
 Il plonge dans ses pensées. Le silence s’installe, il est paisible et elle renonce à le briser. Pourtant, il lui manque une information importante : son nom. Elle se questionne sur la manière la plus polie de lui demander, trouvant étrange de ne s'enquérir de son identité qu’après avoir mangé avec lui. C’est finalement lui qui prend la parole, observant avec insistance la ville dont le ronronnement se fait entendre dans le lointain&nbsp;:
 
