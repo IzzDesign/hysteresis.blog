@@ -185,13 +185,13 @@ Vik écarquilla les yeux. Elle sentit des gouttes de sueur lui glisser lentement
 — Ils sont là, ils sont tous là, ils en veulent à mon corps de rêve. Aide-moi !
 La voix de son amoureux la narguait depuis les enceintes du vaisseau. Il plaisantait… Elle serra les poings et mordit sa joue. Elle sentit un léger goût ferreux dans sa bouche.
 — Nick !
-Elle hurla dans le couloir pour faire retomber la pression, puis se mit à courir pour le chercher. Ses pensées se bousculaient : était-ce une blague de sa part ? Pourtant, elle l’avait vu se mutiler contre la coque du vaisseau quelques minutes plus tôt, alors en proie à une folie furieuse. Ses larmes montèrent de nouveau à ses yeux. Elle se dit qu’elle ne pourrait pas lui pardonner s’il s’agissait d’un canular. Elle courra dans les couloirs en criant le prénom de ses camarades. Seule la voix de Katia dans les haut-parleurs lui répondit :
+Elle hurla dans le couloir pour faire retomber la pression, puis se mit à courir pour le chercher. Ses pensées se bousculaient : était-ce une blague de sa part ? Pourtant, elle l’avait vu se mutiler contre la coque du vaisseau quelques minutes plus tôt, alors en proie à une folie furieuse. Ses larmes montèrent de nouveau à ses yeux : s'il s'agissait d'un canular, cette fois-ci, elle ne pourrait pas lui pardonner. Elle courra dans les couloirs en criant le prénom de ses camarades. Seule la voix de Katia dans les haut-parleurs lui répondit :
 
 – Rendez-vous sans résistance et il n’y aura pas de blessés.
 
 Elle gémit lentement en entendant la voix de Katia résonner dans le vaisseau vide. Elle continua à arpenter les couloirs. Elle trouva le hangar désert, si ce n’est la boîte si particulière qu’elle avait découverte avec Andreï. La pièce semblait inhabitée, mais elle n’osa pas faire un bruit. Le Russe ne donnait aucun signe de vie et elle partit avec hâte de cet espace oppressant.
 
-Elle se dit qu’elle devait au moins retrouver Katia dans le quartier de l’équipage. Elle voulait la rejoindre, être rassurée. Vik se raccrocha à cet espoir. Les crépitements recommencèrent et c’est sa voix qu’elle reconnut :
+Elle devait au moins retrouver Katia dans le quartier de l’équipage. Elle voulait la rejoindre, être rassurée. Vik se raccrocha à cet espoir. Les crépitements recommencèrent et c’est sa voix qu’elle reconnut :
 — Ici le *Chuzhak* nous avons reçu votre message de détresse.
 Elle se mit à courir au hasard, posant ses mains sur ses oreilles.
 — Il y a quelqu’un à bord ?
